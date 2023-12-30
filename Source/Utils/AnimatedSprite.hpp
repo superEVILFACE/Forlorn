@@ -1,7 +1,7 @@
 #ifndef _ANIMATEDSPRITE_H
 #define _ANIMATEDSPRITE_H
 
-#include <forlorn.h>
+#include <axmol.h>
  
 class AnimatedSprite : public ax::Sprite
 { 

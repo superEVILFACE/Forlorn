@@ -1,4 +1,6 @@
-#include <forlorn.h>
+#include "GameSoundManager.hpp"
+#include "audio/AudioEngine.h"
+
 USING_NS_AX;
 
 static GameSoundManager* s_SharedManager = nullptr;

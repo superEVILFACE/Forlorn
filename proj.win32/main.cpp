@@ -23,7 +23,7 @@
  ****************************************************************************/
 
 #include "main.h"
-#include "forlorn.h"
+#include "AppDelegate.hpp"
 
 USING_NS_AX;
 

@@ -1,6 +1,6 @@
-#include <forlorn.h>
 #include "LoadingScene.hpp"
 #include "MenuScene.hpp"
+#include "Utils/ForlornUtils.hpp"
 
 USING_NS_AX;
 
@@ -31,7 +31,7 @@ constexpr static auto fonts = std::to_array<const char*>({
 
 void LoadingScene::loadAssets() {
     for(auto font : fonts) {
-        FontFNT::create(font);
+        ForlornUtils::getFont(font);
     }
 }
 

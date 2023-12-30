@@ -1,7 +1,7 @@
 #ifndef __GAMESOUND_MANAGER_H__
 #define __GAMESOUND_MANAGER_H__
 
-#include <forlorn.h>
+#include <axmol.h>
 
 class GameSoundManager : public ax::Node
 {   

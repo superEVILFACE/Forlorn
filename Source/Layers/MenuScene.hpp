@@ -1,6 +1,6 @@
 #ifndef __MENUSCENE_H__
 #define __MENUSCENE_H__
-#include <forlorn.h>
+#include <axmol.h>
 
 class MenuScene : public ax::Scene
 {   

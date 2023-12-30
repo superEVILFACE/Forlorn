@@ -1,7 +1,10 @@
-#include <forlorn.h>
 #include "MenuScene.hpp"
 #include "MenuGameScene.hpp"
 #include "SaveSelectScene.hpp"
+#include "Utils/ForlornUtils.hpp"
+
+#include <audio/AudioEngine.h>
+
 
 USING_NS_AX;
 
@@ -25,16 +28,18 @@ bool MenuScene::init()
     this->addChild(gameScene);
 
     auto logo = Sprite::create("forlorn_logo_menu.png");
-    logo->setPosition(Vec2(forlorn::getCenterPoint().x, 545));
+    logo->setPosition(Vec2(ForlornUtils::getCenter().x, 545));
     this->addChild(logo);
 
     SpriteFrameCache::getInstance()->addSpriteFramesWithFile("MenuSheet.plist");
     auto play = Sprite::createWithSpriteFrameName("play_btn.png");
-    auto playBtn = MenuItemSprite::create(play, play, AX_CALLBACK_1(MenuScene::onPlay, this));
-    playBtn->setPosition(Vec2(forlorn::getCenterPoint().x, 200));
+    auto playSelected = Sprite::createWithSpriteFrameName("play_btn.png");
+    playSelected->setOpacity(200);
+    auto playBtn = MenuItemSprite::create(play, playSelected, AX_CALLBACK_1(MenuScene::onPlay, this));
+    playBtn->setPosition(Vec2(ForlornUtils::getCenter().x, 200));
 
     auto menu = Menu::create();
-    menu->setPosition(Vec2(0,0));
+    menu->setPosition(Vec2::ZERO);
     menu->addChild(playBtn);
     this->addChild(menu);
     scheduleUpdate();

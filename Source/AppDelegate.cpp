@@ -23,8 +23,9 @@
  THE SOFTWARE.
  ****************************************************************************/
 
-#include "forlorn.h"
+#include <axmol.h>
 #include "Layers/MenuScene.hpp"
+#include "AppDelegate.hpp"
 
 #define USE_AUDIO_ENGINE 1
 

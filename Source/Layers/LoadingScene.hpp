@@ -1,6 +1,7 @@
 #ifndef __LOADINGSCENE_H__
 #define __LOADINGSCENE_H__
-#include <forlorn.h>
+
+#include "axmol.h"
 
 class LoadingScene : public ax::Scene
 {   
