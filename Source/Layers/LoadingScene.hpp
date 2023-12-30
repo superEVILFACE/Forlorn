@@ -8,6 +8,7 @@ class LoadingScene : public ax::Scene
     public:
         static LoadingScene* create();
         bool init() override;
+        void update(float dt) override;
         void loadAssets();
         void loadingFinished();
 };

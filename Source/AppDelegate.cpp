@@ -24,7 +24,7 @@
  ****************************************************************************/
 
 #include <axmol.h>
-#include "Layers/MenuScene.hpp"
+#include "Layers/LoadingScene.hpp"
 #include "AppDelegate.hpp"
 
 #define USE_AUDIO_ENGINE 1
@@ -98,7 +98,7 @@ bool AppDelegate::applicationDidFinishLaunching()
     }
 
     // create a scene. it's an autorelease object
-    auto scene = utils::createInstance<MenuScene>();
+    auto scene = utils::createInstance<LoadingScene>();
 
     // run
     director->runWithScene(scene);
