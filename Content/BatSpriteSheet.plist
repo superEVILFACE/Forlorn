@@ -7,431 +7,431 @@
 		<key>Bat_death_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,224},{50,32}}</string>
+			<string>{{200,230},{97,63}}</string>
 			<key>offset</key>
-			<string>{0,2}</string>
+			<string>{1,4}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{3,80},{50,32}}</string>
+			<string>{{8,160},{97,63}}</string>
 			<key>sourceSize</key>
-			<string>{56,196}</string>
+			<string>{111,391}</string>
 		</dict>
 		<key>Bat_death_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{200,0},{54,32}}</string>
+			<string>{{249,50},{105,61}}</string>
 			<key>offset</key>
-			<string>{1,1}</string>
+			<string>{3,1}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{2,81},{54,32}}</string>
+			<string>{{6,164},{105,61}}</string>
 			<key>sourceSize</key>
-			<string>{56,196}</string>
+			<string>{111,391}</string>
 		</dict>
 		<key>Bat_death_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{177,66},{44,30}}</string>
+			<string>{{451,136},{85,59}}</string>
 			<key>offset</key>
-			<string>{1,-6}</string>
+			<string>{2,-12}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{7,89},{44,30}}</string>
+			<string>{{15,178},{85,59}}</string>
 			<key>sourceSize</key>
-			<string>{56,196}</string>
+			<string>{111,391}</string>
 		</dict>
 		<key>Bat_death_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{51,223},{32,34}}</string>
+			<string>{{388,311},{59,67}}</string>
 			<key>offset</key>
-			<string>{4,-11}</string>
+			<string>{9,-22}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{16,92},{32,34}}</string>
+			<string>{{35,184},{59,67}}</string>
 			<key>sourceSize</key>
-			<string>{56,196}</string>
+			<string>{111,391}</string>
 		</dict>
 		<key>Bat_death_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{208,66},{28,40}}</string>
+			<string>{{151,403},{53,77}}</string>
 			<key>offset</key>
-			<string>{0,-21}</string>
+			<string>{1,-42}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{14,99},{28,40}}</string>
+			<string>{{30,199},{53,77}}</string>
 			<key>sourceSize</key>
-			<string>{56,196}</string>
+			<string>{111,391}</string>
 		</dict>
 		<key>Bat_death_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{208,95},{30,24}}</string>
+			<string>{{282,323},{57,47}}</string>
 			<key>offset</key>
-			<string>{1,-36}</string>
+			<string>{2,-72}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{14,122},{30,24}}</string>
+			<string>{{29,244},{57,47}}</string>
 			<key>sourceSize</key>
-			<string>{56,196}</string>
+			<string>{111,391}</string>
 		</dict>
 		<key>Bat_death_007.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{185,111},{28,22}}</string>
+			<string>{{456,311},{53,43}}</string>
 			<key>offset</key>
-			<string>{-2,-49}</string>
+			<string>{-4,-98}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{12,136},{28,22}}</string>
+			<string>{{25,272},{53,43}}</string>
 			<key>sourceSize</key>
-			<string>{56,196}</string>
+			<string>{111,391}</string>
 		</dict>
 		<key>Bat_death_008.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{208,120},{22,26}}</string>
+			<string>{{456,355},{43,51}}</string>
 			<key>offset</key>
-			<string>{-2,-71}</string>
+			<string>{-4,-141}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{15,156},{22,26}}</string>
+			<string>{{30,311},{43,51}}</string>
 			<key>sourceSize</key>
-			<string>{56,196}</string>
+			<string>{111,391}</string>
 		</dict>
 		<key>Bat_death_009.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,27},{14,16}}</string>
+			<string>{{355,50},{25,29}}</string>
 			<key>offset</key>
-			<string>{-2,-90}</string>
+			<string>{-4,-181}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{19,180},{14,16}}</string>
+			<string>{{39,362},{25,29}}</string>
 			<key>sourceSize</key>
-			<string>{56,196}</string>
+			<string>{111,391}</string>
 		</dict>
 		<key>Bat_fly_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,66},{32,52}}</string>
+			<string>{{118,126},{61,101}}</string>
 			<key>offset</key>
-			<string>{-1,10}</string>
+			<string>{-1,21}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{16,0},{32,52}}</string>
+			<string>{{34,0},{61,101}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>Bat_fly_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{91,66},{46,46}}</string>
+			<string>{{0,246},{89,91}}</string>
 			<key>offset</key>
-			<string>{-1,9}</string>
+			<string>{-1,18}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{9,4},{46,46}}</string>
+			<string>{{20,8},{89,91}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>Bat_fly_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{123,27},{60,38}}</string>
+			<string>{{0,51},{117,75}}</string>
 			<key>offset</key>
-			<string>{0,5}</string>
+			<string>{1,11}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{3,12},{60,38}}</string>
+			<string>{{8,23},{117,75}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>Bat_fly_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{67,0},{66,26}}</string>
+			<string>{{261,0},{129,49}}</string>
 			<key>offset</key>
-			<string>{0,-1}</string>
+			<string>{-1,-2}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,24},{66,26}}</string>
+			<string>{{0,49},{129,49}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>Bat_fly_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{137,160},{38,44}}</string>
+			<string>{{0,412},{75,87}}</string>
 			<key>offset</key>
-			<string>{0,-10}</string>
+			<string>{0,-19}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{14,24},{38,44}}</string>
+			<string>{{28,47},{75,87}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>Bat_fly_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{110,113},{46,36}}</string>
+			<string>{{192,294},{89,69}}</string>
 			<key>offset</key>
-			<string>{0,-6}</string>
+			<string>{0,-12}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{10,24},{46,36}}</string>
+			<string>{{21,49},{89,69}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>Bat_fly_007.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{33,66},{50,28}}</string>
+			<string>{{100,188},{99,55}}</string>
 			<key>offset</key>
-			<string>{0,-3}</string>
+			<string>{0,-6}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{8,25},{50,28}}</string>
+			<string>{{16,50},{99,55}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>Bat_fly_008.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{32,119},{50,30}}</string>
+			<string>{{351,136},{99,59}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,1}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{8,21},{50,30}}</string>
+			<string>{{16,41},{99,59}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>FireBat_fly_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{199,33},{32,52}}</string>
+			<string>{{249,112},{61,101}}</string>
 			<key>offset</key>
-			<string>{-1,10}</string>
+			<string>{-1,21}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{16,0},{32,52}}</string>
+			<string>{{34,0},{61,101}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>FireBat_fly_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{63,116},{46,46}}</string>
+			<string>{{100,244},{89,91}}</string>
 			<key>offset</key>
-			<string>{-1,9}</string>
+			<string>{-1,18}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{9,4},{46,46}}</string>
+			<string>{{20,8},{89,91}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>FireBat_fly_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{62,27},{60,38}}</string>
+			<string>{{131,50},{117,75}}</string>
 			<key>offset</key>
-			<string>{0,5}</string>
+			<string>{1,10}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{3,12},{60,38}}</string>
+			<string>{{8,24},{117,75}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
+			<string>{131,143}</string>
 		</dict>
 		<key>FireBat_fly_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{66,26}}</string>
+			<string>{{131,0},{129,49}}</string>
+			<key>offset</key>
+			<string>{-1,-2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,49},{129,49}}</string>
+			<key>sourceSize</key>
+			<string>{131,143}</string>
+		</dict>
+		<key>FireBat_fly_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,336},{75,87}}</string>
+			<key>offset</key>
+			<string>{0,-19}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{28,47},{75,87}}</string>
+			<key>sourceSize</key>
+			<string>{131,143}</string>
+		</dict>
+		<key>FireBat_fly_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{298,253},{89,69}}</string>
+			<key>offset</key>
+			<string>{0,-12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21,49},{89,69}}</string>
+			<key>sourceSize</key>
+			<string>{131,143}</string>
+		</dict>
+		<key>FireBat_fly_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{220,174},{99,55}}</string>
+			<key>offset</key>
+			<string>{0,-6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16,50},{99,55}}</string>
+			<key>sourceSize</key>
+			<string>{131,143}</string>
+		</dict>
+		<key>FireBat_fly_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,186},{99,59}}</string>
+			<key>offset</key>
+			<string>{0,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16,41},{99,59}}</string>
+			<key>sourceSize</key>
+			<string>{131,143}</string>
+		</dict>
+		<key>FrostBat_fly_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385,75},{60,102}}</string>
+			<key>offset</key>
+			<string>{0,21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{35,0},{60,102}}</string>
+			<key>sourceSize</key>
+			<string>{130,144}</string>
+		</dict>
+		<key>FrostBat_fly_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{419,222},{88,92}}</string>
+			<key>offset</key>
+			<string>{-1,18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20,8},{88,92}}</string>
+			<key>sourceSize</key>
+			<string>{130,144}</string>
+		</dict>
+		<key>FrostBat_fly_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391,0},{118,74}}</string>
+			<key>offset</key>
+			<string>{1,10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7,25},{118,74}}</string>
+			<key>sourceSize</key>
+			<string>{130,144}</string>
+		</dict>
+		<key>FrostBat_fly_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{130,50}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,24},{66,26}}</string>
+			<string>{{0,48},{130,50}}</string>
 			<key>sourceSize</key>
-			<string>{66,72}</string>
-		</dict>
-		<key>FireBat_fly_005.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{138,66},{38,44}}</string>
-			<key>offset</key>
-			<string>{0,-10}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{14,24},{38,44}}</string>
-			<key>sourceSize</key>
-			<string>{66,72}</string>
-		</dict>
-		<key>FireBat_fly_006.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{132,210},{46,36}}</string>
-			<key>offset</key>
-			<string>{0,-6}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{10,24},{46,36}}</string>
-			<key>sourceSize</key>
-			<string>{66,72}</string>
-		</dict>
-		<key>FireBat_fly_007.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{62,170},{50,28}}</string>
-			<key>offset</key>
-			<string>{0,-3}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{8,25},{50,28}}</string>
-			<key>sourceSize</key>
-			<string>{66,72}</string>
-		</dict>
-		<key>FireBat_fly_008.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{31,172},{50,30}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{8,21},{50,30}}</string>
-			<key>sourceSize</key>
-			<string>{66,72}</string>
-		</dict>
-		<key>FrostBat_fly_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,119},{31,52}}</string>
-			<key>offset</key>
-			<string>{0,10}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{17,0},{31,52}}</string>
-			<key>sourceSize</key>
-			<string>{65,72}</string>
-		</dict>
-		<key>FrostBat_fly_002.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{91,163},{45,46}}</string>
-			<key>offset</key>
-			<string>{-1,9}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{9,4},{45,46}}</string>
-			<key>sourceSize</key>
-			<string>{65,72}</string>
-		</dict>
-		<key>FrostBat_fly_003.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,27},{61,38}}</string>
-			<key>offset</key>
-			<string>{0,5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{2,12},{61,38}}</string>
-			<key>sourceSize</key>
-			<string>{65,72}</string>
-		</dict>
-		<key>FrostBat_fly_004.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{134,0},{65,26}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,23},{65,26}}</string>
-			<key>sourceSize</key>
-			<string>{65,72}</string>
+			<string>{130,144}</string>
 		</dict>
 		<key>FrostBat_fly_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{147,111},{37,44}}</string>
+			<string>{{76,412},{74,86}}</string>
 			<key>offset</key>
-			<string>{0,-9}</string>
+			<string>{0,-19}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{14,23},{37,44}}</string>
+			<string>{{28,48},{74,86}}</string>
 			<key>sourceSize</key>
-			<string>{65,72}</string>
+			<string>{130,144}</string>
 		</dict>
 		<key>FrostBat_fly_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{86,221},{45,34}}</string>
+			<string>{{92,334},{88,68}}</string>
+			<key>offset</key>
+			<string>{0,-12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21,50},{88,68}}</string>
+			<key>sourceSize</key>
+			<string>{130,144}</string>
+		</dict>
+		<key>FrostBat_fly_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{320,196},{98,56}}</string>
 			<key>offset</key>
 			<string>{0,-6}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{10,25},{45,34}}</string>
+			<string>{{16,50},{98,56}}</string>
 			<key>sourceSize</key>
-			<string>{65,72}</string>
-		</dict>
-		<key>FrostBat_fly_007.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{62,66},{49,28}}</string>
-			<key>offset</key>
-			<string>{0,-3}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{8,25},{49,28}}</string>
-			<key>sourceSize</key>
-			<string>{65,72}</string>
+			<string>{130,144}</string>
 		</dict>
 		<key>FrostBat_fly_008.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,172},{51,30}}</string>
+			<string>{{0,127},{100,58}}</string>
 			<key>offset</key>
 			<string>{0,1}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{7,20},{51,30}}</string>
+			<string>{{15,42},{100,58}}</string>
 			<key>sourceSize</key>
-			<string>{65,72}</string>
+			<string>{130,144}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -441,9 +441,9 @@
 		<key>realTextureFileName</key>
 		<string>BatSpriteSheet.png</string>
 		<key>size</key>
-		<string>{254,256}</string>
+		<string>{511,499}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:a0d0a2912f5775d3bbddfe3e3ac14d27$</string>
+		<string>$TexturePacker:SmartUpdate:1c888815f14539aa5809ec3441c5d7ce$</string>
 		<key>textureFileName</key>
 		<string>BatSpriteSheet.png</string>
 	</dict>

@@ -7,41 +7,41 @@
 		<key>StoneFish_Head_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,38},{42,38}}</string>
+			<string>{{2,72},{84,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{42,38}}</string>
+			<string>{{0,0},{84,76}}</string>
 			<key>sourceSize</key>
-			<string>{42,38}</string>
+			<string>{84,76}</string>
 		</dict>
 		<key>StoneFish_Jaw_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,2},{44,34}}</string>
+			<string>{{2,2},{88,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{44,34}}</string>
+			<string>{{0,0},{88,68}}</string>
 			<key>sourceSize</key>
-			<string>{44,34}</string>
+			<string>{88,68}</string>
 		</dict>
 		<key>StoneFish_Tail_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,78},{24,26}}</string>
+			<string>{{2,150},{48,52}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{24,26}}</string>
+			<string>{{0,0},{48,52}}</string>
 			<key>sourceSize</key>
-			<string>{24,26}</string>
+			<string>{48,52}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -51,9 +51,9 @@
 		<key>realTextureFileName</key>
 		<string>StoneFish_Sheet.png</string>
 		<key>size</key>
-		<string>{64,128}</string>
+		<string>{128,256}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:2cdec2f1b67f29f8d811db6fbe6853ec$</string>
+		<string>$TexturePacker:SmartUpdate:3d8461cdd140a37e1e31d6eee87168ba$</string>
 		<key>textureFileName</key>
 		<string>StoneFish_Sheet.png</string>
 	</dict>

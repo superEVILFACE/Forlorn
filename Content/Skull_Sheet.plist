@@ -7,158 +7,158 @@
 		<key>FireSkull_head_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{31,2},{26,27}}</string>
+			<string>{{2,58},{51,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{26,27}}</string>
+			<string>{{0,0},{51,54}}</string>
 			<key>sourceSize</key>
-			<string>{26,27}</string>
+			<string>{51,54}</string>
 		</dict>
 		<key>FireSkull_jaw_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{29,42},{18,10}}</string>
+			<string>{{70,99},{35,20}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{18,10}}</string>
+			<string>{{0,0},{35,20}}</string>
 			<key>sourceSize</key>
-			<string>{18,10}</string>
+			<string>{35,20}</string>
 		</dict>
 		<key>FireSkull_strap_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{49,44},{5,13}}</string>
+			<string>{{58,99},{10,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{5,13}}</string>
+			<string>{{0,0},{10,26}}</string>
 			<key>sourceSize</key>
-			<string>{5,13}</string>
+			<string>{10,26}</string>
 		</dict>
 		<key>FireSkull_tongue_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,57},{14,9}}</string>
+			<string>{{110,32},{28,16}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,-1}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{14,9}}</string>
+			<string>{{0,2},{28,16}}</string>
 			<key>sourceSize</key>
-			<string>{14,9}</string>
+			<string>{28,18}</string>
 		</dict>
 		<key>FrostSkull_head_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,2},{26,27}}</string>
+			<string>{{2,2},{51,54}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{26,27}}</string>
+			<string>{{0,0},{51,54}}</string>
 			<key>sourceSize</key>
-			<string>{26,27}</string>
+			<string>{51,54}</string>
 		</dict>
 		<key>FrostSkull_jaw_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{29,30},{18,10}}</string>
+			<string>{{55,62},{35,20}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{18,10}}</string>
+			<string>{{0,0},{35,20}}</string>
 			<key>sourceSize</key>
-			<string>{18,10}</string>
+			<string>{35,20}</string>
 		</dict>
 		<key>FrostSkull_strap_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{49,37},{5,13}}</string>
+			<string>{{30,114},{10,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{5,13}}</string>
+			<string>{{0,0},{10,26}}</string>
 			<key>sourceSize</key>
-			<string>{5,13}</string>
+			<string>{10,26}</string>
 		</dict>
 		<key>FrostSkull_tongue_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,57},{14,9}}</string>
+			<string>{{110,32},{28,16}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,-1}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{14,9}}</string>
+			<string>{{0,2},{28,16}}</string>
 			<key>sourceSize</key>
-			<string>{14,9}</string>
+			<string>{28,18}</string>
 		</dict>
 		<key>Skull_head_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,30},{25,25}}</string>
+			<string>{{58,2},{50,50}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{25,25}}</string>
+			<string>{{0,0},{50,50}}</string>
 			<key>sourceSize</key>
-			<string>{25,25}</string>
+			<string>{50,50}</string>
 		</dict>
 		<key>Skull_jaw_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{49,51},{16,10}}</string>
+			<string>{{77,62},{32,20}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{16,10}}</string>
+			<string>{{0,0},{32,20}}</string>
 			<key>sourceSize</key>
-			<string>{16,10}</string>
+			<string>{32,20}</string>
 		</dict>
 		<key>Skull_strap_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{49,30},{5,13}}</string>
+			<string>{{2,114},{10,26}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{5,13}}</string>
+			<string>{{0,0},{10,26}}</string>
 			<key>sourceSize</key>
-			<string>{5,13}</string>
+			<string>{10,26}</string>
 		</dict>
 		<key>Skull_tongue_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{29,54},{14,9}}</string>
+			<string>{{110,2},{28,16}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,-1}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{14,9}}</string>
+			<string>{{0,2},{28,16}}</string>
 			<key>sourceSize</key>
-			<string>{14,9}</string>
+			<string>{28,18}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -168,9 +168,9 @@
 		<key>realTextureFileName</key>
 		<string>Skull_Sheet.png</string>
 		<key>size</key>
-		<string>{64,69}</string>
+		<string>{128,127}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:8617909250a22e3fb21a3272be0f1608$</string>
+		<string>$TexturePacker:SmartUpdate:003c8e20c907238d14f0048230d28789$</string>
 		<key>textureFileName</key>
 		<string>Skull_Sheet.png</string>
 	</dict>

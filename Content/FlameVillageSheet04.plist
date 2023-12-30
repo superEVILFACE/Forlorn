@@ -7,1029 +7,1029 @@
 		<key>st_vl_flame_evil_chain_rack.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{495,962},{86,26}}</string>
+			<string>{{1119,1443},{171,52}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{86,26}}</string>
+			<string>{{0,0},{171,52}}</string>
 			<key>sourceSize</key>
-			<string>{86,26}</string>
+			<string>{171,52}</string>
 		</dict>
 		<key>st_vl_flame_evil_horn_dark.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{851,653},{29,20}}</string>
+			<string>{{1451,1793},{58,38}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,1}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{29,20}}</string>
+			<string>{{0,0},{58,38}}</string>
 			<key>sourceSize</key>
-			<string>{29,20}</string>
+			<string>{58,40}</string>
 		</dict>
 		<key>st_vl_flame_evil_horn_light.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{609,751},{29,20}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{29,20}}</string>
-			<key>sourceSize</key>
-			<string>{29,20}</string>
-		</dict>
-		<key>st_vl_flame_evil_platform.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{340,962},{154,27}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{154,27}}</string>
-			<key>sourceSize</key>
-			<string>{154,27}</string>
-		</dict>
-		<key>st_vl_flame_evil_platform_small.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{875,367},{26,86}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{26,86}}</string>
-			<key>sourceSize</key>
-			<string>{26,86}</string>
-		</dict>
-		<key>st_vl_flame_evil_pole.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{119,779},{13,102}}</string>
+			<string>{{1437,1864},{58,38}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{13,102}}</string>
+			<string>{{0,2},{58,38}}</string>
 			<key>sourceSize</key>
-			<string>{13,104}</string>
+			<string>{58,40}</string>
+		</dict>
+		<key>st_vl_flame_evil_platform.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{630,1501},{308,54}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{308,54}}</string>
+			<key>sourceSize</key>
+			<string>{308,54}</string>
+		</dict>
+		<key>st_vl_flame_evil_platform_small.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{621,1707},{52,172}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{52,172}}</string>
+			<key>sourceSize</key>
+			<string>{52,172}</string>
+		</dict>
+		<key>st_vl_flame_evil_pole.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{410,1557},{25,202}}</string>
+			<key>offset</key>
+			<string>{0,-3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,6},{25,202}}</string>
+			<key>sourceSize</key>
+			<string>{25,208}</string>
 		</dict>
 		<key>st_vl_flame_evil_spike.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,953},{23,35}}</string>
+			<string>{{1405,1793},{45,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{23,35}}</string>
+			<string>{{0,0},{45,70}}</string>
 			<key>sourceSize</key>
-			<string>{23,35}</string>
+			<string>{45,70}</string>
 		</dict>
 		<key>st_vl_flame_evil_trap_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{824,989},{35,93}}</string>
+			<string>{{1334,1485},{70,184}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,1},{35,93}}</string>
+			<string>{{0,3},{70,184}}</string>
 			<key>sourceSize</key>
-			<string>{35,95}</string>
+			<string>{70,190}</string>
 		</dict>
 		<key>st_vl_flame_evil_trap_2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{613,989},{34,97}}</string>
+			<string>{{1141,1496},{68,192}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,1},{34,97}}</string>
+			<string>{{0,3},{68,192}}</string>
 			<key>sourceSize</key>
-			<string>{34,99}</string>
+			<string>{68,198}</string>
 		</dict>
 		<key>st_vl_flame_plaster_brick_large.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{733,0},{181,72}}</string>
+			<string>{{455,308},{361,144}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{181,72}}</string>
+			<string>{{0,0},{361,144}}</string>
 			<key>sourceSize</key>
-			<string>{181,72}</string>
+			<string>{361,144}</string>
 		</dict>
 		<key>st_vl_flame_plaster_brick_medium.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{803,190},{126,67}}</string>
+			<string>{{1310,0},{251,133}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{126,67}}</string>
+			<string>{{0,0},{251,133}}</string>
 			<key>sourceSize</key>
-			<string>{126,67}</string>
+			<string>{251,133}</string>
 		</dict>
 		<key>st_vl_flame_plaster_brick_small.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{711,989},{112,29}}</string>
+			<string>{{1291,1427},{224,57}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{112,29}}</string>
+			<string>{{0,0},{224,57}}</string>
 			<key>sourceSize</key>
-			<string>{112,29}</string>
+			<string>{224,57}</string>
 		</dict>
 		<key>st_vl_flame_plaster_crack_large_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,816},{137,136}}</string>
+			<string>{{351,1707},{273,269}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,1}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{137,136}}</string>
+			<string>{{0,0},{273,269}}</string>
 			<key>sourceSize</key>
-			<string>{137,136}</string>
+			<string>{273,271}</string>
 		</dict>
 		<key>st_vl_flame_plaster_crack_large_2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{916,629},{100,146}}</string>
+			<string>{{760,453},{200,292}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{100,146}}</string>
+			<string>{{0,0},{200,292}}</string>
 			<key>sourceSize</key>
-			<string>{100,146}</string>
+			<string>{200,292}</string>
 		</dict>
 		<key>st_vl_flame_plaster_crack_side_large.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{733,345},{58,117}}</string>
+			<string>{{767,1190},{116,233}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{58,117}}</string>
+			<string>{{0,0},{116,233}}</string>
 			<key>sourceSize</key>
-			<string>{58,117}</string>
+			<string>{116,233}</string>
 		</dict>
 		<key>st_vl_flame_plaster_crack_side_small_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{341,585},{63,53}}</string>
+			<string>{{1153,1061},{125,105}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{63,53}}</string>
+			<string>{{0,0},{125,105}}</string>
 			<key>sourceSize</key>
-			<string>{63,53}</string>
+			<string>{125,105}</string>
 		</dict>
 		<key>st_vl_flame_plaster_crack_side_small_2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{341,524},{60,58}}</string>
+			<string>{{1267,1167},{119,115}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{60,58}}</string>
+			<string>{{0,0},{119,115}}</string>
 			<key>sourceSize</key>
-			<string>{60,58}</string>
+			<string>{119,115}</string>
 		</dict>
 		<key>st_vl_flame_plaster_crack_small_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{791,576},{76,78}}</string>
+			<string>{{911,1307},{151,156}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{76,78}}</string>
+			<string>{{0,0},{151,156}}</string>
 			<key>sourceSize</key>
-			<string>{76,78}</string>
+			<string>{151,156}</string>
 		</dict>
 		<key>st_vl_flame_plaster_crack_small_2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{806,847},{73,60}}</string>
+			<string>{{946,746},{146,119}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{73,60}}</string>
+			<string>{{0,0},{146,119}}</string>
 			<key>sourceSize</key>
-			<string>{73,60}</string>
+			<string>{146,119}</string>
 		</dict>
 		<key>st_vl_flame_pushable.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{918,953},{106,70}}</string>
+			<string>{{938,873},{211,140}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{106,70}}</string>
+			<string>{{0,0},{211,140}}</string>
 			<key>sourceSize</key>
-			<string>{106,70}</string>
+			<string>{211,140}</string>
 		</dict>
 		<key>vg_vl_flame_ground_grass_bg.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{176,793},{441,58}}</string>
+			<string>{{351,1591},{882,115}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{441,58}}</string>
+			<string>{{0,0},{882,115}}</string>
 			<key>sourceSize</key>
-			<string>{441,58}</string>
+			<string>{882,115}</string>
 		</dict>
 		<key>vl_flame_banner_cloth_red.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{733,463},{53,102}}</string>
+			<string>{{562,1216},{105,204}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{53,102}}</string>
+			<string>{{0,0},{105,204}}</string>
 			<key>sourceSize</key>
-			<string>{53,102}</string>
+			<string>{105,204}</string>
 		</dict>
 		<key>vl_flame_banner_spears.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{340,852},{109,190}}</string>
+			<string>{{954,1707},{217,379}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{109,190}}</string>
+			<string>{{0,0},{217,379}}</string>
 			<key>sourceSize</key>
-			<string>{109,190}</string>
+			<string>{217,379}</string>
 		</dict>
 		<key>vl_flame_flowers_tulips_purple.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,186},{92,35}}</string>
+			<string>{{1350,1556},{183,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{92,35}}</string>
+			<string>{{0,0},{183,70}}</string>
 			<key>sourceSize</key>
-			<string>{92,35}</string>
+			<string>{183,70}</string>
 		</dict>
 		<key>vl_flame_flowers_tulips_red.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,93},{92,35}}</string>
+			<string>{{1334,1693},{183,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{92,35}}</string>
+			<string>{{0,0},{183,70}}</string>
 			<key>sourceSize</key>
-			<string>{92,35}</string>
+			<string>{183,70}</string>
 		</dict>
 		<key>vl_flame_flowers_tulips_yellow.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,0},{92,35}}</string>
+			<string>{{1516,1409},{183,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{92,35}}</string>
+			<string>{{0,0},{183,70}}</string>
 			<key>sourceSize</key>
-			<string>{92,35}</string>
+			<string>{183,70}</string>
 		</dict>
 		<key>vl_flame_fruit_apples.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{513,751},{52,18}}</string>
+			<string>{{1599,1480},{103,35}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{52,18}}</string>
+			<string>{{0,0},{103,35}}</string>
 			<key>sourceSize</key>
-			<string>{52,18}</string>
+			<string>{103,35}</string>
 		</dict>
 		<key>vl_flame_fruit_bananas.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{954,776},{51,24}}</string>
+			<string>{{1334,1877},{102,47}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{51,24}}</string>
+			<string>{{0,0},{102,47}}</string>
 			<key>sourceSize</key>
-			<string>{51,24}</string>
+			<string>{102,47}</string>
 		</dict>
 		<key>vl_flame_fruit_blueberries.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{560,770},{48,17}}</string>
+			<string>{{842,1556},{96,33}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{48,17}}</string>
+			<string>{{0,0},{96,33}}</string>
 			<key>sourceSize</key>
-			<string>{48,17}</string>
+			<string>{96,33}</string>
 		</dict>
 		<key>vl_flame_fruit_grape.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{460,776},{46,16}}</string>
+			<string>{{401,889},{92,31}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{46,16}}</string>
+			<string>{{0,0},{92,31}}</string>
 			<key>sourceSize</key>
-			<string>{46,16}</string>
+			<string>{92,31}</string>
 		</dict>
 		<key>vl_flame_fruit_oranges.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{507,770},{52,18}}</string>
+			<string>{{1015,1464},{103,35}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{52,18}}</string>
+			<string>{{0,0},{103,35}}</string>
 			<key>sourceSize</key>
-			<string>{52,18}</string>
+			<string>{103,35}</string>
 		</dict>
 		<key>vl_flame_fruit_strawberries.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{531,937},{48,17}}</string>
+			<string>{{613,1557},{96,33}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{48,17}}</string>
+			<string>{{0,0},{96,33}}</string>
 			<key>sourceSize</key>
-			<string>{48,17}</string>
+			<string>{96,33}</string>
 		</dict>
 		<key>vl_flame_fruit_tomatoes.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{460,751},{52,18}}</string>
+			<string>{{911,1464},{103,35}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{52,18}}</string>
+			<string>{{0,0},{103,35}}</string>
 			<key>sourceSize</key>
-			<string>{52,18}</string>
+			<string>{103,35}</string>
 		</dict>
 		<key>vl_flame_goatskull_bonel.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,618},{40,32}}</string>
+			<string>{{1350,1627},{79,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{40,32}}</string>
+			<string>{{0,0},{79,63}}</string>
 			<key>sourceSize</key>
-			<string>{40,32}</string>
+			<string>{79,63}</string>
 		</dict>
 		<key>vl_flame_goatskull_metal.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,585},{40,32}}</string>
+			<string>{{1519,1480},{79,63}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{40,32}}</string>
+			<string>{{0,0},{79,63}}</string>
 			<key>sourceSize</key>
-			<string>{40,32}</string>
+			<string>{79,63}</string>
 		</dict>
 		<key>vl_flame_lantern_chain.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{222,779},{8,73}}</string>
+			<string>{{954,2030},{15,146}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{8,73}}</string>
+			<string>{{0,0},{15,146}}</string>
 			<key>sourceSize</key>
-			<string>{8,73}</string>
+			<string>{15,146}</string>
 		</dict>
 		<key>vl_flame_lantern_green.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{899,776},{23,54}}</string>
+			<string>{{1472,1362},{46,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{23,54}}</string>
+			<string>{{0,0},{46,108}}</string>
 			<key>sourceSize</key>
-			<string>{23,54}</string>
+			<string>{46,108}</string>
 		</dict>
 		<key>vl_flame_lantern_hanger_front.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{201,437},{17,66}}</string>
+			<string>{{710,1556},{34,131}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{17,66}}</string>
+			<string>{{0,0},{34,131}}</string>
 			<key>sourceSize</key>
-			<string>{17,66}</string>
+			<string>{34,131}</string>
 		</dict>
 		<key>vl_flame_lantern_hanger_side.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{733,566},{82,57}}</string>
+			<string>{{988,1061},{164,114}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{164,114}}</string>
+			<key>sourceSize</key>
+			<string>{164,114}</string>
+		</dict>
+		<key>vl_flame_lantern_purple.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1047,1014},{46,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{82,57}}</string>
+			<string>{{0,0},{46,108}}</string>
 			<key>sourceSize</key>
-			<string>{82,57}</string>
-		</dict>
-		<key>vl_flame_lantern_purple.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{875,761},{23,54}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{23,54}}</string>
-			<key>sourceSize</key>
-			<string>{23,54}</string>
+			<string>{46,108}</string>
 		</dict>
 		<key>vl_flame_lantern_red.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,706},{23,54}}</string>
+			<string>{{938,1014},{46,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{23,54}}</string>
+			<string>{{0,0},{46,108}}</string>
 			<key>sourceSize</key>
-			<string>{23,54}</string>
+			<string>{46,108}</string>
 		</dict>
 		<key>vl_flame_lantern_yellow.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,651},{23,54}}</string>
+			<string>{{621,1880},{46,108}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{23,54}}</string>
+			<string>{{0,0},{46,108}}</string>
 			<key>sourceSize</key>
-			<string>{23,54}</string>
+			<string>{46,108}</string>
 		</dict>
 		<key>vl_flame_sack.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{201,244},{43,49}}</string>
+			<string>{{1490,1793},{85,97}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{43,49}}</string>
+			<string>{{0,0},{85,97}}</string>
 			<key>sourceSize</key>
-			<string>{43,49}</string>
+			<string>{85,97}</string>
 		</dict>
 		<key>vl_flame_sack_open.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{201,294},{44,45}}</string>
+			<string>{{1505,1666},{88,89}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{44,45}}</string>
+			<string>{{0,0},{88,89}}</string>
 			<key>sourceSize</key>
-			<string>{44,45}</string>
+			<string>{88,89}</string>
 		</dict>
 		<key>vl_flame_shadow03.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{256,992},{197,28}}</string>
+			<string>{{237,1501},{392,55}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{3,1},{197,28}}</string>
+			<string>{{8,2},{392,55}}</string>
 			<key>sourceSize</key>
-			<string>{205,30}</string>
+			<string>{410,59}</string>
 		</dict>
 		<key>vl_flame_shadow_2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{582,937},{51,292}}</string>
+			<string>{{954,1925},{104,585}}</string>
 			<key>offset</key>
-			<string>{0,1}</string>
+			<string>{-1,3}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{2,5},{51,292}}</string>
+			<string>{{2,8},{104,585}}</string>
 			<key>sourceSize</key>
-			<string>{55,304}</string>
+			<string>{110,607}</string>
 		</dict>
 		<key>vl_flame_stand_drape_blue.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{918,474},{154,96}}</string>
+			<string>{{567,453},{307,192}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{154,96}}</string>
+			<string>{{0,0},{307,192}}</string>
 			<key>sourceSize</key>
-			<string>{154,96}</string>
+			<string>{307,192}</string>
 		</dict>
 		<key>vl_flame_stand_drape_green.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{913,319},{154,96}}</string>
+			<string>{{648,0},{307,192}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{154,96}}</string>
+			<string>{{0,0},{307,192}}</string>
 			<key>sourceSize</key>
-			<string>{154,96}</string>
+			<string>{307,192}</string>
 		</dict>
 		<key>vl_flame_stand_drape_red.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{918,164},{154,96}}</string>
+			<string>{{455,0},{307,192}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{154,96}}</string>
+			<string>{{0,0},{307,192}}</string>
 			<key>sourceSize</key>
-			<string>{154,96}</string>
+			<string>{307,192}</string>
 		</dict>
 		<key>vl_flame_switch_off.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{282,457},{61,66}}</string>
+			<string>{{1134,1176},{122,132}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{61,66}}</string>
+			<string>{{0,0},{122,132}}</string>
 			<key>sourceSize</key>
-			<string>{61,66}</string>
+			<string>{122,132}</string>
 		</dict>
 		<key>vl_flame_switch_on.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{777,683},{61,66}}</string>
+			<string>{{1001,1176},{122,132}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{61,66}}</string>
+			<string>{{0,0},{122,132}}</string>
 			<key>sourceSize</key>
-			<string>{61,66}</string>
+			<string>{122,132}</string>
 		</dict>
 		<key>vl_flame_tool_fork.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{169,1001},{17,86}}</string>
+			<string>{{237,1557},{33,172}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{17,86}}</string>
+			<string>{{0,0},{33,172}}</string>
 			<key>sourceSize</key>
-			<string>{17,86}</string>
+			<string>{33,172}</string>
 		</dict>
 		<key>vl_flame_tool_rake.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,454},{29,74}}</string>
+			<string>{{1323,1362},{58,148}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{29,74}}</string>
+			<string>{{0,0},{58,148}}</string>
 			<key>sourceSize</key>
-			<string>{29,74}</string>
+			<string>{58,148}</string>
 		</dict>
 		<key>vl_flame_tool_spade.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{268,437},{19,58}}</string>
+			<string>{{1430,1627},{38,116}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{19,58}}</string>
+			<string>{{0,0},{38,116}}</string>
 			<key>sourceSize</key>
-			<string>{19,58}</string>
+			<string>{38,116}</string>
 		</dict>
 		<key>vl_flame_tower_base.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,463},{335,118}}</string>
+			<string>{{0,924},{669,236}}</string>
 			<key>offset</key>
-			<string>{0,1}</string>
+			<string>{0,2}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{335,118}}</string>
+			<string>{{0,0},{669,236}}</string>
 			<key>sourceSize</key>
-			<string>{335,120}</string>
+			<string>{669,240}</string>
 		</dict>
 		<key>vl_flame_tower_door.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{176,852},{139,163}}</string>
+			<string>{{678,1707},{275,326}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{139,163}}</string>
+			<string>{{1,0},{275,326}}</string>
 			<key>sourceSize</key>
-			<string>{139,163}</string>
+			<string>{277,326}</string>
 		</dict>
 		<key>vl_flame_tower_door_open_back.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{733,182},{69,162}}</string>
+			<string>{{817,308},{137,324}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{69,162}}</string>
+			<string>{{0,0},{137,324}}</string>
 			<key>sourceSize</key>
-			<string>{69,162}</string>
+			<string>{137,324}</string>
 		</dict>
 		<key>vl_flame_tower_door_open_door.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{803,317},{63,119}}</string>
+			<string>{{749,1063},{126,238}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,1},{63,119}}</string>
+			<string>{{0,2},{126,238}}</string>
 			<key>sourceSize</key>
-			<string>{63,121}</string>
+			<string>{126,242}</string>
 		</dict>
 		<key>vl_flame_tower_door_open_front.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{918,0},{93,163}}</string>
+			<string>{{562,889},{186,326}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{93,163}}</string>
+			<string>{{0,0},{186,326}}</string>
 			<key>sourceSize</key>
-			<string>{93,163}</string>
+			<string>{186,326}</string>
 		</dict>
 		<key>vl_flame_tower_plank_round.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{119,753},{340,25}}</string>
+			<string>{{0,1996},{677,47}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{-1,-1}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{340,25}}</string>
+			<string>{{0,2},{677,47}}</string>
 			<key>sourceSize</key>
-			<string>{340,25}</string>
+			<string>{679,49}</string>
 		</dict>
 		<key>vl_flame_tower_support.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{119,665},{337,87}}</string>
+			<string>{{237,1326},{673,174}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{337,87}}</string>
+			<string>{{0,0},{673,174}}</string>
 			<key>sourceSize</key>
-			<string>{337,87}</string>
+			<string>{673,174}</string>
 		</dict>
 		<key>vl_flame_tower_top.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,799},{175,201}}</string>
+			<string>{{0,1594},{350,401}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{175,201}}</string>
+			<string>{{0,0},{350,401}}</string>
 			<key>sourceSize</key>
-			<string>{175,201}</string>
+			<string>{350,401}</string>
 		</dict>
 		<key>vl_flame_tower_top_dark.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{531,852},{84,201}}</string>
+			<string>{{401,487},{165,401}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{84,201}}</string>
+			<string>{{1,0},{165,401}}</string>
 			<key>sourceSize</key>
-			<string>{84,201}</string>
+			<string>{167,401}</string>
 		</dict>
 		<key>vl_flame_tower_top_window.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{119,463},{162,201}}</string>
+			<string>{{237,924},{324,401}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{162,201}}</string>
+			<string>{{0,0},{324,401}}</string>
 			<key>sourceSize</key>
-			<string>{162,201}</string>
+			<string>{324,401}</string>
 		</dict>
 		<key>wd_vl_flame_barrel.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{282,589},{58,64}}</string>
+			<string>{{1207,1299},{115,127}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{58,64}}</string>
+			<string>{{0,0},{115,127}}</string>
 			<key>sourceSize</key>
-			<string>{58,64}</string>
+			<string>{115,127}</string>
 		</dict>
 		<key>wd_vl_flame_barrel_with_rim.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{282,524},{58,64}}</string>
+			<string>{{1234,1565},{115,127}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{58,64}}</string>
+			<string>{{0,0},{115,127}}</string>
 			<key>sourceSize</key>
-			<string>{58,64}</string>
+			<string>{115,127}</string>
 		</dict>
 		<key>wd_vl_flame_cart.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{792,437},{138,81}}</string>
+			<string>{{1033,0},{276,162}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{138,81}}</string>
+			<string>{{0,0},{276,162}}</string>
 			<key>sourceSize</key>
-			<string>{138,81}</string>
+			<string>{276,162}</string>
 		</dict>
 		<key>wd_vl_flame_cart_stand.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{806,0},{189,56}}</string>
+			<string>{{567,761},{378,111}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{189,56}}</string>
+			<string>{{0,0},{378,111}}</string>
 			<key>sourceSize</key>
-			<string>{189,56}</string>
+			<string>{378,111}</string>
 		</dict>
 		<key>wd_vl_flame_cart_stand_pole.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,1001},{20,168}}</string>
+			<string>{{841,250},{39,335}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{20,168}}</string>
+			<string>{{0,0},{39,335}}</string>
 			<key>sourceSize</key>
-			<string>{20,168}</string>
+			<string>{39,335}</string>
 		</dict>
 		<key>wd_vl_flame_crate.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{395,585},{51,50}}</string>
+			<string>{{1405,1691},{101,99}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{51,50}}</string>
+			<string>{{0,0},{101,99}}</string>
 			<key>sourceSize</key>
-			<string>{51,50}</string>
+			<string>{101,99}</string>
 		</dict>
 		<key>wd_vl_flame_crate_large.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{756,751},{94,95}}</string>
+			<string>{{749,873},{188,189}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{94,95}}</string>
+			<string>{{0,0},{188,189}}</string>
 			<key>sourceSize</key>
-			<string>{94,95}</string>
+			<string>{188,189}</string>
 		</dict>
 		<key>wd_vl_flame_door_big.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,244},{218,200}}</string>
+			<string>{{0,487},{436,400}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{218,200}}</string>
+			<string>{{0,0},{436,400}}</string>
 			<key>sourceSize</key>
-			<string>{218,200}</string>
+			<string>{436,400}</string>
 		</dict>
 		<key>wd_vl_flame_door_metal.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{630,751},{96,125}}</string>
+			<string>{{841,0},{191,249}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{96,125}}</string>
+			<string>{{0,0},{191,249}}</string>
 			<key>sourceSize</key>
-			<string>{96,125}</string>
+			<string>{191,249}</string>
 		</dict>
 		<key>wd_vl_flame_flowers_box.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,279},{87,37}}</string>
+			<string>{{1323,1287},{174,74}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{87,37}}</string>
+			<string>{{0,0},{174,74}}</string>
 			<key>sourceSize</key>
-			<string>{87,37}</string>
+			<string>{174,74}</string>
 		</dict>
 		<key>wd_vl_flame_fruit_crate.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{875,529},{55,41}}</string>
+			<string>{{1534,1544},{110,82}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{55,41}}</string>
+			<string>{{0,0},{110,82}}</string>
 			<key>sourceSize</key>
-			<string>{55,41}</string>
+			<string>{110,82}</string>
 		</dict>
 		<key>wd_vl_flame_wagon_body.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{227,243}}</string>
+			<string>{{0,0},{454,486}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{227,243}}</string>
+			<string>{{0,0},{454,486}}</string>
 			<key>sourceSize</key>
-			<string>{227,243}</string>
+			<string>{454,486}</string>
 		</dict>
 		<key>wd_vl_flame_wagon_front.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{454,990},{158,31}}</string>
+			<string>{{1033,163},{316,61}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{158,31}}</string>
+			<string>{{0,0},{316,61}}</string>
 			<key>sourceSize</key>
-			<string>{158,31}</string>
+			<string>{316,61}</string>
 		</dict>
 		<key>wd_vl_flame_wagon_wheel.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{733,848},{72,72}}</string>
+			<string>{{1063,1299},{143,143}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{72,72}}</string>
+			<string>{{0,0},{143,143}}</string>
 			<key>sourceSize</key>
-			<string>{72,72}</string>
+			<string>{143,143}</string>
 		</dict>
 		<key>wd_vl_flame_wheelbarrow.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{733,649},{101,43}}</string>
+			<string>{{939,1500},{201,85}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{101,43}}</string>
+			<string>{{0,0},{201,85}}</string>
 			<key>sourceSize</key>
-			<string>{101,43}</string>
+			<string>{201,85}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -1039,9 +1039,9 @@
 		<key>realTextureFileName</key>
 		<string>FlameVillageSheet04.png</string>
 		<key>size</key>
-		<string>{1024,1024}</string>
+		<string>{1702,2045}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:cda4e32c909c3a1e9a7909a2621b2f83$</string>
+		<string>$TexturePacker:SmartUpdate:84df586468d19d0d5b9f7e5c09f94617$</string>
 		<key>textureFileName</key>
 		<string>FlameVillageSheet04.png</string>
 	</dict>

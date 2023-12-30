@@ -20,7 +20,7 @@ bool SaveSelectScene::init()
     if (!Scene::init())
         return false;
 
-    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("MenuSheet-hd.plist");
+    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("MenuSheet.plist");
     auto back = Sprite::createWithSpriteFrameName("back_btn.png");
     auto backBtn = MenuItemSprite::create(back, back, AX_CALLBACK_1(SaveSelectScene::onBack, this));
     backBtn->setPosition(Vec2(89, 670));
@@ -39,5 +39,5 @@ void SaveSelectScene::onBack(Ref* sender) {
     auto scene = Scene::create();
     scene->addChild(layer);
     auto transition = TransitionFade::create(0.5f, scene);
-    Director::getInstance()->pushScene(transition);
+    Director::getInstance()->replaceScene(transition);
 }

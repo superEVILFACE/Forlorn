@@ -7,15 +7,15 @@
 		<key>shopUI_frost.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{434,301}}</string>
+			<string>{{0,0},{867,599}}</string>
 			<key>offset</key>
-			<string>{-1,0}</string>
+			<string>{-2,1}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{1,0},{434,301}}</string>
+			<string>{{2,0},{867,599}}</string>
 			<key>sourceSize</key>
-			<string>{438,301}</string>
+			<string>{875,601}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -25,9 +25,9 @@
 		<key>realTextureFileName</key>
 		<string>shopUI_frost.png</string>
 		<key>size</key>
-		<string>{434,301}</string>
+		<string>{867,599}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:a930595325b083ac28d5baa3a35385a3$</string>
+		<string>$TexturePacker:SmartUpdate:debe19037136957f24eff07582aefeaf$</string>
 		<key>textureFileName</key>
 		<string>shopUI_frost.png</string>
 	</dict>

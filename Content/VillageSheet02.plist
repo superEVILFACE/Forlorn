@@ -7,548 +7,548 @@
 		<key>st_vl_ground_mudtain_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{798,790},{173,183}}</string>
+			<string>{{1278,1383},{350,365}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{1,2},{173,183}}</string>
+			<string>{{0,3},{350,365}}</string>
 			<key>sourceSize</key>
-			<string>{175,185}</string>
+			<string>{350,369}</string>
 		</dict>
 		<key>st_vl_ground_mudtain_2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{168,595},{176,193}}</string>
+			<string>{{418,1304},{351,386}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{176,193}}</string>
+			<string>{{0,0},{351,386}}</string>
 			<key>sourceSize</key>
-			<string>{176,193}</string>
+			<string>{351,386}</string>
 		</dict>
 		<key>st_vl_ground_stone.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1,115},{403,98}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{1,0},{403,98}}</string>
-			<key>sourceSize</key>
-			<string>{405,98}</string>
-		</dict>
-		<key>st_vl_ground_stonebridge.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1,595},{194,166}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{194,166}}</string>
-			<key>sourceSize</key>
-			<string>{194,166}</string>
-		</dict>
-		<key>st_vl_ground_stonebridge_mid.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{552,624},{116,83}}</string>
-			<key>offset</key>
-			<string>{0,1}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{116,83}}</string>
-			<key>sourceSize</key>
-			<string>{116,85}</string>
-		</dict>
-		<key>st_vl_ground_stonestairs.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{473,624},{159,78}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{159,78}}</string>
-			<key>sourceSize</key>
-			<string>{159,78}</string>
-		</dict>
-		<key>st_vl_stone_chimney.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{712,117},{101,140}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{101,140}}</string>
-			<key>sourceSize</key>
-			<string>{101,140}</string>
-		</dict>
-		<key>st_vl_stone_well.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{295,239},{106,91}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{106,91}}</string>
-			<key>sourceSize</key>
-			<string>{106,91}</string>
-		</dict>
-		<key>vg_vl_ground_grass.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1,1},{407,113}}</string>
-			<key>offset</key>
-			<string>{-1,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{1,0},{407,113}}</string>
-			<key>sourceSize</key>
-			<string>{411,113}</string>
-		</dict>
-		<key>vg_vl_ground_grass_curve.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{409,1},{404,115}}</string>
-			<key>offset</key>
-			<string>{0,1}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,1},{404,115}}</string>
-			<key>sourceSize</key>
-			<string>{404,119}</string>
-		</dict>
-		<key>vl_blacksmith_anvil.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{401,595},{71,38}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{71,38}}</string>
-			<key>sourceSize</key>
-			<string>{71,38}</string>
-		</dict>
-		<key>vl_blacksmith_fire.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{345,712},{64,76}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{64,76}}</string>
-			<key>sourceSize</key>
-			<string>{64,76}</string>
-		</dict>
-		<key>vl_blacksmith_forge.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{237,790},{236,220}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{236,220}}</string>
-			<key>sourceSize</key>
-			<string>{236,220}</string>
-		</dict>
-		<key>vl_blacksmith_store.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1,790},{235,231}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{235,231}}</string>
-			<key>sourceSize</key>
-			<string>{235,231}</string>
-		</dict>
-		<key>vl_city_backwall_01_part_1.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1,312},{221,288}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{221,288}}</string>
-			<key>sourceSize</key>
-			<string>{221,288}</string>
-		</dict>
-		<key>vl_city_backwall_01_part_2.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{814,1},{208,284}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{208,284}}</string>
-			<key>sourceSize</key>
-			<string>{208,284}</string>
-		</dict>
-		<key>vl_city_backwall_02_part_1.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{812,286},{266,204}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{266,204}}</string>
-			<key>sourceSize</key>
-			<string>{266,204}</string>
-		</dict>
-		<key>vl_city_backwall_02_part_2.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{405,117},{306,204}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{306,204}}</string>
-			<key>sourceSize</key>
-			<string>{306,204}</string>
-		</dict>
-		<key>vl_city_backwall_03_part_1.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{474,790},{256,219}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{256,219}}</string>
-			<key>sourceSize</key>
-			<string>{256,219}</string>
-		</dict>
-		<key>vl_city_backwall_03_part_2.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{402,322},{273,272}}</string>
-			<key>offset</key>
-			<string>{-1,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{273,272}}</string>
-			<key>sourceSize</key>
-			<string>{275,272}</string>
-		</dict>
-		<key>vl_city_backwall_crack_1.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{707,403},{54,102}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{0,1},{54,102}}</string>
-			<key>sourceSize</key>
-			<string>{54,104}</string>
-		</dict>
-		<key>vl_city_backwall_crack_2.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{410,712},{64,51}}</string>
+			<string>{{1364,1},{808,193}}</string>
 			<key>offset</key>
 			<string>{0,-1}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{64,51}}</string>
+			<string>{{1,2},{808,193}}</string>
 			<key>sourceSize</key>
-			<string>{64,53}</string>
+			<string>{810,195}</string>
 		</dict>
-		<key>vl_city_backwall_crack_3.png</key>
+		<key>st_vl_ground_stonebridge.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{290,532},{67,61}}</string>
+			<string>{{1558,1053},{385,329}}</string>
+			<key>offset</key>
+			<string>{0,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1,0},{385,329}}</string>
+			<key>sourceSize</key>
+			<string>{387,331}</string>
+		</dict>
+		<key>st_vl_ground_stonebridge_mid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{578,1884},{231,163}}</string>
+			<key>offset</key>
+			<string>{0,2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{231,163}}</string>
+			<key>sourceSize</key>
+			<string>{231,169}</string>
+		</dict>
+		<key>st_vl_ground_stonestairs.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1883},{317,155}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{317,155}}</string>
+			<key>sourceSize</key>
+			<string>{317,155}</string>
+		</dict>
+		<key>st_vl_stone_chimney.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1077,457},{202,280}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{202,280}}</string>
+			<key>sourceSize</key>
+			<string>{202,280}</string>
+		</dict>
+		<key>st_vl_stone_well.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{586,1656},{212,182}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{212,182}}</string>
+			<key>sourceSize</key>
+			<string>{212,182}</string>
+		</dict>
+		<key>vg_vl_ground_grass.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{547,1},{816,226}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2,0},{816,226}}</string>
+			<key>sourceSize</key>
+			<string>{822,226}</string>
+		</dict>
+		<key>vg_vl_ground_grass_curve.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{547,228},{805,228}}</string>
+			<key>offset</key>
+			<string>{0,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1,4},{805,228}}</string>
+			<key>sourceSize</key>
+			<string>{807,238}</string>
+		</dict>
+		<key>vl_blacksmith_anvil.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1066,1967},{141,75}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{141,75}}</string>
+			<key>sourceSize</key>
+			<string>{141,75}</string>
+		</dict>
+		<key>vl_blacksmith_fire.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1426,1188},{128,152}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{128,152}}</string>
+			<key>sourceSize</key>
+			<string>{128,152}</string>
+		</dict>
+		<key>vl_blacksmith_forge.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1558,612},{472,440}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{472,440}}</string>
+			<key>sourceSize</key>
+			<string>{472,440}</string>
+		</dict>
+		<key>vl_blacksmith_store.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{956,865},{469,461}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{469,461}}</string>
+			<key>sourceSize</key>
+			<string>{469,461}</string>
+		</dict>
+		<key>vl_city_backwall_01_part_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,545},{442,575}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{442,575}}</string>
+			<key>sourceSize</key>
+			<string>{442,575}</string>
+		</dict>
+		<key>vl_city_backwall_01_part_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1121},{416,568}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{416,568}}</string>
+			<key>sourceSize</key>
+			<string>{416,568}</string>
+		</dict>
+		<key>vl_city_backwall_02_part_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{547,457},{529,407}}</string>
 			<key>offset</key>
 			<string>{1,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{2,0},{67,61}}</string>
+			<string>{{2,0},{529,407}}</string>
 			<key>sourceSize</key>
-			<string>{69,61}</string>
+			<string>{531,407}</string>
+		</dict>
+		<key>vl_city_backwall_02_part_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1558,1},{610,407}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1,0},{610,407}}</string>
+			<key>sourceSize</key>
+			<string>{612,407}</string>
+		</dict>
+		<key>vl_city_backwall_03_part_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{444,865},{511,438}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{511,438}}</string>
+			<key>sourceSize</key>
+			<string>{511,438}</string>
+		</dict>
+		<key>vl_city_backwall_03_part_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{545,543}}</string>
+			<key>offset</key>
+			<string>{-2,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{545,543}}</string>
+			<key>sourceSize</key>
+			<string>{549,543}</string>
+		</dict>
+		<key>vl_city_backwall_crack_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1066,1860},{106,204}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{106,204}}</string>
+			<key>sourceSize</key>
+			<string>{108,208}</string>
+		</dict>
+		<key>vl_city_backwall_crack_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1148,1754},{128,104}}</string>
+			<key>offset</key>
+			<string>{0,-1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{128,104}}</string>
+			<key>sourceSize</key>
+			<string>{128,106}</string>
+		</dict>
+		<key>vl_city_backwall_crack_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1077,738},{134,122}}</string>
+			<key>offset</key>
+			<string>{2,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4,0},{134,122}}</string>
+			<key>sourceSize</key>
+			<string>{138,122}</string>
 		</dict>
 		<key>vl_city_backwall_door.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{290,452},{79,106}}</string>
+			<string>{{1867,1582},{157,211}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{79,106}}</string>
+			<string>{{0,0},{157,211}}</string>
 			<key>sourceSize</key>
-			<string>{79,106}</string>
+			<string>{157,211}</string>
 		</dict>
 		<key>vl_city_backwall_plank.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{669,687},{25,91}}</string>
+			<string>{{1280,457},{49,182}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{25,91}}</string>
+			<string>{{0,0},{49,182}}</string>
 			<key>sourceSize</key>
-			<string>{25,91}</string>
+			<string>{49,182}</string>
 		</dict>
 		<key>vl_city_backwall_side.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1,214},{97,293}}</string>
+			<string>{{1,1690},{192,584}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{97,293}}</string>
+			<string>{{1,1},{192,584}}</string>
 			<key>sourceSize</key>
-			<string>{97,293}</string>
+			<string>{194,586}</string>
 		</dict>
 		<key>vl_city_backwall_stone_1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{672,619},{128,67}}</string>
+			<string>{{1278,1749},{257,134}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{-1,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{1,0},{128,67}}</string>
+			<string>{{0,0},{257,134}}</string>
 			<key>sourceSize</key>
-			<string>{130,67}</string>
+			<string>{259,134}</string>
 		</dict>
 		<key>vl_city_backwall_stone_2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{676,551},{128,67}}</string>
+			<string>{{810,1860},{255,133}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{128,67}}</string>
+			<string>{{0,0},{255,133}}</string>
 			<key>sourceSize</key>
-			<string>{128,67}</string>
+			<string>{255,133}</string>
 		</dict>
 		<key>vl_city_backwall_stone_3.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{676,480},{129,70}}</string>
+			<string>{{319,1883},{258,137}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{129,70}}</string>
+			<string>{{0,1},{258,137}}</string>
 			<key>sourceSize</key>
-			<string>{129,70}</string>
+			<string>{258,139}</string>
 		</dict>
 		<key>vl_city_backwall_support_front.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{676,322},{35,51}}</string>
+			<string>{{1536,1749},{68,101}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{-1,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{35,51}}</string>
+			<string>{{0,0},{68,101}}</string>
 			<key>sourceSize</key>
-			<string>{35,51}</string>
+			<string>{70,101}</string>
 		</dict>
 		<key>vl_city_backwall_window_01.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{401,634},{70,77}}</string>
+			<string>{{1422,1884},{140,154}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{70,77}}</string>
+			<string>{{0,0},{140,154}}</string>
 			<key>sourceSize</key>
-			<string>{70,77}</string>
+			<string>{140,154}</string>
 		</dict>
 		<key>vl_city_backwall_window_02.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{552,708},{75,75}}</string>
+			<string>{{1271,1884},{150,149}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{75,75}}</string>
+			<string>{{0,0},{150,149}}</string>
 			<key>sourceSize</key>
-			<string>{75,75}</string>
+			<string>{150,149}</string>
 		</dict>
 		<key>vl_city_backwall_window_circle.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{345,594},{54,55}}</string>
+			<string>{{1212,738},{105,111}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{-1,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,1},{54,55}}</string>
+			<string>{{0,1},{105,111}}</string>
 			<key>sourceSize</key>
-			<string>{54,57}</string>
+			<string>{107,113}</string>
 		</dict>
 		<key>vl_shadow02.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{474,595},{197,28}}</string>
+			<string>{{1966,1},{392,55}}</string>
 			<key>offset</key>
 			<string>{-1,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{3,1},{197,28}}</string>
+			<string>{{8,2},{392,55}}</string>
 			<key>sourceSize</key>
-			<string>{205,30}</string>
+			<string>{410,59}</string>
 		</dict>
 		<key>vl_shop_background.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{805,553},{236,213}}</string>
+			<string>{{805,1327},{472,426}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{236,213}}</string>
+			<string>{{0,0},{472,426}}</string>
 			<key>sourceSize</key>
-			<string>{236,213}</string>
+			<string>{472,426}</string>
 		</dict>
 		<key>vl_shop_counter.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1,534},{174,53}}</string>
+			<string>{{799,1754},{348,105}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{174,53}}</string>
+			<string>{{0,0},{348,105}}</string>
 			<key>sourceSize</key>
-			<string>{174,53}</string>
+			<string>{348,105}</string>
 		</dict>
 		<key>vl_shop_counter_side.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{176,534},{71,51}}</string>
+			<string>{{1605,1805},{141,102}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{71,51}}</string>
+			<string>{{0,0},{141,102}}</string>
 			<key>sourceSize</key>
-			<string>{71,51}</string>
+			<string>{141,102}</string>
 		</dict>
 		<key>wd_vl_detail_ladder.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{731,687},{66,189}}</string>
+			<string>{{1426,810},{131,377}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{66,189}}</string>
+			<string>{{0,0},{131,377}}</string>
 			<key>sourceSize</key>
-			<string>{66,189}</string>
+			<string>{131,377}</string>
 		</dict>
 		<key>wd_vl_roof_darkred.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{712,258},{144,99}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{144,99}}</string>
-			<key>sourceSize</key>
-			<string>{144,99}</string>
-		</dict>
-		<key>wd_vl_roof_darkred_divider.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{676,374},{30,105}}</string>
+			<string>{{1629,1383},{285,198}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{30,105}}</string>
+			<string>{{1,0},{285,198}}</string>
 			<key>sourceSize</key>
-			<string>{30,105}</string>
+			<string>{287,198}</string>
+		</dict>
+		<key>wd_vl_roof_darkred_divider.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{444,545},{58,209}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1,0},{58,209}}</string>
+			<key>sourceSize</key>
+			<string>{60,209}</string>
 		</dict>
 		<key>wd_vl_roof_darkred_divider_dark.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{295,214},{24,108}}</string>
+			<string>{{1944,1053},{45,215}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{24,108}}</string>
+			<string>{{1,0},{45,215}}</string>
 			<key>sourceSize</key>
-			<string>{24,108}</string>
+			<string>{47,215}</string>
 		</dict>
 		<key>wd_vl_roof_darkred_side.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{290,331},{120,111}}</string>
+			<string>{{1629,1582},{237,222}}</string>
 			<key>offset</key>
-			<string>{-1,0}</string>
+			<string>{-2,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{120,111}}</string>
+			<string>{{1,0},{237,222}}</string>
 			<key>sourceSize</key>
-			<string>{122,111}</string>
+			<string>{243,222}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -558,9 +558,9 @@
 		<key>realTextureFileName</key>
 		<string>VillageSheet02.png</string>
 		<key>size</key>
-		<string>{1023,1022}</string>
+		<string>{2031,2048}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:85ee9a44fca08c614dc2ce29c5ea6ba3$</string>
+		<string>$TexturePacker:SmartUpdate:7d87cbe6d5367e40a2e5ef452e839fee$</string>
 		<key>textureFileName</key>
 		<string>VillageSheet02.png</string>
 	</dict>

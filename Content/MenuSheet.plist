@@ -7,119 +7,119 @@
 		<key>MainCharacter_Frost.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1,439},{30,50}}</string>
+			<string>{{1,870},{60,100}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{30,50}}</string>
+			<string>{{0,0},{60,100}}</string>
 			<key>sourceSize</key>
-			<string>{30,50}</string>
+			<string>{60,100}</string>
 		</dict>
 		<key>back_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{155,117},{83,45}}</string>
+			<string>{{307,229},{165,90}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{83,45}}</string>
+			<string>{{0,0},{165,90}}</string>
 			<key>sourceSize</key>
-			<string>{83,45}</string>
+			<string>{165,90}</string>
 		</dict>
 		<key>continue_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1,69},{153,67}}</string>
+			<string>{{1,135},{305,133}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{153,67}}</string>
+			<string>{{0,0},{305,133}}</string>
 			<key>sourceSize</key>
-			<string>{153,67}</string>
+			<string>{305,133}</string>
 		</dict>
 		<key>delete_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{155,59},{83,57}}</string>
+			<string>{{307,115},{166,113}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{83,57}}</string>
+			<string>{{0,0},{166,113}}</string>
 			<key>sourceSize</key>
-			<string>{83,57}</string>
+			<string>{166,113}</string>
 		</dict>
 		<key>delete_btn_dwn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{155,1},{83,57}}</string>
+			<string>{{307,1},{166,113}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{83,57}}</string>
+			<string>{{0,0},{166,113}}</string>
 			<key>sourceSize</key>
-			<string>{83,57}</string>
+			<string>{166,113}</string>
 		</dict>
 		<key>heartPiece_interface.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{239,1},{22,16}}</string>
+			<string>{{474,1},{44,32}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{22,16}}</string>
+			<string>{{0,0},{44,32}}</string>
 			<key>sourceSize</key>
-			<string>{22,16}</string>
+			<string>{44,32}</string>
 		</dict>
 		<key>play_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1,1},{153,67}}</string>
+			<string>{{1,1},{305,133}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{153,67}}</string>
+			<string>{{0,0},{305,133}}</string>
 			<key>sourceSize</key>
-			<string>{153,67}</string>
+			<string>{305,133}</string>
 		</dict>
 		<key>save_btn.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{70,137},{275,68}}</string>
+			<string>{{138,269},{549,136}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{275,68}}</string>
+			<string>{{0,0},{549,136}}</string>
 			<key>sourceSize</key>
-			<string>{275,68}</string>
+			<string>{549,136}</string>
 		</dict>
 		<key>save_btn_delete.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1,163},{275,68}}</string>
+			<string>{{1,320},{549,136}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{275,68}}</string>
+			<string>{{0,0},{549,136}}</string>
 			<key>sourceSize</key>
-			<string>{275,68}</string>
+			<string>{549,136}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -129,9 +129,9 @@
 		<key>realTextureFileName</key>
 		<string>MenuSheet.png</string>
 		<key>size</key>
-		<string>{256,512}</string>
+		<string>{512,1024}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:413dcd068d488f0c5d4cb0626b317635$</string>
+		<string>$TexturePacker:SmartUpdate:b52cf4b77c4bd61867bfd0bbaeeec05e$</string>
 		<key>textureFileName</key>
 		<string>MenuSheet.png</string>
 	</dict>

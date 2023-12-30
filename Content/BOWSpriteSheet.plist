@@ -7,1133 +7,1133 @@
 		<key>BOSBlast_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{989,608},{35,28}}</string>
+			<string>{{1431,562},{67,54}}</string>
 			<key>offset</key>
-			<string>{1,1}</string>
+			<string>{3,2}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{20,19},{35,28}}</string>
+			<string>{{43,39},{67,54}}</string>
 			<key>sourceSize</key>
-			<string>{73,68}</string>
+			<string>{147,136}</string>
 		</dict>
 		<key>BOSBlast_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{890,579},{51,48}}</string>
+			<string>{{652,743},{101,92}}</string>
 			<key>offset</key>
-			<string>{2,2}</string>
+			<string>{4,3}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{13,8},{51,48}}</string>
+			<string>{{27,19},{101,92}}</string>
 			<key>sourceSize</key>
-			<string>{73,68}</string>
+			<string>{147,136}</string>
 		</dict>
 		<key>BOSBlast_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{228,484},{53,56}}</string>
+			<string>{{1012,992},{107,110}}</string>
 			<key>offset</key>
-			<string>{5,1}</string>
+			<string>{10,2}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{15,5},{53,56}}</string>
+			<string>{{30,11},{107,110}}</string>
 			<key>sourceSize</key>
-			<string>{73,68}</string>
+			<string>{147,136}</string>
 		</dict>
 		<key>BOSBlast_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{160,484},{67,68}}</string>
+			<string>{{752,1223},{133,134}}</string>
 			<key>offset</key>
-			<string>{3,0}</string>
+			<string>{7,1}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{6,0},{67,68}}</string>
+			<string>{{14,0},{133,134}}</string>
 			<key>sourceSize</key>
-			<string>{73,68}</string>
+			<string>{147,136}</string>
 		</dict>
 		<key>BOS_attack_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{549,643},{104,115}}</string>
+			<string>{{1351,1426},{208,225}}</string>
 			<key>offset</key>
-			<string>{2,7}</string>
+			<string>{4,13}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{49,4},{104,115}}</string>
+			<string>{{98,12},{208,225}}</string>
 			<key>sourceSize</key>
-			<string>{198,137}</string>
+			<string>{396,275}</string>
 		</dict>
 		<key>BOS_attack_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{251,925},{98,109}}</string>
+			<string>{{1547,1652},{196,215}}</string>
 			<key>offset</key>
-			<string>{1,3}</string>
+			<string>{2,6}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{51,11},{98,109}}</string>
+			<string>{{102,24},{196,215}}</string>
 			<key>sourceSize</key>
-			<string>{198,137}</string>
+			<string>{396,275}</string>
 		</dict>
 		<key>BOS_attack_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{299,819},{120,105}}</string>
+			<string>{{913,1444},{236,209}}</string>
 			<key>offset</key>
-			<string>{-14,2}</string>
+			<string>{-27,5}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{25,14},{120,105}}</string>
+			<string>{{53,28},{236,209}}</string>
 			<key>sourceSize</key>
-			<string>{198,137}</string>
+			<string>{396,275}</string>
 		</dict>
 		<key>BOS_attack_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{152,819},{146,105}}</string>
+			<string>{{754,784},{290,207}}</string>
 			<key>offset</key>
-			<string>{-26,2}</string>
+			<string>{-53,4}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,14},{146,105}}</string>
+			<string>{{0,30},{290,207}}</string>
 			<key>sourceSize</key>
-			<string>{198,137}</string>
+			<string>{396,275}</string>
 		</dict>
 		<key>BOS_attack_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{179,241},{144,107}}</string>
+			<string>{{1128,795},{288,209}}</string>
 			<key>offset</key>
-			<string>{-26,3}</string>
+			<string>{-53,5}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{1,12},{144,107}}</string>
+			<string>{{1,28},{288,209}}</string>
 			<key>sourceSize</key>
-			<string>{198,137}</string>
+			<string>{396,275}</string>
 		</dict>
 		<key>BOS_attack_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{187,121},{146,119}}</string>
+			<string>{{758,546},{292,237}}</string>
 			<key>offset</key>
-			<string>{-11,9}</string>
+			<string>{-22,19}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{15,0},{146,119}}</string>
+			<string>{{30,0},{292,237}}</string>
 			<key>sourceSize</key>
-			<string>{198,137}</string>
+			<string>{396,275}</string>
 		</dict>
 		<key>BOS_attack_007.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{681,411},{122,113}}</string>
+			<string>{{1123,1005},{244,223}}</string>
 			<key>offset</key>
-			<string>{7,6}</string>
+			<string>{14,11}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{45,6},{122,113}}</string>
+			<string>{{90,15},{244,223}}</string>
 			<key>sourceSize</key>
-			<string>{198,137}</string>
+			<string>{396,275}</string>
 		</dict>
 		<key>BOS_attack_008.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{804,401},{102,115}}</string>
+			<string>{{527,1358},{202,229}}</string>
 			<key>offset</key>
-			<string>{6,8}</string>
+			<string>{12,16}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{54,3},{102,115}}</string>
+			<string>{{109,7},{202,229}}</string>
 			<key>sourceSize</key>
-			<string>{198,137}</string>
+			<string>{396,275}</string>
 		</dict>
 		<key>BOS_death_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{677,525},{110,115}}</string>
+			<string>{{1149,1658},{219,227}}</string>
 			<key>offset</key>
-			<string>{0,7}</string>
+			<string>{-1,13}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{10,7},{110,115}}</string>
+			<string>{{20,17},{219,227}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{907,458},{120,115}}</string>
+			<string>{{472,1749},{239,229}}</string>
 			<key>offset</key>
-			<string>{-5,7}</string>
+			<string>{-11,15}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,7},{120,115}}</string>
+			<string>{{0,14},{239,229}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{554,525},{122,117}}</string>
+			<string>{{238,1755},{243,233}}</string>
 			<key>offset</key>
-			<string>{-4,8}</string>
+			<string>{-9,17}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,5},{122,117}}</string>
+			<string>{{0,10},{243,233}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{309,654},{116,113}}</string>
+			<string>{{1123,1426},{231,227}}</string>
 			<key>offset</key>
-			<string>{-4,7}</string>
+			<string>{-8,15}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{3,8},{116,113}}</string>
+			<string>{{7,15},{231,227}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{420,784},{120,121}}</string>
+			<string>{{0,1755},{237,243}}</string>
 			<key>offset</key>
-			<string>{-1,11}</string>
+			<string>{-1,22}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{4,0},{120,121}}</string>
+			<string>{{11,0},{237,243}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{651,759},{104,107}}</string>
+			<string>{{1763,1455},{205,211}}</string>
 			<key>offset</key>
-			<string>{3,15}</string>
+			<string>{7,30}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{16,3},{104,107}}</string>
+			<string>{{35,8},{205,211}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_007.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{943,0},{64,79}}</string>
+			<string>{{757,1358},{125,155}}</string>
 			<key>offset</key>
-			<string>{-15,24}</string>
+			<string>{-29,47}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{18,8},{64,79}}</string>
+			<string>{{39,19},{125,155}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_008.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{679,979},{36,45}}</string>
+			<string>{{1045,874},{71,89}}</string>
 			<key>offset</key>
-			<string>{-22,32}</string>
+			<string>{-44,64}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{25,17},{36,45}}</string>
+			<string>{{51,35},{71,89}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_009.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{549,759},{34,23}}</string>
+			<string>{{317,557},{65,43}}</string>
 			<key>offset</key>
-			<string>{-19,23}</string>
+			<string>{-38,45}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{29,37},{34,23}}</string>
+			<string>{{60,77},{65,43}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_010.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1008,0},{34,15}}</string>
+			<string>{{1097,494},{65,27}}</string>
 			<key>offset</key>
-			<string>{-16,-5}</string>
+			<string>{-31,-10}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{32,69},{34,15}}</string>
+			<string>{{67,140},{65,27}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_011.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{71,1003},{34,17}}</string>
+			<string>{{1097,406},{63,31}}</string>
 			<key>offset</key>
-			<string>{-10,-43}</string>
+			<string>{-19,-86}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{38,106},{34,17}}</string>
+			<string>{{80,214},{63,31}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_death_012.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{651,867},{34,17}}</string>
+			<string>{{1097,265},{65,33}}</string>
 			<key>offset</key>
-			<string>{-10,-42}</string>
+			<string>{-19,-84}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{38,105},{34,17}}</string>
+			<string>{{79,211},{65,33}}</string>
 			<key>sourceSize</key>
-			<string>{130,143}</string>
+			<string>{261,287}</string>
 		</dict>
 		<key>BOS_getHit_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{907,341},{117,116}}</string>
+			<string>{{919,1681},{232,229}}</string>
 			<key>offset</key>
-			<string>{-6,8}</string>
+			<string>{-11,15}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{6,0},{117,116}}</string>
+			<string>{{14,3},{232,229}}</string>
 			<key>sourceSize</key>
-			<string>{141,132}</string>
+			<string>{282,265}</string>
 		</dict>
 		<key>BOS_getHit_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{423,667},{125,116}}</string>
+			<string>{{276,1327},{250,233}}</string>
 			<key>offset</key>
-			<string>{-8,8}</string>
+			<string>{-16,16}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{125,116}}</string>
+			<string>{{0,0},{250,233}}</string>
 			<key>sourceSize</key>
-			<string>{141,132}</string>
+			<string>{282,265}</string>
 		</dict>
 		<key>BOS_walk_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{935,121},{89,111}}</string>
+			<string>{{1369,1652},{177,221}}</string>
 			<key>offset</key>
-			<string>{8,5}</string>
+			<string>{16,10}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{16,2},{89,111}}</string>
+			<string>{{33,5},{177,221}}</string>
 			<key>sourceSize</key>
-			<string>{105,125}</string>
+			<string>{211,251}</string>
 		</dict>
 		<key>BOS_walk_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{361,925},{95,115}}</string>
+			<string>{{245,1561},{187,227}}</string>
 			<key>offset</key>
-			<string>{5,5}</string>
+			<string>{12,12}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{10,0},{95,115}}</string>
+			<string>{{24,0},{187,227}}</string>
 			<key>sourceSize</key>
-			<string>{105,125}</string>
+			<string>{211,251}</string>
 		</dict>
 		<key>BOS_walk_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{935,233},{89,107}}</string>
+			<string>{{1547,1868},{177,215}}</string>
 			<key>offset</key>
-			<string>{5,3}</string>
+			<string>{10,6}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{13,6},{89,107}}</string>
+			<string>{{27,12},{177,215}}</string>
 			<key>sourceSize</key>
-			<string>{105,125}</string>
+			<string>{211,251}</string>
 		</dict>
 		<key>BOS_walk_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{773,861},{91,105}}</string>
+			<string>{{1744,1661},{177,207}}</string>
 			<key>offset</key>
-			<string>{6,2}</string>
+			<string>{13,3}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{13,8},{91,105}}</string>
+			<string>{{30,19},{177,207}}</string>
 			<key>sourceSize</key>
-			<string>{105,125}</string>
+			<string>{211,251}</string>
 		</dict>
 		<key>BOS_walk_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{752,641},{93,109}}</string>
+			<string>{{570,914},{183,215}}</string>
 			<key>offset</key>
-			<string>{6,4}</string>
+			<string>{13,8}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{12,4},{93,109}}</string>
+			<string>{{27,10},{183,215}}</string>
 			<key>sourceSize</key>
-			<string>{105,125}</string>
+			<string>{211,251}</string>
 		</dict>
 		<key>BOS_walk_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{679,867},{93,111}}</string>
+			<string>{{691,1561},{185,221}}</string>
 			<key>offset</key>
-			<string>{5,5}</string>
+			<string>{11,10}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{11,2},{93,111}}</string>
+			<string>{{24,5},{185,221}}</string>
 			<key>sourceSize</key>
-			<string>{105,125}</string>
+			<string>{211,251}</string>
 		</dict>
 		<key>BOS_walk_007.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{654,643},{97,115}}</string>
+			<string>{{560,1130},{191,227}}</string>
 			<key>offset</key>
-			<string>{3,5}</string>
+			<string>{8,10}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{7,0},{97,115}}</string>
+			<string>{{18,2},{191,227}}</string>
 			<key>sourceSize</key>
-			<string>{105,125}</string>
+			<string>{211,251}</string>
 		</dict>
 		<key>BOS_walk_008.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{143,925},{99,107}}</string>
+			<string>{{1763,1259},{195,213}}</string>
+			<key>offset</key>
+			<string>{1,7}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{9,12},{195,213}}</string>
+			<key>sourceSize</key>
+			<string>{211,251}</string>
+		</dict>
+		<key>BOS_walk_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1560,1327},{199,209}}</string>
+			<key>offset</key>
+			<string>{2,4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8,17},{199,209}}</string>
+			<key>sourceSize</key>
+			<string>{211,251}</string>
+		</dict>
+		<key>BOS_walk_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{473,1561},{187,217}}</string>
+			<key>offset</key>
+			<string>{9,9}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{21,8},{187,217}}</string>
+			<key>sourceSize</key>
+			<string>{211,251}</string>
+		</dict>
+		<key>BOW_attack_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{758,265},{338,280}}</string>
+			<key>offset</key>
+			<string>{71,14}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{176,0},{338,280}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1137,0},{354,272}}</string>
+			<key>offset</key>
+			<string>{84,8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{181,10},{354,272}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{766,0},{370,264}}</string>
+			<key>offset</key>
+			<string>{89,5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{178,17},{370,264}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387,233},{370,242}}</string>
+			<key>offset</key>
+			<string>{79,-5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{168,38},{370,242}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{386,238}}</string>
+			<key>offset</key>
+			<string>{68,-7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{149,42},{386,238}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387,0},{378,232}}</string>
+			<key>offset</key>
+			<string>{63,-9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{148,47},{378,232}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,239},{368,238}}</string>
+			<key>offset</key>
+			<string>{-90,-6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,41},{368,238}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1793,268},{250,236}}</string>
+			<key>offset</key>
+			<string>{-24,-6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{125,42},{250,236}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{886,1223},{220,236}}</string>
+			<key>offset</key>
+			<string>{2,-6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{166,42},{220,236}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1123,1229},{196,234}}</string>
+			<key>offset</key>
+			<string>{-7,-7}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{169,44},{196,234}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1368,1126},{200,234}}</string>
+			<key>offset</key>
+			<string>{-13,-8}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{161,45},{200,234}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1516},{238,244}}</string>
+			<key>offset</key>
+			<string>{-5,-3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{150,35},{238,244}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_attack_013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1787,505},{208,260}}</string>
+			<key>offset</key>
+			<string>{2,-1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{172,25},{208,260}}</string>
+			<key>sourceSize</key>
+			<string>{548,308}</string>
+		</dict>
+		<key>BOW_death_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{754,992},{230,257}}</string>
+			<key>offset</key>
+			<string>{17,-1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{127,62},{230,257}}</string>
+			<key>sourceSize</key>
+			<string>{450,379}</string>
+		</dict>
+		<key>BOW_death_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{702,1747},{216,237}}</string>
+			<key>offset</key>
+			<string>{9,-18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{126,89},{216,237}}</string>
+			<key>sourceSize</key>
+			<string>{450,379}</string>
+		</dict>
+		<key>BOW_death_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{369,476},{236,317}}</string>
+			<key>offset</key>
+			<string>{-1,31}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{106,0},{236,317}}</string>
+			<key>sourceSize</key>
+			<string>{450,379}</string>
+		</dict>
+		<key>BOW_death_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1417,845},{280,283}}</string>
+			<key>offset</key>
+			<string>{36,36}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{121,12},{280,283}}</string>
+			<key>sourceSize</key>
+			<string>{450,379}</string>
+		</dict>
+		<key>BOW_death_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1793,0},{252,267}}</string>
+			<key>offset</key>
+			<string>{71,29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{170,27},{252,267}}</string>
+			<key>sourceSize</key>
+			<string>{450,379}</string>
+		</dict>
+		<key>BOW_death_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{287,914},{282,199}}</string>
+			<key>offset</key>
+			<string>{84,-44}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{168,134},{282,199}}</string>
+			<key>sourceSize</key>
+			<string>{450,379}</string>
+		</dict>
+		<key>BOW_getHit_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1491,284},{284,295}}</string>
+			<key>offset</key>
+			<string>{58,19}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{116,0},{284,295}}</string>
+			<key>sourceSize</key>
+			<string>{400,333}</string>
+		</dict>
+		<key>BOW_getHit_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1131,273},{292,299}}</string>
+			<key>offset</key>
+			<string>{53,17}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{107,0},{292,299}}</string>
+			<key>sourceSize</key>
+			<string>{400,333}</string>
+		</dict>
+		<key>BOW_walk_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1492,0},{300,283}}</string>
+			<key>offset</key>
+			<string>{57,13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{114,8},{300,283}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,768},{286,269}}</string>
+			<key>offset</key>
+			<string>{62,7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{126,21},{286,269}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1486,569},{294,275}}</string>
+			<key>offset</key>
+			<string>{56,7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{116,18},{294,275}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1781,714},{262,275}}</string>
+			<key>offset</key>
+			<string>{55,10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{131,15},{262,275}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1038},{236,279}}</string>
+			<key>offset</key>
+			<string>{45,10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{134,13},{236,279}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1130,566},{228,291}}</string>
+			<key>offset</key>
+			<string>{22,10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{115,7},{228,291}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{360,713},{200,291}}</string>
+			<key>offset</key>
+			<string>{28,6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{135,11},{200,291}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{280,1114},{212,279}}</string>
+			<key>offset</key>
+			<string>{35,6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{136,17},{212,279}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,1275},{240,275}}</string>
+			<key>offset</key>
+			<string>{48,8}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{135,17},{240,275}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1701,990},{268,283}}</string>
+			<key>offset</key>
+			<string>{60,11}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{133,10},{268,283}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>BOW_walk_011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,478},{316,289}}</string>
+			<key>offset</key>
+			<string>{48,18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{97,0},{316,289}}</string>
+			<key>sourceSize</key>
+			<string>{414,325}</string>
+		</dict>
+		<key>SBT_spawnBall_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1431,506},{57,55}}</string>
+			<key>offset</key>
+			<string>{11,-5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{26,10},{57,55}}</string>
+			<key>sourceSize</key>
+			<string>{87,65}</string>
+		</dict>
+		<key>SBT_spawnBall_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1431,438},{67,57}}</string>
+			<key>offset</key>
+			<string>{7,-4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{17,8},{67,57}}</string>
+			<key>sourceSize</key>
+			<string>{87,65}</string>
+		</dict>
+		<key>SBT_spawnBall_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1431,273},{83,59}}</string>
+			<key>offset</key>
+			<string>{2,-3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4,6},{83,59}}</string>
+			<key>sourceSize</key>
+			<string>{87,65}</string>
+		</dict>
+		<key>SBT_spawn_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1417,800},{66,20}}</string>
+			<key>offset</key>
+			<string>{-6,-25}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6,50},{66,20}}</string>
+			<key>sourceSize</key>
+			<string>{90,70}</string>
+		</dict>
+		<key>SBT_spawn_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1097,331},{74,32}}</string>
+			<key>offset</key>
+			<string>{-6,-19}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2,38},{74,32}}</string>
+			<key>sourceSize</key>
+			<string>{90,70}</string>
+		</dict>
+		<key>SBT_spawn_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{317,684},{78,42}}</string>
+			<key>offset</key>
+			<string>{-5,-14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1,28},{78,42}}</string>
+			<key>sourceSize</key>
+			<string>{90,70}</string>
+		</dict>
+		<key>SBT_spawn_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{317,478},{78,50}}</string>
+			<key>offset</key>
+			<string>{-6,-10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,20},{78,50}}</string>
+			<key>sourceSize</key>
+			<string>{90,70}</string>
+		</dict>
+		<key>SBT_spawn_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1431,357},{80,58}}</string>
+			<key>offset</key>
+			<string>{-3,-6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2,12},{80,58}}</string>
+			<key>sourceSize</key>
+			<string>{90,70}</string>
+		</dict>
+		<key>SBT_spawn_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1422,717},{82,62}}</string>
+			<key>offset</key>
+			<string>{-2,-4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2,8},{82,62}}</string>
+			<key>sourceSize</key>
+			<string>{90,70}</string>
+		</dict>
+		<key>SBT_spawn_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1422,630},{86,62}}</string>
+			<key>offset</key>
+			<string>{-1,-3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1,7},{86,62}}</string>
+			<key>sourceSize</key>
+			<string>{90,70}</string>
+		</dict>
+		<key>SBT_spikeHead_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1097,470},{28,23}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{28,23}}</string>
+			<key>sourceSize</key>
+			<string>{28,23}</string>
+		</dict>
+		<key>SBT_spikeShell_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{317,623},{60,43}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{60,43}}</string>
+			<key>sourceSize</key>
+			<string>{60,43}</string>
+		</dict>
+		<key>SBT_walk_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{687,476},{90,70}}</string>
+			<key>offset</key>
+			<string>{1,2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4,19},{90,70}}</string>
+			<key>sourceSize</key>
+			<string>{96,112}</string>
+		</dict>
+		<key>SBT_walk_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{687,567},{86,70}}</string>
+			<key>offset</key>
+			<string>{5,2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10,19},{86,70}}</string>
+			<key>sourceSize</key>
+			<string>{96,112}</string>
+		</dict>
+		<key>SBT_walk_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{687,654},{88,66}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4,23},{88,66}}</string>
+			<key>sourceSize</key>
+			<string>{96,112}</string>
+		</dict>
+		<key>SBT_walk_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1051,560},{82,78}}</string>
+			<key>offset</key>
+			<string>{-1,11}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6,6},{82,78}}</string>
+			<key>sourceSize</key>
+			<string>{96,112}</string>
+		</dict>
+		<key>SBT_walk_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1045,785},{82,88}}</string>
+			<key>offset</key>
+			<string>{-1,12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6,0},{82,88}}</string>
+			<key>sourceSize</key>
+			<string>{96,112}</string>
+		</dict>
+		<key>SBT_walk_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1051,643},{74,74}}</string>
+			<key>offset</key>
+			<string>{0,10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{11,9},{74,74}}</string>
+			<key>sourceSize</key>
+			<string>{96,112}</string>
+		</dict>
+		<key>SBT_walk_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1051,718},{66,74}}</string>
 			<key>offset</key>
 			<string>{0,3}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{3,6},{99,107}}</string>
+			<string>{{15,16},{66,74}}</string>
 			<key>sourceSize</key>
-			<string>{105,125}</string>
-		</dict>
-		<key>BOS_walk_009.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{788,525},{101,105}}</string>
-			<key>offset</key>
-			<string>{1,2}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{3,8},{101,105}}</string>
-			<key>sourceSize</key>
-			<string>{105,125}</string>
-		</dict>
-		<key>BOS_walk_010.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{756,751},{95,109}}</string>
-			<key>offset</key>
-			<string>{4,4}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{9,4},{95,109}}</string>
-			<key>sourceSize</key>
-			<string>{105,125}</string>
-		</dict>
-		<key>BOW_attack_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,272},{170,140}}</string>
-			<key>offset</key>
-			<string>{35,7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{87,0},{170,140}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_002.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,135},{178,136}}</string>
-			<key>offset</key>
-			<string>{42,4}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{90,5},{178,136}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_003.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,0},{186,134}}</string>
-			<key>offset</key>
-			<string>{44,3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{88,7},{186,134}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_004.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{571,0},{186,122}}</string>
-			<key>offset</key>
-			<string>{39,-2}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{83,18},{186,122}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_005.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{187,0},{192,120}}</string>
-			<key>offset</key>
-			<string>{34,-3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{75,20},{192,120}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_006.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{380,0},{190,118}}</string>
-			<key>offset</key>
-			<string>{31,-4}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{73,22},{190,118}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_007.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{758,0},{184,120}}</string>
-			<key>offset</key>
-			<string>{-45,-3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,20},{184,120}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_008.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{554,406},{126,118}}</string>
-			<key>offset</key>
-			<string>{-12,-3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{62,21},{126,118}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_009.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{315,388},{110,118}}</string>
-			<key>offset</key>
-			<string>{1,-3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{83,21},{110,118}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_010.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{578,904},{100,118}}</string>
-			<key>offset</key>
-			<string>{-4,-3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{83,21},{100,118}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_011.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{477,906},{100,118}}</string>
-			<key>offset</key>
-			<string>{-6,-4}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{81,22},{100,118}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_012.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{334,121},{120,124}}</string>
-			<key>offset</key>
-			<string>{-3,-1}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{74,16},{120,124}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_attack_013.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{802,270},{104,130}}</string>
-			<key>offset</key>
-			<string>{1,-1}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{86,13},{104,130}}</string>
-			<key>sourceSize</key>
-			<string>{274,154}</string>
-		</dict>
-		<key>BOW_death_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{455,119},{115,129}}</string>
-			<key>offset</key>
-			<string>{9,-1}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{64,31},{115,129}}</string>
-			<key>sourceSize</key>
-			<string>{225,189}</string>
-		</dict>
-		<key>BOW_death_002.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{541,784},{109,119}}</string>
-			<key>offset</key>
-			<string>{4,-9}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{62,44},{109,119}}</string>
-			<key>sourceSize</key>
-			<string>{225,189}</string>
-		</dict>
-		<key>BOW_death_003.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{149,558},{119,159}}</string>
-			<key>offset</key>
-			<string>{-1,15}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{52,0},{119,159}}</string>
-			<key>sourceSize</key>
-			<string>{225,189}</string>
-		</dict>
-		<key>BOW_death_004.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{571,123},{141,143}}</string>
-			<key>offset</key>
-			<string>{18,18}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{60,5},{141,143}}</string>
-			<key>sourceSize</key>
-			<string>{225,189}</string>
-		</dict>
-		<key>BOW_death_005.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{426,392},{127,135}}</string>
-			<key>offset</key>
-			<string>{35,15}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{84,12},{127,135}}</string>
-			<key>sourceSize</key>
-			<string>{225,189}</string>
-		</dict>
-		<key>BOW_death_006.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{324,246},{141,101}}</string>
-			<key>offset</key>
-			<string>{42,-22}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{84,66},{141,101}}</string>
-			<key>sourceSize</key>
-			<string>{225,189}</string>
-		</dict>
-		<key>BOW_getHit_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,854},{142,148}}</string>
-			<key>offset</key>
-			<string>{29,9}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{58,0},{142,148}}</string>
-			<key>sourceSize</key>
-			<string>{200,166}</string>
-		</dict>
-		<key>BOW_getHit_002.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,558},{148,150}}</string>
-			<key>offset</key>
-			<string>{26,8}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{52,0},{148,150}}</string>
-			<key>sourceSize</key>
-			<string>{200,166}</string>
-		</dict>
-		<key>BOW_walk_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,709},{151,144}}</string>
-			<key>offset</key>
-			<string>{28,7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{56,2},{151,144}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_002.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{171,349},{143,134}}</string>
-			<key>offset</key>
-			<string>{31,3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{63,11},{143,134}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_003.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{152,678},{147,140}}</string>
-			<key>offset</key>
-			<string>{28,4}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{58,7},{147,140}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_004.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{562,267},{131,138}}</string>
-			<key>offset</key>
-			<string>{28,5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{66,7},{131,138}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_005.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{815,121},{119,140}}</string>
-			<key>offset</key>
-			<string>{22,5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{66,6},{119,140}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_006.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{309,507},{115,146}}</string>
-			<key>offset</key>
-			<string>{11,5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{57,3},{115,146}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_007.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{713,123},{101,146}}</string>
-			<key>offset</key>
-			<string>{14,3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{67,5},{101,146}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_008.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{694,270},{107,140}}</string>
-			<key>offset</key>
-			<string>{17,3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{67,8},{107,140}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_009.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{425,528},{121,138}}</string>
-			<key>offset</key>
-			<string>{24,4}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{67,8},{121,138}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_010.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{426,249},{135,142}}</string>
-			<key>offset</key>
-			<string>{30,5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{66,5},{135,142}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>BOW_walk_011.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,413},{159,144}}</string>
-			<key>offset</key>
-			<string>{24,9}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{48,0},{159,144}}</string>
-			<key>sourceSize</key>
-			<string>{207,162}</string>
-		</dict>
-		<key>SBT_spawnBall_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{390,771},{29,28}}</string>
-			<key>offset</key>
-			<string>{6,-2}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{13,4},{29,28}}</string>
-			<key>sourceSize</key>
-			<string>{43,32}</string>
-		</dict>
-		<key>SBT_spawnBall_002.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{989,579},{35,28}}</string>
-			<key>offset</key>
-			<string>{3,-2}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{7,4},{35,28}}</string>
-			<key>sourceSize</key>
-			<string>{43,32}</string>
-		</dict>
-		<key>SBT_spawnBall_003.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{890,628},{43,30}}</string>
-			<key>offset</key>
-			<string>{0,-1}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,2},{43,30}}</string>
-			<key>sourceSize</key>
-			<string>{43,32}</string>
-		</dict>
-		<key>SBT_spawn_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{228,541},{33,11}}</string>
-			<key>offset</key>
-			<string>{-3,-12}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{3,24},{33,11}}</string>
-			<key>sourceSize</key>
-			<string>{45,35}</string>
-		</dict>
-		<key>SBT_spawn_002.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{420,906},{37,17}}</string>
-			<key>offset</key>
-			<string>{-3,-9}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{1,18},{37,17}}</string>
-			<key>sourceSize</key>
-			<string>{45,35}</string>
-		</dict>
-		<key>SBT_spawn_003.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{0,1003},{39,21}}</string>
-			<key>offset</key>
-			<string>{-2,-7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{1,14},{39,21}}</string>
-			<key>sourceSize</key>
-			<string>{45,35}</string>
-		</dict>
-		<key>SBT_spawn_004.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{282,484},{39,25}}</string>
-			<key>offset</key>
-			<string>{-3,-5}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{0,10},{39,25}}</string>
-			<key>sourceSize</key>
-			<string>{45,35}</string>
-		</dict>
-		<key>SBT_spawn_005.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{773,967},{41,29}}</string>
-			<key>offset</key>
-			<string>{-2,-3}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,6},{41,29}}</string>
-			<key>sourceSize</key>
-			<string>{45,35}</string>
-		</dict>
-		<key>SBT_spawn_006.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{846,663},{41,31}}</string>
-			<key>offset</key>
-			<string>{-1,-2}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{1,4},{41,31}}</string>
-			<key>sourceSize</key>
-			<string>{45,35}</string>
-		</dict>
-		<key>SBT_spawn_007.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{846,631},{43,31}}</string>
-			<key>offset</key>
-			<string>{0,-2}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{1,4},{43,31}}</string>
-			<key>sourceSize</key>
-			<string>{45,35}</string>
-		</dict>
-		<key>SBT_spikeHead_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{942,616},{14,11}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{14,11}}</string>
-			<key>sourceSize</key>
-			<string>{14,11}</string>
-		</dict>
-		<key>SBT_spikeShell_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{40,1003},{30,21}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0,0},{30,21}}</string>
-			<key>sourceSize</key>
-			<string>{30,21}</string>
-		</dict>
-		<key>SBT_walk_001.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{942,579},{46,36}}</string>
-			<key>offset</key>
-			<string>{0,1}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{1,9},{46,36}}</string>
-			<key>sourceSize</key>
-			<string>{48,56}</string>
-		</dict>
-		<key>SBT_walk_002.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{300,771},{44,36}}</string>
-			<key>offset</key>
-			<string>{2,1}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{4,9},{44,36}}</string>
-			<key>sourceSize</key>
-			<string>{48,56}</string>
-		</dict>
-		<key>SBT_walk_003.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{345,771},{44,34}}</string>
-			<key>offset</key>
-			<string>{0,0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{2,11},{44,34}}</string>
-			<key>sourceSize</key>
-			<string>{48,56}</string>
-		</dict>
-		<key>SBT_walk_004.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{943,80},{42,40}}</string>
-			<key>offset</key>
-			<string>{-1,6}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{2,2},{42,40}}</string>
-			<key>sourceSize</key>
-			<string>{48,56}</string>
-		</dict>
-		<key>SBT_walk_005.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{716,979},{42,44}}</string>
-			<key>offset</key>
-			<string>{-1,6}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{2,0},{42,44}}</string>
-			<key>sourceSize</key>
-			<string>{48,56}</string>
-		</dict>
-		<key>SBT_walk_006.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{986,80},{38,38}}</string>
-			<key>offset</key>
-			<string>{0,5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{5,4},{38,38}}</string>
-			<key>sourceSize</key>
-			<string>{48,56}</string>
-		</dict>
-		<key>SBT_walk_007.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{846,695},{34,38}}</string>
-			<key>offset</key>
-			<string>{0,2}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{7,7},{34,38}}</string>
-			<key>sourceSize</key>
-			<string>{48,56}</string>
+			<string>{96,112}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -1143,9 +1143,9 @@
 		<key>realTextureFileName</key>
 		<string>BOWSpriteSheet.png</string>
 		<key>size</key>
-		<string>{1024,1024}</string>
+		<string>{2047,2045}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:c4b8ef5ba8e4ef18f8623eb8f1ec81f6$</string>
+		<string>$TexturePacker:SmartUpdate:cb734c7b52cacd722c726b9433320de9$</string>
 		<key>textureFileName</key>
 		<string>BOWSpriteSheet.png</string>
 	</dict>

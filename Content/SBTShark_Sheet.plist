@@ -7,457 +7,457 @@
 		<key>SBTShark_attack_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{82,71},{29,3}}</string>
+			<string>{{207,112},{57,6}}</string>
 			<key>offset</key>
-			<string>{0,-14}</string>
+			<string>{0,-28}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{20,75},{29,3}}</string>
+			<string>{{40,150},{57,6}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{184,54},{35,19}}</string>
+			<string>{{266,476},{67,36}}</string>
 			<key>offset</key>
-			<string>{-3,-7}</string>
+			<string>{-5,-15}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{14,60},{35,19}}</string>
+			<string>{{30,122},{67,36}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{60,76},{43,59}}</string>
+			<string>{{0,392},{83,118}}</string>
 			<key>offset</key>
-			<string>{2,14}</string>
+			<string>{4,29}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{15,19},{43,59}}</string>
+			<string>{{31,37},{83,118}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{45,75}}</string>
+			<string>{{0,0},{89,148}}</string>
 			<key>offset</key>
-			<string>{2,22}</string>
+			<string>{4,44}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{14,3},{45,75}}</string>
+			<string>{{28,7},{89,148}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,200},{57,53}}</string>
+			<string>{{207,0},{111,104}}</string>
 			<key>offset</key>
-			<string>{0,35}</string>
+			<string>{0,69}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{6,1},{57,53}}</string>
+			<string>{{13,4},{111,104}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{159,147},{47,49}}</string>
+			<string>{{401,97},{93,96}}</string>
 			<key>offset</key>
-			<string>{7,37}</string>
+			<string>{14,74}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{18,1},{47,49}}</string>
+			<string>{{36,3},{93,96}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_007.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{147,75},{51,49}}</string>
+			<string>{{401,0},{99,96}}</string>
 			<key>offset</key>
-			<string>{7,38}</string>
+			<string>{15,77}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{16,0},{51,49}}</string>
+			<string>{{34,0},{99,96}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_008.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46,0},{57,61}}</string>
+			<string>{{0,149},{113,122}}</string>
 			<key>offset</key>
-			<string>{6,32}</string>
+			<string>{12,64}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{12,0},{57,61}}</string>
+			<string>{{24,0},{113,122}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_009.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,76},{61,59}}</string>
+			<string>{{90,0},{119,116}}</string>
 			<key>offset</key>
-			<string>{4,29}</string>
+			<string>{9,58}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{8,4},{61,59}}</string>
+			<string>{{18,9},{119,116}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_010.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,138},{61,57}}</string>
+			<string>{{0,272},{119,114}}</string>
 			<key>offset</key>
-			<string>{3,28}</string>
+			<string>{6,56}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{7,6},{61,57}}</string>
+			<string>{{15,12},{119,114}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_011.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{58,138},{59,49}}</string>
+			<string>{{84,392},{117,96}}</string>
 			<key>offset</key>
-			<string>{4,23}</string>
+			<string>{7,45}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{9,15},{59,49}}</string>
+			<string>{{17,32},{117,96}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_012.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{108,136},{51,49}}</string>
+			<string>{{266,376},{99,96}}</string>
 			<key>offset</key>
-			<string>{6,8}</string>
+			<string>{13,15}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{15,30},{51,49}}</string>
+			<string>{{32,62},{99,96}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_013.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{220,0},{35,31}}</string>
+			<string>{{312,90},{69,62}}</string>
 			<key>offset</key>
-			<string>{-1,-2}</string>
+			<string>{-2,-3}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{16,49},{35,31}}</string>
+			<string>{{32,97},{69,62}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_014.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{46,62},{35,13}}</string>
+			<string>{{156,120},{67,22}}</string>
 			<key>offset</key>
-			<string>{-1,-11}</string>
+			<string>{-2,-23}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{16,67},{35,13}}</string>
+			<string>{{33,137},{67,22}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_attack_015.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{129,252},{29,3}}</string>
+			<string>{{172,265},{55,6}}</string>
 			<key>offset</key>
-			<string>{-1,-14}</string>
+			<string>{-1,-28}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{19,75},{29,3}}</string>
+			<string>{{40,150},{55,6}}</string>
 			<key>sourceSize</key>
-			<string>{69,125}</string>
+			<string>{137,250}</string>
 		</dict>
 		<key>SBTShark_death_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{145,0},{53,42}}</string>
+			<string>{{181,384},{103,84}}</string>
 			<key>offset</key>
-			<string>{4,42}</string>
+			<string>{8,84}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{14,0},{53,42}}</string>
+			<string>{{29,0},{103,84}}</string>
 			<key>sourceSize</key>
-			<string>{73,126}</string>
+			<string>{145,252}</string>
 		</dict>
 		<key>SBTShark_death_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{99,198},{53,44}}</string>
+			<string>{{193,143},{105,86}}</string>
 			<key>offset</key>
-			<string>{3,39}</string>
+			<string>{6,77}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{13,2},{53,44}}</string>
+			<string>{{26,6},{105,86}}</string>
 			<key>sourceSize</key>
-			<string>{73,126}</string>
+			<string>{145,252}</string>
 		</dict>
 		<key>SBTShark_death_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{104,75},{53,42}}</string>
+			<string>{{194,272},{103,80}}</string>
 			<key>offset</key>
-			<string>{3,30}</string>
+			<string>{7,59}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{13,12},{53,42}}</string>
+			<string>{{28,27},{103,80}}</string>
 			<key>sourceSize</key>
-			<string>{73,126}</string>
+			<string>{145,252}</string>
 		</dict>
 		<key>SBTShark_death_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{209,149},{45,44}}</string>
+			<string>{{312,0},{89,86}}</string>
 			<key>offset</key>
-			<string>{5,13}</string>
+			<string>{10,26}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{19,28},{45,44}}</string>
+			<string>{{38,57},{89,86}}</string>
 			<key>sourceSize</key>
-			<string>{73,126}</string>
+			<string>{145,252}</string>
 		</dict>
 		<key>SBTShark_death_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{58,198},{57,40}}</string>
+			<string>{{115,272},{111,78}}</string>
 			<key>offset</key>
-			<string>{8,9}</string>
+			<string>{17,18}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{16,34},{57,40}}</string>
+			<string>{{34,69},{111,78}}</string>
 			<key>sourceSize</key>
-			<string>{73,126}</string>
+			<string>{145,252}</string>
 		</dict>
 		<key>SBTShark_death_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{104,0},{59,40}}</string>
+			<string>{{114,149},{115,78}}</string>
 			<key>offset</key>
-			<string>{7,9}</string>
+			<string>{15,18}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{14,34},{59,40}}</string>
+			<string>{{30,69},{115,78}}</string>
 			<key>sourceSize</key>
-			<string>{73,126}</string>
+			<string>{145,252}</string>
 		</dict>
 		<key>SBTShark_dive_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{220,80},{35,24}}</string>
-			<key>offset</key>
-			<string>{0,-5}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{1,10},{35,24}}</string>
-			<key>sourceSize</key>
-			<string>{37,34}</string>
-		</dict>
-		<key>SBTShark_dive_002.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{197,74},{33,22}}</string>
-			<key>offset</key>
-			<string>{1,-5}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{3,11},{33,22}}</string>
-			<key>sourceSize</key>
-			<string>{37,34}</string>
-		</dict>
-		<key>SBTShark_dive_003.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{150,54},{33,20}}</string>
-			<key>offset</key>
-			<string>{2,-7}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{4,14},{33,20}}</string>
-			<key>sourceSize</key>
-			<string>{37,34}</string>
-		</dict>
-		<key>SBTShark_dive_004.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{116,60},{33,14}}</string>
+			<string>{{401,238},{67,46}}</string>
 			<key>offset</key>
 			<string>{1,-10}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{3,20},{33,14}}</string>
+			<string>{{4,21},{67,46}}</string>
 			<key>sourceSize</key>
-			<string>{37,34}</string>
+			<string>{73,68}</string>
+		</dict>
+		<key>SBTShark_dive_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{470,191},{65,42}}</string>
+			<key>offset</key>
+			<string>{2,-10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6,23},{65,42}}</string>
+			<key>sourceSize</key>
+			<string>{73,68}</string>
+		</dict>
+		<key>SBTShark_dive_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469,257},{65,40}}</string>
+			<key>offset</key>
+			<string>{4,-14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8,28},{65,40}}</string>
+			<key>sourceSize</key>
+			<string>{73,68}</string>
+		</dict>
+		<key>SBTShark_dive_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90,120},{65,28}}</string>
+			<key>offset</key>
+			<string>{1,-20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5,40},{65,28}}</string>
+			<key>sourceSize</key>
+			<string>{73,68}</string>
 		</dict>
 		<key>SBTShark_dive_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{82,62},{33,8}}</string>
+			<string>{{193,249},{65,14}}</string>
 			<key>offset</key>
-			<string>{2,-13}</string>
+			<string>{4,-27}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{4,26},{33,8}}</string>
+			<string>{{8,54},{65,14}}</string>
 			<key>sourceSize</key>
-			<string>{37,34}</string>
+			<string>{73,68}</string>
 		</dict>
 		<key>SBTShark_dive_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{104,129},{31,6}}</string>
+			<string>{{224,119},{59,10}}</string>
 			<key>offset</key>
-			<string>{0,-13}</string>
+			<string>{1,-27}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{3,27},{31,6}}</string>
+			<string>{{8,56},{59,10}}</string>
 			<key>sourceSize</key>
-			<string>{37,34}</string>
+			<string>{73,68}</string>
 		</dict>
 		<key>SBTShark_dive_007.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{99,252},{29,4}}</string>
+			<string>{{114,265},{57,6}}</string>
 			<key>offset</key>
-			<string>{-1,-15}</string>
+			<string>{-2,-30}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{3,30},{29,4}}</string>
+			<string>{{6,61},{57,6}}</string>
 			<key>sourceSize</key>
-			<string>{37,34}</string>
+			<string>{73,68}</string>
 		</dict>
 		<key>SBTShark_walk_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{220,54},{35,25}}</string>
+			<string>{{401,191},{68,46}}</string>
 			<key>offset</key>
-			<string>{0,-5}</string>
+			<string>{0,-11}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,10},{35,25}}</string>
+			<string>{{1,23},{68,46}}</string>
 			<key>sourceSize</key>
-			<string>{35,35}</string>
+			<string>{70,70}</string>
 		</dict>
 		<key>SBTShark_walk_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{197,108},{33,21}}</string>
+			<string>{{466,388},{64,40}}</string>
 			<key>offset</key>
-			<string>{-1,-6}</string>
+			<string>{-2,-12}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,13},{33,21}}</string>
+			<string>{{1,27},{64,40}}</string>
 			<key>sourceSize</key>
-			<string>{35,35}</string>
+			<string>{70,70}</string>
 		</dict>
 		<key>SBTShark_walk_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{159,127},{33,19}}</string>
+			<string>{{334,476},{66,36}}</string>
 			<key>offset</key>
-			<string>{-1,-7}</string>
+			<string>{-2,-15}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,15},{33,19}}</string>
+			<string>{{0,32},{66,36}}</string>
 			<key>sourceSize</key>
-			<string>{35,35}</string>
+			<string>{70,70}</string>
 		</dict>
 		<key>SBTShark_walk_004.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{219,129},{33,19}}</string>
+			<string>{{401,324},{66,38}}</string>
 			<key>offset</key>
-			<string>{-1,-8}</string>
+			<string>{-2,-15}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,16},{33,19}}</string>
+			<string>{{0,31},{66,38}}</string>
 			<key>sourceSize</key>
-			<string>{35,35}</string>
+			<string>{70,70}</string>
 		</dict>
 		<key>SBTShark_walk_005.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{222,32},{33,21}}</string>
+			<string>{{401,285},{66,38}}</string>
 			<key>offset</key>
-			<string>{-1,-7}</string>
+			<string>{-2,-15}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,14},{33,21}}</string>
+			<string>{{0,31},{66,38}}</string>
 			<key>sourceSize</key>
-			<string>{35,35}</string>
+			<string>{70,70}</string>
 		</dict>
 		<key>SBTShark_walk_006.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{188,32},{33,21}}</string>
+			<string>{{401,363},{64,40}}</string>
 			<key>offset</key>
-			<string>{-1,-7}</string>
+			<string>{-3,-15}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,14},{33,21}}</string>
+			<string>{{0,30},{64,40}}</string>
 			<key>sourceSize</key>
-			<string>{35,35}</string>
+			<string>{70,70}</string>
 		</dict>
 		<key>SBTShark_walk_007.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{220,105},{33,23}}</string>
+			<string>{{468,323},{64,44}}</string>
 			<key>offset</key>
-			<string>{-1,-6}</string>
+			<string>{-3,-12}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,12},{33,23}}</string>
+			<string>{{0,25},{64,44}}</string>
 			<key>sourceSize</key>
-			<string>{35,35}</string>
+			<string>{70,70}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -467,9 +467,9 @@
 		<key>realTextureFileName</key>
 		<string>SBTShark_Sheet.png</string>
 		<key>size</key>
-		<string>{256,256}</string>
+		<string>{512,512}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:31db4c720cacb593695d3b92977b20ce$</string>
+		<string>$TexturePacker:SmartUpdate:0b5c0e440886ae2e034fcb14b12dc5e6$</string>
 		<key>textureFileName</key>
 		<string>SBTShark_Sheet.png</string>
 	</dict>

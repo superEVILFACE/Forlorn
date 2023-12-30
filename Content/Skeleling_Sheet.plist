@@ -7,314 +7,314 @@
 		<key>Skeleling_Arm_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{45,116},{5,9}}</string>
+			<string>{{114,134},{10,15}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,-1}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{5,9}}</string>
+			<string>{{0,2},{10,15}}</string>
 			<key>sourceSize</key>
-			<string>{5,9}</string>
+			<string>{10,17}</string>
 		</dict>
 		<key>Skeleling_Arm_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{26,101},{7,10}}</string>
+			<string>{{50,168},{13,17}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,1}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{7,10}}</string>
+			<string>{{0,0},{13,17}}</string>
 			<key>sourceSize</key>
-			<string>{7,10}</string>
+			<string>{13,19}</string>
 		</dict>
 		<key>Skeleling_Arrow_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,92},{29,9}}</string>
+			<string>{{2,190},{58,17}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{29,9}}</string>
+			<string>{{0,0},{58,17}}</string>
 			<key>sourceSize</key>
-			<string>{29,9}</string>
+			<string>{58,17}</string>
 		</dict>
 		<key>Skeleling_Body_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{38,64},{20,25}}</string>
+			<string>{{86,38},{39,48}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,1}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{20,25}}</string>
+			<string>{{0,0},{39,48}}</string>
 			<key>sourceSize</key>
-			<string>{20,25}</string>
+			<string>{39,50}</string>
 		</dict>
 		<key>Skeleling_Foot_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{13,105},{12,6}}</string>
+			<string>{{114,151},{22,9}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{-1,-1}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{12,6}}</string>
+			<string>{{0,2},{22,9}}</string>
 			<key>sourceSize</key>
-			<string>{12,6}</string>
+			<string>{24,11}</string>
 		</dict>
 		<key>Skeleling_Foot_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{45,17},{15,5}}</string>
+			<string>{{86,88},{27,10}}</string>
 			<key>offset</key>
-			<string>{-1,-1}</string>
+			<string>{-3,-2}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{15,5}}</string>
+			<string>{{0,4},{27,10}}</string>
 			<key>sourceSize</key>
-			<string>{17,7}</string>
+			<string>{33,14}</string>
 		</dict>
 		<key>Skeleling_Forearm_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{26,92},{7,10}}</string>
+			<string>{{69,172},{13,20}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{7,10}}</string>
+			<string>{{0,0},{13,20}}</string>
 			<key>sourceSize</key>
-			<string>{7,10}</string>
+			<string>{13,20}</string>
 		</dict>
 		<key>Skeleling_Forearm_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{51,105},{5,11}}</string>
+			<string>{{74,91},{10,21}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{5,11}}</string>
+			<string>{{0,0},{10,21}}</string>
 			<key>sourceSize</key>
-			<string>{5,11}</string>
+			<string>{10,21}</string>
 		</dict>
 		<key>Skeleling_Hand01_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{13,119},{7,11}}</string>
+			<string>{{69,133},{14,21}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{7,11}}</string>
+			<string>{{0,0},{14,21}}</string>
 			<key>sourceSize</key>
-			<string>{7,11}</string>
+			<string>{14,21}</string>
 		</dict>
 		<key>Skeleling_Hand01_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{35,116},{8,9}}</string>
+			<string>{{69,114},{15,17}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{8,9}}</string>
+			<string>{{0,0},{15,17}}</string>
 			<key>sourceSize</key>
-			<string>{8,9}</string>
+			<string>{15,17}</string>
 		</dict>
 		<key>Skeleling_Head02_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,17},{41,32}}</string>
+			<string>{{2,28},{82,61}}</string>
 			<key>offset</key>
-			<string>{9,0}</string>
+			<string>{18,-1}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{18,0},{41,32}}</string>
+			<string>{{36,2},{82,61}}</string>
 			<key>sourceSize</key>
-			<string>{59,32}</string>
+			<string>{118,63}</string>
 		</dict>
 		<key>Skeleling_Head03_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,61},{29,34}}</string>
+			<string>{{2,109},{57,65}}</string>
 			<key>offset</key>
-			<string>{3,0}</string>
+			<string>{6,1}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{6,0},{29,34}}</string>
+			<string>{{12,0},{57,65}}</string>
 			<key>sourceSize</key>
-			<string>{35,34}</string>
+			<string>{69,67}</string>
 		</dict>
 		<key>Skeleling_Leg_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{52,91},{12,10}}</string>
+			<string>{{2,168},{23,20}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{12,10}}</string>
+			<string>{{0,0},{23,20}}</string>
 			<key>sourceSize</key>
-			<string>{12,10}</string>
+			<string>{23,20}</string>
 		</dict>
 		<key>Skeleling_Leg_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{38,91},{12,10}}</string>
+			<string>{{85,164},{23,20}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{12,10}}</string>
+			<string>{{0,0},{23,20}}</string>
 			<key>sourceSize</key>
-			<string>{12,10}</string>
+			<string>{23,20}</string>
 		</dict>
 		<key>Skeleling_Shoulder_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{21,110},{8,7}}</string>
+			<string>{{69,156},{14,14}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{-1,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{8,7}}</string>
+			<string>{{0,0},{14,14}}</string>
 			<key>sourceSize</key>
-			<string>{8,7}</string>
+			<string>{16,14}</string>
 		</dict>
 		<key>Skeleling_Shoulder_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{26,119},{7,7}}</string>
+			<string>{{110,175},{14,13}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{7,7}}</string>
+			<string>{{0,0},{14,13}}</string>
 			<key>sourceSize</key>
-			<string>{7,7}</string>
+			<string>{14,13}</string>
 		</dict>
 		<key>Skeleling_Spear_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,2},{57,13}}</string>
+			<string>{{2,2},{114,24}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,-1}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{57,13}}</string>
+			<string>{{0,2},{114,24}}</string>
 			<key>sourceSize</key>
-			<string>{57,13}</string>
+			<string>{114,26}</string>
 		</dict>
 		<key>Skeleling_Thigh_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{38,103},{11,11}}</string>
+			<string>{{84,186},{20,21}}</string>
 			<key>offset</key>
-			<string>{0,-1}</string>
+			<string>{-1,-2}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{11,11}}</string>
+			<string>{{0,4},{20,21}}</string>
 			<key>sourceSize</key>
-			<string>{11,13}</string>
+			<string>{22,25}</string>
 		</dict>
 		<key>Skeleling_Thigh_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{13,92},{11,11}}</string>
+			<string>{{27,168},{20,21}}</string>
 			<key>offset</key>
-			<string>{0,-1}</string>
+			<string>{-1,-2}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{11,11}}</string>
+			<string>{{0,4},{20,21}}</string>
 			<key>sourceSize</key>
-			<string>{11,13}</string>
+			<string>{22,25}</string>
 		</dict>
 		<key>Skeleling_Toes_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,123},{9,3}}</string>
+			<string>{{118,21},{15,6}}</string>
 			<key>offset</key>
-			<string>{0,-1}</string>
+			<string>{-1,-2}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,2},{9,3}}</string>
+			<string>{{0,4},{15,6}}</string>
 			<key>sourceSize</key>
-			<string>{9,5}</string>
+			<string>{17,10}</string>
 		</dict>
 		<key>Skeleling_Toes_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{52,112},{9,5}}</string>
+			<string>{{118,2},{17,7}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{0,-1}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{9,5}}</string>
+			<string>{{0,2},{17,7}}</string>
 			<key>sourceSize</key>
-			<string>{9,5}</string>
+			<string>{17,9}</string>
 		</dict>
 		<key>Skeleling_band_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{39,57},{5,22}}</string>
+			<string>{{115,88},{10,44}}</string>
 			<key>offset</key>
-			<string>{-1,0}</string>
+			<string>{-2,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{5,22}}</string>
+			<string>{{0,0},{10,44}}</string>
 			<key>sourceSize</key>
-			<string>{7,22}</string>
+			<string>{14,44}</string>
 		</dict>
 		<key>Skeleling_bow_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,51},{8,35}}</string>
+			<string>{{2,91},{16,70}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{8,35}}</string>
+			<string>{{0,0},{16,70}}</string>
 			<key>sourceSize</key>
-			<string>{8,35}</string>
+			<string>{16,70}</string>
 		</dict>
 		<key>Skeleling_quiver_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{45,24},{14,31}}</string>
+			<string>{{86,100},{26,62}}</string>
 			<key>offset</key>
-			<string>{0,0}</string>
+			<string>{-1,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{14,31}}</string>
+			<string>{{0,0},{26,62}}</string>
 			<key>sourceSize</key>
-			<string>{14,31}</string>
+			<string>{28,62}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -324,9 +324,9 @@
 		<key>realTextureFileName</key>
 		<string>Skeleling_Sheet.png</string>
 		<key>size</key>
-		<string>{64,128}</string>
+		<string>{127,250}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:9bd301ddc08f265702095ba39d7a72f3$</string>
+		<string>$TexturePacker:SmartUpdate:d182283c573a3cb314b5b1b3d9fd9913$</string>
 		<key>textureFileName</key>
 		<string>Skeleling_Sheet.png</string>
 	</dict>

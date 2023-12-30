@@ -24,11 +24,11 @@ bool MenuScene::init()
     auto gameScene = MenuGameScene::create();
     this->addChild(gameScene);
 
-    auto logo = Sprite::create("forlorn_logo_menu-hd.png");
+    auto logo = Sprite::create("forlorn_logo_menu.png");
     logo->setPosition(Vec2(forlorn::getCenterPoint().x, 545));
     this->addChild(logo);
 
-    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("MenuSheet-hd.plist");
+    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("MenuSheet.plist");
     auto play = Sprite::createWithSpriteFrameName("play_btn.png");
     auto playBtn = MenuItemSprite::create(play, play, AX_CALLBACK_1(MenuScene::onPlay, this));
     playBtn->setPosition(Vec2(forlorn::getCenterPoint().x, 200));
@@ -47,5 +47,5 @@ void MenuScene::onPlay(Ref* sender) {
     auto scene = Scene::create();
     scene->addChild(layer);
     auto transition = TransitionFade::create(0.5f, scene);
-    Director::getInstance()->pushScene(transition);
+    Director::getInstance()->replaceScene(transition);
 }

@@ -7,15 +7,15 @@
 		<key>shopUI_forest.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0,0},{450,313}}</string>
+			<string>{{0,0},{900,626}}</string>
 			<key>offset</key>
-			<string>{0,6}</string>
+			<string>{0,12}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{450,313}}</string>
+			<string>{{0,0},{900,626}}</string>
 			<key>sourceSize</key>
-			<string>{450,325}</string>
+			<string>{900,650}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -25,9 +25,9 @@
 		<key>realTextureFileName</key>
 		<string>shopUI_forest.png</string>
 		<key>size</key>
-		<string>{450,313}</string>
+		<string>{900,626}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:f82140b0d8e85180d047651961dd821a$</string>
+		<string>$TexturePacker:SmartUpdate:4d45b1678c443f9f48393e9a842abedc$</string>
 		<key>textureFileName</key>
 		<string>shopUI_forest.png</string>
 	</dict>

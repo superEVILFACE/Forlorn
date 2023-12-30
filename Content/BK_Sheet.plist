@@ -7,262 +7,262 @@
 		<key>BK_arm_top_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{96,44},{30,38}}</string>
+			<string>{{186,84},{60,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{30,38}}</string>
+			<string>{{0,0},{60,76}}</string>
 			<key>sourceSize</key>
-			<string>{30,38}</string>
+			<string>{60,76}</string>
 		</dict>
 		<key>BK_arm_top_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{56,86},{34,34}}</string>
+			<string>{{144,322},{68,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{34,34}}</string>
+			<string>{{0,0},{68,68}}</string>
 			<key>sourceSize</key>
-			<string>{34,34}</string>
+			<string>{68,68}</string>
 		</dict>
 		<key>BK_foot_back_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{78,196},{38,14}}</string>
+			<string>{{190,2},{76,28}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{38,14}}</string>
+			<string>{{0,0},{76,28}}</string>
 			<key>sourceSize</key>
-			<string>{38,14}</string>
+			<string>{76,28}</string>
 		</dict>
 		<key>BK_foot_front_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{104,122},{38,14}}</string>
+			<string>{{72,480},{76,28}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{38,14}}</string>
+			<string>{{0,0},{76,28}}</string>
 			<key>sourceSize</key>
-			<string>{38,14}</string>
+			<string>{76,28}</string>
 		</dict>
 		<key>BK_foot_top_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{78,236},{26,18}}</string>
+			<string>{{150,450},{52,36}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<false/>
+			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{26,18}}</string>
+			<string>{{0,0},{52,36}}</string>
 			<key>sourceSize</key>
-			<string>{26,18}</string>
+			<string>{52,36}</string>
 		</dict>
 		<key>BK_foot_top_front_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{138,224},{28,20}}</string>
+			<string>{{150,392},{56,40}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{28,20}}</string>
+			<string>{{0,0},{56,40}}</string>
 			<key>sourceSize</key>
-			<string>{28,20}</string>
+			<string>{56,40}</string>
 		</dict>
 		<key>BK_gauntlet01_back_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{126,194},{28,28}}</string>
+			<string>{{276,2},{56,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{28,28}}</string>
+			<string>{{0,0},{56,56}}</string>
 			<key>sourceSize</key>
-			<string>{28,28}</string>
+			<string>{56,56}</string>
 		</dict>
 		<key>BK_gauntlet01_front_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,200},{34,52}}</string>
+			<string>{{2,394},{68,104}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{34,52}}</string>
+			<string>{{0,0},{68,104}}</string>
 			<key>sourceSize</key>
-			<string>{34,52}</string>
+			<string>{68,104}</string>
 		</dict>
 		<key>BK_gauntlet_base_back_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{92,86},{28,34}}</string>
+			<string>{{170,166},{56,68}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{28,34}}</string>
+			<string>{{0,0},{56,68}}</string>
 			<key>sourceSize</key>
-			<string>{28,34}</string>
+			<string>{56,68}</string>
 		</dict>
 		<key>BK_head01_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{56,44},{40,38}}</string>
+			<string>{{108,84},{80,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{40,38}}</string>
+			<string>{{0,0},{80,76}}</string>
 			<key>sourceSize</key>
-			<string>{40,38}</string>
+			<string>{80,76}</string>
 		</dict>
 		<key>BK_leg_cloth_back_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{112,162},{26,30}}</string>
+			<string>{{248,78},{52,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{26,30}}</string>
+			<string>{{0,0},{52,60}}</string>
 			<key>sourceSize</key>
-			<string>{26,30}</string>
+			<string>{52,60}</string>
 		</dict>
 		<key>BK_leg_cloth_front_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{74,164},{30,36}}</string>
+			<string>{{108,166},{60,72}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{30,36}}</string>
+			<string>{{0,0},{60,72}}</string>
 			<key>sourceSize</key>
-			<string>{30,36}</string>
+			<string>{60,72}</string>
 		</dict>
 		<key>BK_shoulder_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{94,196},{30,30}}</string>
+			<string>{{202,236},{60,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{30,30}}</string>
+			<string>{{0,0},{60,60}}</string>
 			<key>sourceSize</key>
-			<string>{30,30}</string>
+			<string>{60,60}</string>
 		</dict>
 		<key>BK_shoulder_b_b_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{106,228},{26,30}}</string>
+			<string>{{228,162},{52,60}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{26,30}}</string>
+			<string>{{0,0},{52,60}}</string>
 			<key>sourceSize</key>
-			<string>{26,30}</string>
+			<string>{52,60}</string>
 		</dict>
 		<key>BK_shoulder_f_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{38,200},{42,38}}</string>
+			<string>{{72,394},{84,76}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{42,38}}</string>
+			<string>{{0,0},{84,76}}</string>
 			<key>sourceSize</key>
-			<string>{42,38}</string>
+			<string>{84,76}</string>
 		</dict>
 		<key>BK_thight_back_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{74,122},{40,28}}</string>
+			<string>{{144,240},{80,56}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{40,28}}</string>
+			<string>{{0,0},{80,56}}</string>
 			<key>sourceSize</key>
-			<string>{40,28}</string>
+			<string>{80,56}</string>
 		</dict>
 		<key>BK_thight_front_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{98,2},{38,28}}</string>
+			<string>{{220,2},{74,54}}</string>
 			<key>offset</key>
-			<string>{-2,0}</string>
+			<string>{-5,-1}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{38,28}}</string>
+			<string>{{0,2},{74,54}}</string>
 			<key>sourceSize</key>
-			<string>{42,28}</string>
+			<string>{84,56}</string>
 		</dict>
 		<key>BK_torso_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,122},{70,76}}</string>
+			<string>{{2,240},{140,152}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{70,76}}</string>
+			<string>{{0,0},{140,152}}</string>
 			<key>sourceSize</key>
-			<string>{70,76}</string>
+			<string>{140,152}</string>
 		</dict>
 		<key>BK_wep01_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2,2},{52,118}}</string>
+			<string>{{2,2},{104,236}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{52,118}}</string>
+			<string>{{0,0},{104,236}}</string>
 			<key>sourceSize</key>
-			<string>{52,118}</string>
+			<string>{104,236}</string>
 		</dict>
 		<key>spikeBall_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{56,2},{40,40}}</string>
+			<string>{{108,2},{80,80}}</string>
 			<key>offset</key>
 			<string>{0,0}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{40,40}}</string>
+			<string>{{0,0},{80,80}}</string>
 			<key>sourceSize</key>
-			<string>{40,40}</string>
+			<string>{80,80}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -272,9 +272,9 @@
 		<key>realTextureFileName</key>
 		<string>BK_Sheet.png</string>
 		<key>size</key>
-		<string>{160,256}</string>
+		<string>{334,510}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:285d630324cd930c8c8b89a03c0732d5$</string>
+		<string>$TexturePacker:SmartUpdate:d23b115c4bf49cdaa663db56dfb69b3a$</string>
 		<key>textureFileName</key>
 		<string>BK_Sheet.png</string>
 	</dict>

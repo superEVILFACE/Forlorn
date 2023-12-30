@@ -7,67 +7,67 @@
 		<key>LargeCreature_Eye_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{58,32},{56,22}}</string>
+			<string>{{1,1},{112,42}}</string>
 			<key>offset</key>
-			<string>{-2,2}</string>
+			<string>{-4,3}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,14},{56,22}}</string>
+			<string>{{0,30},{112,42}}</string>
 			<key>sourceSize</key>
-			<string>{60,54}</string>
+			<string>{120,108}</string>
 		</dict>
 		<key>LargeCreature_Eye_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{58,1},{56,30}}</string>
+			<string>{{1,44},{110,58}}</string>
 			<key>offset</key>
-			<string>{-2,6}</string>
+			<string>{-5,11}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,6},{56,30}}</string>
+			<string>{{0,14},{110,58}}</string>
 			<key>sourceSize</key>
-			<string>{60,54}</string>
+			<string>{120,108}</string>
 		</dict>
 		<key>LargeCreature_Eye_003.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1,1},{56,36}}</string>
+			<string>{{114,1},{110,72}}</string>
 			<key>offset</key>
-			<string>{-2,9}</string>
+			<string>{-5,18}</string>
 			<key>rotated</key>
 			<false/>
 			<key>sourceColorRect</key>
-			<string>{{0,0},{56,36}}</string>
+			<string>{{0,0},{110,72}}</string>
 			<key>sourceSize</key>
-			<string>{60,54}</string>
+			<string>{120,108}</string>
 		</dict>
 		<key>LargeCreature_Mouth_001.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{43,55},{157,27}}</string>
+			<string>{{112,74},{312,53}}</string>
 			<key>offset</key>
-			<string>{7,-2}</string>
+			<string>{15,-4}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{29,10},{157,27}}</string>
+			<string>{{60,20},{312,53}}</string>
 			<key>sourceSize</key>
-			<string>{201,43}</string>
+			<string>{402,85}</string>
 		</dict>
 		<key>LargeCreature_Mouth_002.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1,38},{175,41}}</string>
+			<string>{{1,103},{348,81}}</string>
 			<key>offset</key>
-			<string>{13,1}</string>
+			<string>{27,2}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{26,0},{175,41}}</string>
+			<string>{{54,0},{348,81}}</string>
 			<key>sourceSize</key>
-			<string>{201,43}</string>
+			<string>{402,85}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -77,9 +77,9 @@
 		<key>realTextureFileName</key>
 		<string>LargeCreature_Sheet.png</string>
 		<key>size</key>
-		<string>{115,214}</string>
+		<string>{225,452}</string>
 		<key>smartupdate</key>
-		<string>$TexturePacker:SmartUpdate:ce796fa1e86ce9519d8fa85d8b4167c4$</string>
+		<string>$TexturePacker:SmartUpdate:2ef76d71314562de1d19db67f6b75376$</string>
 		<key>textureFileName</key>
 		<string>LargeCreature_Sheet.png</string>
 	</dict>

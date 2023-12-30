@@ -24,6 +24,19 @@ bool MenuGameScene::init()
     bg->setScale(2.5f);
     this->addChild(bg);
 
+    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("CommonSheet_01.plist");
+    auto fire1 = AnimatedSprite::createWithSpriteFrameName("Fire_01.png");
+    fire1->setPosition(Vec2(431.9, 242.7));
+    fire1->setScale(0.69);
+    fire1->runAnimation("Fire_01_looped_%03d.png", 12.0f, true);
+    this->addChild(fire1);
+
+    auto fire2 = AnimatedSprite::createWithSpriteFrameName("Fire_01.png");
+    fire2->setPosition(Vec2(44.9, 242.7));
+    fire2->setScale(0.69);
+    fire2->runAnimation("Fire_01_looped_%03d.png", 12.0f, true);
+    this->addChild(fire2);
+
     scheduleUpdate();
     return true;
 }
