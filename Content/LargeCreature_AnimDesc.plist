@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainer</key>
+	<dict>
+		<key>LargeCreature_reveal_001.png</key>
+		<dict/>
+		<key>LargeCreature_reveal_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{55, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{1, 0}</string>
+				<key>position</key>
+				<string>{-44, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+		</dict>
+		<key>LargeCreature_reveal_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{55, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_002.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{1, 0}</string>
+				<key>position</key>
+				<string>{-44, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_002.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+		</dict>
+		<key>LargeCreature_reveal_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{55, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_003.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{1, 0}</string>
+				<key>position</key>
+				<string>{-44, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_003.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+		</dict>
+		<key>LargeCreature_reveal_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 0.999}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>LargeCreature_Mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{55, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_003.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{1, 0}</string>
+				<key>position</key>
+				<string>{-44, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_003.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>LargeCreature_reveal_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 0.999}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>LargeCreature_Mouth_002.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{55, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_003.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{1, 0}</string>
+				<key>position</key>
+				<string>{-44, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_003.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>LargeCreature_reveal_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.010, 1.006}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>LargeCreature_Mouth_002.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{55, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_003.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{1, 0}</string>
+				<key>position</key>
+				<string>{-44, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.000, 1.000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>LargeCreature_Eye_003.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>usedTextures</key>
+	<dict>
+		<key>texture_0</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>texture</key>
+			<string>0</string>
+		</dict>
+		<key>texture_1</key>
+		<dict>
+			<key>tag</key>
+			<string>1</string>
+			<key>texture</key>
+			<string>0</string>
+		</dict>
+		<key>texture_2</key>
+		<dict>
+			<key>tag</key>
+			<string>2</string>
+			<key>texture</key>
+			<string>0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

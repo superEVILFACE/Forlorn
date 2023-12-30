@@ -1,0 +1,6663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainer</key>
+	<dict>
+		<key>GateKeeper_idle_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, 13.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.65, -38.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, -18.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.45, 0.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.15, 19.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.2, 13.8}</string>
+				<key>rotation</key>
+				<string>-0.0463409423828125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.75, -38.7}</string>
+				<key>rotation</key>
+				<string>0.2613983154296875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.15, -18.95}</string>
+				<key>rotation</key>
+				<string>-0.0192413330078125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.65, 0.05}</string>
+				<key>rotation</key>
+				<string>-0.5079345703125</string>
+				<key>scale</key>
+				<string>{0.99996, 0.99996}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.75, 13.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.25, 19}</string>
+				<key>rotation</key>
+				<string>-0.0480804443359375</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.05, 13.7}</string>
+				<key>rotation</key>
+				<string>-0.275390625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.8, -38.75}</string>
+				<key>rotation</key>
+				<string>0.514923095703125</string>
+				<key>scale</key>
+				<string>{0.99996, 0.99996}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -19}</string>
+				<key>rotation</key>
+				<string>-0.0358428955078125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.8, -0.05}</string>
+				<key>rotation</key>
+				<string>-1.001800537109375</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.85, 13.3}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.35, 18.85}</string>
+				<key>rotation</key>
+				<string>-0.28326416015625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.2, 13.55}</string>
+				<key>rotation</key>
+				<string>-0.5332794189453125</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.9, -38.85}</string>
+				<key>rotation</key>
+				<string>1.001800537109375</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.3, -19.1}</string>
+				<key>rotation</key>
+				<string>-0.252655029296875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.1, -0.2}</string>
+				<key>rotation</key>
+				<string>-1.7654571533203125</string>
+				<key>scale</key>
+				<string>{0.99989, 0.99989}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1, 13.2}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.6, 18.55}</string>
+				<key>rotation</key>
+				<string>-0.7553253173828125</string>
+				<key>scale</key>
+				<string>{0.99995, 0.99995}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.55, 13.3}</string>
+				<key>rotation</key>
+				<string>-1.007049560546875</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.1, -39.05}</string>
+				<key>rotation</key>
+				<string>1.5357208251953125</string>
+				<key>scale</key>
+				<string>{0.99990, 0.99990}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.7, -19.3}</string>
+				<key>rotation</key>
+				<string>-0.2937469482421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.5, -0.45}</string>
+				<key>rotation</key>
+				<string>-2.7997894287109375</string>
+				<key>scale</key>
+				<string>{0.99985, 0.99985}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.25, 13.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.9, 18.05}</string>
+				<key>rotation</key>
+				<string>-1.287567138671875</string>
+				<key>scale</key>
+				<string>{0.99993, 0.99993}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.95, 13.05}</string>
+				<key>rotation</key>
+				<string>-1.312042236328125</string>
+				<key>scale</key>
+				<string>{0.99993, 0.99993}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.3, -39.25}</string>
+				<key>rotation</key>
+				<string>2.2832489013671875</string>
+				<key>scale</key>
+				<string>{0.99986, 0.99986}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.15, -19.5}</string>
+				<key>rotation</key>
+				<string>-0.5289154052734375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.95, -0.7}</string>
+				<key>rotation</key>
+				<string>-4.260284423828125</string>
+				<key>scale</key>
+				<string>{0.99977, 0.99977}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.5, 12.95}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.3, 17.55}</string>
+				<key>rotation</key>
+				<string>-2.0108489990234375</string>
+				<key>scale</key>
+				<string>{0.99990, 0.99990}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.15, 12.9}</string>
+				<key>rotation</key>
+				<string>-1.7331390380859375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.4, -39.35}</string>
+				<key>rotation</key>
+				<string>2.7622833251953125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.4, -19.6}</string>
+				<key>rotation</key>
+				<string>-0.7133636474609375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.2, -0.85}</string>
+				<key>rotation</key>
+				<string>-4.9655914306640625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.65, 12.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.4, 17.4}</string>
+				<key>rotation</key>
+				<string>-2.259674072265625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_008.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, 13.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.65, -38.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, -18.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.45, 0.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.15, 19.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_009.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.25, 13.95}</string>
+				<key>rotation</key>
+				<string>-0.00787353515625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.75, -38.5}</string>
+				<key>rotation</key>
+				<string>0.285003662109375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.25, -18.8}</string>
+				<key>rotation</key>
+				<string>0.2692718505859375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.5, 0.15}</string>
+				<key>rotation</key>
+				<string>-0.30511474609375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.2, 18.75}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_010.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.15, 14}</string>
+				<key>rotation</key>
+				<string>-0.0139923095703125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.85, -38.4}</string>
+				<key>rotation</key>
+				<string>0.5560150146484375</string>
+				<key>scale</key>
+				<string>{0.99996, 0.99996}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.1, -18.75}</string>
+				<key>rotation</key>
+				<string>0.54290771484375</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.55, 0.15}</string>
+				<key>rotation</key>
+				<string>-0.7684326171875</string>
+				<key>scale</key>
+				<string>{0.99995, 0.99995}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.25, 18.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_011.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, 14.1}</string>
+				<key>rotation</key>
+				<string>-0.0262298583984375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2, -38.25}</string>
+				<key>rotation</key>
+				<string>1.2770843505859375</string>
+				<key>scale</key>
+				<string>{0.99991, 0.99991}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.2, -18.6}</string>
+				<key>rotation</key>
+				<string>1.290191650390625</string>
+				<key>scale</key>
+				<string>{0.99992, 0.99992}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.6, 0.15}</string>
+				<key>rotation</key>
+				<string>-1.287567138671875</string>
+				<key>scale</key>
+				<string>{0.99992, 0.99992}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.3, 17.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_012.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.3, 14.2}</string>
+				<key>rotation</key>
+				<string>-0.0454559326171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.3, -37.95}</string>
+				<key>rotation</key>
+				<string>2.2876129150390625</string>
+				<key>scale</key>
+				<string>{0.99988, 0.99988}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.5, -18.4}</string>
+				<key>rotation</key>
+				<string>2.27276611328125</string>
+				<key>scale</key>
+				<string>{0.99987, 0.99987}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.7, 0.15}</string>
+				<key>rotation</key>
+				<string>-2.2867279052734375</string>
+				<key>scale</key>
+				<string>{0.99987, 0.99987}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.4, 17}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_013.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.55, 14.35}</string>
+				<key>rotation</key>
+				<string>-0.2517852783203125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.55, -37.7}</string>
+				<key>rotation</key>
+				<string>3.2845001220703125</string>
+				<key>scale</key>
+				<string>{0.99983, 0.99983}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, -18.35}</string>
+				<key>rotation</key>
+				<string>2.685516357421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.8, 0.15}</string>
+				<key>rotation</key>
+				<string>-3.546722412109375</string>
+				<key>scale</key>
+				<string>{0.99981, 0.99981}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.5, 15.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_014.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 14.4}</string>
+				<key>rotation</key>
+				<string>-0.28326416015625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.65, -37.6}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, -18.35}</string>
+				<key>rotation</key>
+				<string>2.685516357421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.9, 0.15}</string>
+				<key>rotation</key>
+				<string>-4.548828125</string>
+				<key>scale</key>
+				<string>{0.99975, 0.99975}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.6, 14.95}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_idle_015.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 14.4}</string>
+				<key>rotation</key>
+				<string>-0.28326416015625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.65, -37.6}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, -18.35}</string>
+				<key>rotation</key>
+				<string>2.685516357421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.95, 0.15}</string>
+				<key>rotation</key>
+				<string>-5.0341339111328125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.65, 14.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, 13.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.2, -26.6}</string>
+				<key>rotation</key>
+				<string>-22.667770385742188</string>
+				<key>scale</key>
+				<string>{0.83403, 0.83403}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.65, -38.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, -18.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.45, 0.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.15, 19.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.6, 14.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.9, -26.6}</string>
+				<key>rotation</key>
+				<string>-21.079269409179688</string>
+				<key>scale</key>
+				<string>{0.85930, 0.85930}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.75, -38.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.25, -18.55}</string>
+				<key>rotation</key>
+				<string>1.034149169921875</string>
+				<key>scale</key>
+				<string>{0.99993, 0.99993}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.55, 0.3}</string>
+				<key>rotation</key>
+				<string>1.0254058837890625</string>
+				<key>scale</key>
+				<string>{0.99993, 0.99993}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.75, 13.45}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.05, 19.55}</string>
+				<key>rotation</key>
+				<string>0.758819580078125</string>
+				<key>scale</key>
+				<string>{0.99995, 0.99995}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1, 14.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, -26.55}</string>
+				<key>rotation</key>
+				<string>-18.558135986328125</string>
+				<key>scale</key>
+				<string>{0.90550, 0.90550}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2, -39.45}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -18}</string>
+				<key>rotation</key>
+				<string>3.036102294921875</string>
+				<key>scale</key>
+				<string>{0.99982, 0.99982}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.8, 0.6}</string>
+				<key>rotation</key>
+				<string>3.0108184814453125</string>
+				<key>scale</key>
+				<string>{0.99982, 0.99982}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1, 13.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.85, 20.25}</string>
+				<key>rotation</key>
+				<string>2.0431671142578125</string>
+				<key>scale</key>
+				<string>{0.99987, 0.99987}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.55, 15.75}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.45, -26.5}</string>
+				<key>rotation</key>
+				<string>-15.05926513671875</string>
+				<key>scale</key>
+				<string>{0.96822, 0.96822}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.25, -40.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.25, -17.2}</string>
+				<key>rotation</key>
+				<string>5.7784423828125</string>
+				<key>scale</key>
+				<string>{0.99966, 0.99966}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.05, 0.95}</string>
+				<key>rotation</key>
+				<string>5.545562744140625</string>
+				<key>scale</key>
+				<string>{0.99967, 0.99967}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.25, 13.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.6, 21.2}</string>
+				<key>rotation</key>
+				<string>4.0132904052734375</string>
+				<key>scale</key>
+				<string>{0.99978, 0.99978}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.85, 16.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.8, -26.5}</string>
+				<key>rotation</key>
+				<string>-13.462966918945313</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.4, -40.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.4, -16.85}</string>
+				<key>rotation</key>
+				<string>7.2007598876953125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.2, 1.15}</string>
+				<key>rotation</key>
+				<string>6.9743194580078125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.4, 13.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.5, 21.65}</string>
+				<key>rotation</key>
+				<string>4.9803466796875</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.7, 16.1}</string>
+				<key>rotation</key>
+				<string>0.006988525390625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.8, -26.45}</string>
+				<key>rotation</key>
+				<string>-11.565933227539063</string>
+				<key>scale</key>
+				<string>{0.99937, 0.99937}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.45, -41}</string>
+				<key>rotation</key>
+				<string>0.2989959716796875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.35, -16.8}</string>
+				<key>rotation</key>
+				<string>6.549285888671875</string>
+				<key>scale</key>
+				<string>{0.99963, 0.99963}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.3, 1.1}</string>
+				<key>rotation</key>
+				<string>6.3049774169921875</string>
+				<key>scale</key>
+				<string>{0.99964, 0.99964}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.5, 13.7}</string>
+				<key>rotation</key>
+				<string>-0.503570556640625</string>
+				<key>scale</key>
+				<string>{0.99996, 0.99996}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.8, 21.55}</string>
+				<key>rotation</key>
+				<string>4.2733306884765625</string>
+				<key>scale</key>
+				<string>{0.99976, 0.99976}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.55, 16.1}</string>
+				<key>rotation</key>
+				<string>0.0166168212890625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.85, -26.5}</string>
+				<key>rotation</key>
+				<string>-9.3043212890625</string>
+				<key>scale</key>
+				<string>{0.99951, 0.99951}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.45, -41.5}</string>
+				<key>rotation</key>
+				<string>1.009674072265625</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.25, -16.7}</string>
+				<key>rotation</key>
+				<string>6.00335693359375</string>
+				<key>scale</key>
+				<string>{0.99967, 0.99967}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.4, 1.1}</string>
+				<key>rotation</key>
+				<string>5.7602691650390625</string>
+				<key>scale</key>
+				<string>{0.99966, 0.99966}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.65, 13.75}</string>
+				<key>rotation</key>
+				<string>-1.048126220703125</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.3, 21.55}</string>
+				<key>rotation</key>
+				<string>3.3115234375</string>
+				<key>scale</key>
+				<string>{0.99981, 0.99981}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_008.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.25, 16.05}</string>
+				<key>rotation</key>
+				<string>0.0323486328125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.9, -26.35}</string>
+				<key>rotation</key>
+				<string>-5.3046875</string>
+				<key>scale</key>
+				<string>{0.99969, 0.99969}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.55, -42.4}</string>
+				<key>rotation</key>
+				<string>2.0178375244140625</string>
+				<key>scale</key>
+				<string>{0.99987, 0.99987}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.05, -16.55}</string>
+				<key>rotation</key>
+				<string>4.7685546875</string>
+				<key>scale</key>
+				<string>{0.99974, 0.99974}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.65, 1}</string>
+				<key>rotation</key>
+				<string>4.5253753662109375</string>
+				<key>scale</key>
+				<string>{0.99976, 0.99976}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.9, 13.9}</string>
+				<key>rotation</key>
+				<string>-2.2823638916015625</string>
+				<key>scale</key>
+				<string>{0.99988, 0.99988}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.05, 21.25}</string>
+				<key>rotation</key>
+				<string>2.003875732421875</string>
+				<key>scale</key>
+				<string>{0.99986, 0.99986}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_009.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1, 16}</string>
+				<key>rotation</key>
+				<string>0.0480804443359375</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.95, -26.35}</string>
+				<key>rotation</key>
+				<string>-1.554931640625</string>
+				<key>scale</key>
+				<string>{0.99991, 0.99991}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.6, -43.2}</string>
+				<key>rotation</key>
+				<string>3.009063720703125</string>
+				<key>scale</key>
+				<string>{0.99982, 0.99982}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.1, -16.45}</string>
+				<key>rotation</key>
+				<string>3.5536956787109375</string>
+				<key>scale</key>
+				<string>{0.99982, 0.99982}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.8, 0.95}</string>
+				<key>rotation</key>
+				<string>3.30889892578125</string>
+				<key>scale</key>
+				<string>{0.99982, 0.99982}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.15, 14}</string>
+				<key>rotation</key>
+				<string>-3.3115234375</string>
+				<key>scale</key>
+				<string>{0.99982, 0.99982}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.85, 21.15}</string>
+				<key>rotation</key>
+				<string>0.5315399169921875</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_010.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.85, 15.95}</string>
+				<key>rotation</key>
+				<string>0.21856689453125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.95, -26.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.65, -43.6}</string>
+				<key>rotation</key>
+				<string>3.4813995361328125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.15, -16.35}</string>
+				<key>rotation</key>
+				<string>3.197357177734375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.9, 0.9}</string>
+				<key>rotation</key>
+				<string>2.9715728759765625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.25, 14.05}</string>
+				<key>rotation</key>
+				<string>-4.00372314453125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.2, 21.1}</string>
+				<key>rotation</key>
+				<string>-0.012237548828125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_011.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.75, 16.15}</string>
+				<key>rotation</key>
+				<string>0.7937774658203125</string>
+				<key>scale</key>
+				<string>{0.99993, 0.99993}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.15, -25.7}</string>
+				<key>rotation</key>
+				<string>-2.03094482421875</string>
+				<key>scale</key>
+				<string>{0.99988, 0.99988}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.9, -42.25}</string>
+				<key>rotation</key>
+				<string>5.5438232421875</string>
+				<key>scale</key>
+				<string>{0.99969, 0.99969}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.05, -16.05}</string>
+				<key>rotation</key>
+				<string>3.7887725830078125</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.8, 1.35}</string>
+				<key>rotation</key>
+				<string>3.5458526611328125</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.05, 14.45}</string>
+				<key>rotation</key>
+				<string>-3.262725830078125</string>
+				<key>scale</key>
+				<string>{0.99980, 0.99980}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.9, 21.5}</string>
+				<key>rotation</key>
+				<string>-0.7815399169921875</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_012.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.6, 16.45}</string>
+				<key>rotation</key>
+				<string>1.7768096923828125</string>
+				<key>scale</key>
+				<string>{0.99989, 0.99989}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.4, -24.9}</string>
+				<key>rotation</key>
+				<string>-4.7946014404296875</string>
+				<key>scale</key>
+				<string>{0.99973, 0.99973}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.35, -40.45}</string>
+				<key>rotation</key>
+				<string>8.518447875976563</string>
+				<key>scale</key>
+				<string>{0.99951, 0.99951}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.2, -15.5}</string>
+				<key>rotation</key>
+				<string>4.7729034423828125</string>
+				<key>scale</key>
+				<string>{0.99974, 0.99974}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.8, 2.05}</string>
+				<key>rotation</key>
+				<string>4.5305938720703125</string>
+				<key>scale</key>
+				<string>{0.99974, 0.99974}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.8, 14.9}</string>
+				<key>rotation</key>
+				<string>-2.2788848876953125</string>
+				<key>scale</key>
+				<string>{0.99988, 0.99988}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, 22.05}</string>
+				<key>rotation</key>
+				<string>-2.003875732421875</string>
+				<key>scale</key>
+				<string>{0.99986, 0.99986}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_013.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, 16.9}</string>
+				<key>rotation</key>
+				<string>3.30889892578125</string>
+				<key>scale</key>
+				<string>{0.99981, 0.99981}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.85, -23.6}</string>
+				<key>rotation</key>
+				<string>-9.770263671875</string>
+				<key>scale</key>
+				<string>{0.99945, 0.99945}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.9, -37.4}</string>
+				<key>rotation</key>
+				<string>13.5340576171875</string>
+				<key>scale</key>
+				<string>{0.99923, 0.99923}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.6, -14.65}</string>
+				<key>rotation</key>
+				<string>6.304107666015625</string>
+				<key>scale</key>
+				<string>{0.99965, 0.99965}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.65, 3.15}</string>
+				<key>rotation</key>
+				<string>6.0612945556640625</string>
+				<key>scale</key>
+				<string>{0.99965, 0.99965}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.25, 15.75}</string>
+				<key>rotation</key>
+				<string>-0.55950927734375</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.8, 22.95}</string>
+				<key>rotation</key>
+				<string>-3.813140869140625</string>
+				<key>scale</key>
+				<string>{0.99977, 0.99977}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_014.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.1, 17.35}</string>
+				<key>rotation</key>
+				<string>5.004638671875</string>
+				<key>scale</key>
+				<string>{0.99971, 0.99971}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.25, -22.35}</string>
+				<key>rotation</key>
+				<string>-14.298431396484375</string>
+				<key>scale</key>
+				<string>{0.99922, 0.99922}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, -34.45}</string>
+				<key>rotation</key>
+				<string>18.289779663085938</string>
+				<key>scale</key>
+				<string>{0.99900, 0.99900}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.95, -13.85}</string>
+				<key>rotation</key>
+				<string>7.8134613037109375</string>
+				<key>scale</key>
+				<string>{0.99956, 0.99956}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.45, 4.15}</string>
+				<key>rotation</key>
+				<string>7.7585296630859375</string>
+				<key>scale</key>
+				<string>{0.99957, 0.99957}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.85, 16.65}</string>
+				<key>rotation</key>
+				<string>0.7596893310546875</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.15, 23.85}</string>
+				<key>rotation</key>
+				<string>-5.780181884765625</string>
+				<key>scale</key>
+				<string>{0.99967, 0.99967}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_015.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, 17.55}</string>
+				<key>rotation</key>
+				<string>5.7118072509765625</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.45, -21.8}</string>
+				<key>rotation</key>
+				<string>-16.504302978515625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.75, -33.1}</string>
+				<key>rotation</key>
+				<string>20.50543212890625</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.1, -13.5}</string>
+				<key>rotation</key>
+				<string>8.68939208984375</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.45, 4.7}</string>
+				<key>rotation</key>
+				<string>8.463714599609375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.6, 16.95}</string>
+				<key>rotation</key>
+				<string>1.489410400390625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.85, 24.25}</string>
+				<key>rotation</key>
+				<string>-6.71490478515625</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_016.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, 17.45}</string>
+				<key>rotation</key>
+				<string>5.0419464111328125</string>
+				<key>scale</key>
+				<string>{0.99969, 0.99969}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.3, -22.25}</string>
+				<key>rotation</key>
+				<string>-17.541000366210938</string>
+				<key>scale</key>
+				<string>{0.99905, 0.99905}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.35, -34.1}</string>
+				<key>rotation</key>
+				<string>16.796401977539063</string>
+				<key>scale</key>
+				<string>{0.99908, 0.99908}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.9, -13.8}</string>
+				<key>rotation</key>
+				<string>7.52923583984375</string>
+				<key>scale</key>
+				<string>{0.99955, 0.99955}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.55, 4.25}</string>
+				<key>rotation</key>
+				<string>7.284210205078125</string>
+				<key>scale</key>
+				<string>{0.99958, 0.99958}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.95, 16.65}</string>
+				<key>rotation</key>
+				<string>0.287628173828125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.2, 23.75}</string>
+				<key>rotation</key>
+				<string>-7.006195068359375</string>
+				<key>scale</key>
+				<string>{0.99959, 0.99959}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_017.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.05, 17.25}</string>
+				<key>rotation</key>
+				<string>4.29766845703125</string>
+				<key>scale</key>
+				<string>{0.99974, 0.99974}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.15, -22.65}</string>
+				<key>rotation</key>
+				<string>-19.030593872070313</string>
+				<key>scale</key>
+				<string>{0.99896, 0.99896}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.75, -35.4}</string>
+				<key>rotation</key>
+				<string>12.030014038085938</string>
+				<key>scale</key>
+				<string>{0.99933, 0.99933}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.6, -14.2}</string>
+				<key>rotation</key>
+				<string>6.041412353515625</string>
+				<key>scale</key>
+				<string>{0.99963, 0.99963}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.6, 3.6}</string>
+				<key>rotation</key>
+				<string>5.7966156005859375</string>
+				<key>scale</key>
+				<string>{0.99968, 0.99968}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.4, 16.15}</string>
+				<key>rotation</key>
+				<string>-1.0105438232421875</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.85, 23}</string>
+				<key>rotation</key>
+				<string>-7.292816162109375</string>
+				<key>scale</key>
+				<string>{0.99957, 0.99957}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_018.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.1, 17.05}</string>
+				<key>rotation</key>
+				<string>3.0439453125</string>
+				<key>scale</key>
+				<string>{0.99982, 0.99982}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.7, -23.6}</string>
+				<key>rotation</key>
+				<string>-21.53985595703125</string>
+				<key>scale</key>
+				<string>{0.99887, 0.99887}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.8, -37.7}</string>
+				<key>rotation</key>
+				<string>3.5589141845703125</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.05, -14.85}</string>
+				<key>rotation</key>
+				<string>3.537139892578125</string>
+				<key>scale</key>
+				<string>{0.99980, 0.99980}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.8, 2.45}</string>
+				<key>rotation</key>
+				<string>3.2923431396484375</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.15, 15.5}</string>
+				<key>rotation</key>
+				<string>-3.514495849609375</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.8, 21.85}</string>
+				<key>rotation</key>
+				<string>-8.03131103515625</string>
+				<key>scale</key>
+				<string>{0.99953, 0.99953}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_019.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.15, 16.7}</string>
+				<key>rotation</key>
+				<string>1.8091278076171875</string>
+				<key>scale</key>
+				<string>{0.99989, 0.99989}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.4, -24.45}</string>
+				<key>rotation</key>
+				<string>-23.82281494140625</string>
+				<key>scale</key>
+				<string>{0.99878, 0.99878}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.85, -39.85}</string>
+				<key>rotation</key>
+				<string>-4.0306854248046875</string>
+				<key>scale</key>
+				<string>{0.99977, 0.99977}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.55, -15.45}</string>
+				<key>rotation</key>
+				<string>1.2561187744140625</string>
+				<key>scale</key>
+				<string>{0.99990, 0.99990}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.95, 1.45}</string>
+				<key>rotation</key>
+				<string>1.0131683349609375</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.85, 14.75}</string>
+				<key>rotation</key>
+				<string>-5.7940216064453125</string>
+				<key>scale</key>
+				<string>{0.99964, 0.99964}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.75, 20.65}</string>
+				<key>rotation</key>
+				<string>-8.756866455078125</string>
+				<key>scale</key>
+				<string>{0.99949, 0.99949}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_020.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.15, 16.6}</string>
+				<key>rotation</key>
+				<string>1.439605712890625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.2, -24.85}</string>
+				<key>rotation</key>
+				<string>-24.99932861328125</string>
+				<key>scale</key>
+				<string>{1.00001, 1.00001}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.45, -40.85}</string>
+				<key>rotation</key>
+				<string>-7.7250518798828125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.8, -15.65}</string>
+				<key>rotation</key>
+				<string>0.194091796875</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.1, 0.95}</string>
+				<key>rotation</key>
+				<string>-0.0314788818359375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.2, 14.5}</string>
+				<key>rotation</key>
+				<string>-7.006195068359375</string>
+				<key>scale</key>
+				<string>{1.00001, 1.00001}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.15, 20.2}</string>
+				<key>rotation</key>
+				<string>-9.059783935546875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_021.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, 16.5}</string>
+				<key>rotation</key>
+				<string>1.290191650390625</string>
+				<key>scale</key>
+				<string>{0.99990, 0.99990}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.95, -24.8}</string>
+				<key>rotation</key>
+				<string>-24.341644287109375</string>
+				<key>scale</key>
+				<string>{0.99876, 0.99876}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.35, -40.15}</string>
+				<key>rotation</key>
+				<string>-5.018524169921875</string>
+				<key>scale</key>
+				<string>{0.99971, 0.99971}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.6, -15.65}</string>
+				<key>rotation</key>
+				<string>0.5507659912109375</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.15, 1.05}</string>
+				<key>rotation</key>
+				<string>0.3059844970703125</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3, 14.5}</string>
+				<key>rotation</key>
+				<string>-6.3144683837890625</string>
+				<key>scale</key>
+				<string>{0.99962, 0.99962}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.05, 20.25}</string>
+				<key>rotation</key>
+				<string>-8.516738891601563</string>
+				<key>scale</key>
+				<string>{0.99949, 0.99949}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_022.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.25, 16.4}</string>
+				<key>rotation</key>
+				<string>1.278839111328125</string>
+				<key>scale</key>
+				<string>{0.99991, 0.99991}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.55, -24.8}</string>
+				<key>rotation</key>
+				<string>-23.797927856445313</string>
+				<key>scale</key>
+				<string>{0.99880, 0.99880}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.2, -39.15}</string>
+				<key>rotation</key>
+				<string>-1.5138702392578125</string>
+				<key>scale</key>
+				<string>{0.99992, 0.99992}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, -15.7}</string>
+				<key>rotation</key>
+				<string>1.281463623046875</string>
+				<key>scale</key>
+				<string>{0.99991, 0.99991}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.15, 1.15}</string>
+				<key>rotation</key>
+				<string>1.0367584228515625</string>
+				<key>scale</key>
+				<string>{0.99992, 0.99992}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.95, 14.5}</string>
+				<key>rotation</key>
+				<string>-5.7715301513671875</string>
+				<key>scale</key>
+				<string>{0.99967, 0.99967}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.9, 20.3}</string>
+				<key>rotation</key>
+				<string>-7.7859954833984375</string>
+				<key>scale</key>
+				<string>{0.99954, 0.99954}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_023.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.6, 16.2}</string>
+				<key>rotation</key>
+				<string>1.259613037109375</string>
+				<key>scale</key>
+				<string>{0.99991, 0.99991}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.05, -24.75}</string>
+				<key>rotation</key>
+				<string>-22.562728881835938</string>
+				<key>scale</key>
+				<string>{0.99888, 0.99888}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1, -37.6}</string>
+				<key>rotation</key>
+				<string>4.5184173583984375</string>
+				<key>scale</key>
+				<string>{0.99974, 0.99974}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.05, -15.75}</string>
+				<key>rotation</key>
+				<string>2.5127716064453125</string>
+				<key>scale</key>
+				<string>{0.99986, 0.99986}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.25, 1.3}</string>
+				<key>rotation</key>
+				<string>2.2675323486328125</string>
+				<key>scale</key>
+				<string>{0.99987, 0.99987}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.8, 14.5}</string>
+				<key>rotation</key>
+				<string>-4.539276123046875</string>
+				<key>scale</key>
+				<string>{0.99975, 0.99975}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.55, 20.3}</string>
+				<key>rotation</key>
+				<string>-6.552734375</string>
+				<key>scale</key>
+				<string>{0.99960, 0.99960}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_024.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1, 16}</string>
+				<key>rotation</key>
+				<string>1.053375244140625</string>
+				<key>scale</key>
+				<string>{0.99992, 0.99992}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.55, -24.75}</string>
+				<key>rotation</key>
+				<string>-21.534561157226563</string>
+				<key>scale</key>
+				<string>{0.99891, 0.99891}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.85, -36.05}</string>
+				<key>rotation</key>
+				<string>10.274688720703125</string>
+				<key>scale</key>
+				<string>{0.99943, 0.99943}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.45, -15.8}</string>
+				<key>rotation</key>
+				<string>3.5397491455078125</string>
+				<key>scale</key>
+				<string>{0.99980, 0.99980}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.3, 1.45}</string>
+				<key>rotation</key>
+				<string>3.294097900390625</string>
+				<key>scale</key>
+				<string>{0.99981, 0.99981}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.6, 14.5}</string>
+				<key>rotation</key>
+				<string>-3.5136260986328125</string>
+				<key>scale</key>
+				<string>{0.99982, 0.99982}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.3, 20.35}</string>
+				<key>rotation</key>
+				<string>-5.5265045166015625</string>
+				<key>scale</key>
+				<string>{0.99967, 0.99967}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_025.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.15, 15.9}</string>
+				<key>rotation</key>
+				<string>1.182708740234375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.75, -24.65}</string>
+				<key>rotation</key>
+				<string>-21.032821655273438</string>
+				<key>scale</key>
+				<string>{1.00002, 1.00002}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>GateKeeper_mouth_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.8, -35.35}</string>
+				<key>rotation</key>
+				<string>12.9658203125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, -15.8}</string>
+				<key>rotation</key>
+				<string>4.1602935791015625</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.35, 1.55}</string>
+				<key>rotation</key>
+				<string>3.9349822998046875</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.55, 14.5}</string>
+				<key>rotation</key>
+				<string>-3.0404510498046875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.1, 20.4}</string>
+				<key>rotation</key>
+				<string>-5.0931243896484375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_026.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.05, 15.65}</string>
+				<key>rotation</key>
+				<string>1.0079193115234375</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.9, -35.7}</string>
+				<key>rotation</key>
+				<string>11.270248413085938</string>
+				<key>scale</key>
+				<string>{0.99937, 0.99937}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.55, -16.2}</string>
+				<key>rotation</key>
+				<string>3.5327911376953125</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.1, 1.35}</string>
+				<key>rotation</key>
+				<string>3.29583740234375</string>
+				<key>scale</key>
+				<string>{0.99981, 0.99981}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.25, 14.3}</string>
+				<key>rotation</key>
+				<string>-2.5380706787109375</string>
+				<key>scale</key>
+				<string>{0.99987, 0.99987}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.8, 20.25}</string>
+				<key>rotation</key>
+				<string>-4.299407958984375</string>
+				<key>scale</key>
+				<string>{0.99975, 0.99975}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_027.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.95, 15.3}</string>
+				<key>rotation</key>
+				<string>0.7701873779296875</string>
+				<key>scale</key>
+				<string>{0.99995, 0.99995}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1, -36.3}</string>
+				<key>rotation</key>
+				<string>9.029953002929688</string>
+				<key>scale</key>
+				<string>{0.99949, 0.99949}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.35, -16.7}</string>
+				<key>rotation</key>
+				<string>2.792816162109375</string>
+				<key>scale</key>
+				<string>{0.99983, 0.99983}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.85, 1.15}</string>
+				<key>rotation</key>
+				<string>2.7535552978515625</string>
+				<key>scale</key>
+				<string>{0.99986, 0.99986}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2, 14.1}</string>
+				<key>rotation</key>
+				<string>-2.035308837890625</string>
+				<key>scale</key>
+				<string>{0.99988, 0.99988}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, 20.1}</string>
+				<key>rotation</key>
+				<string>-3.51885986328125</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_028.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.65, 14.7}</string>
+				<key>rotation</key>
+				<string>0.3077392578125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.3, -37.25}</string>
+				<key>rotation</key>
+				<string>5.2544097900390625</string>
+				<key>scale</key>
+				<string>{0.99970, 0.99970}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.05, -17.65}</string>
+				<key>rotation</key>
+				<string>1.5470733642578125</string>
+				<key>scale</key>
+				<string>{0.99989, 0.99989}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.2, 0.7}</string>
+				<key>rotation</key>
+				<string>1.525238037109375</string>
+				<key>scale</key>
+				<string>{0.99991, 0.99991}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.4, 13.85}</string>
+				<key>rotation</key>
+				<string>-1.0594940185546875</string>
+				<key>scale</key>
+				<string>{0.99993, 0.99993}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.9, 19.6}</string>
+				<key>rotation</key>
+				<string>-2.0169677734375</string>
+				<key>scale</key>
+				<string>{0.99986, 0.99986}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_029.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.5, 14.15}</string>
+				<key>rotation</key>
+				<string>0.03759765625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.55, -38.15}</string>
+				<key>rotation</key>
+				<string>1.539215087890625</string>
+				<key>scale</key>
+				<string>{0.99990, 0.99990}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.2, -18.45}</string>
+				<key>rotation</key>
+				<string>0.5070648193359375</string>
+				<key>scale</key>
+				<string>{0.99995, 0.99995}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.75, 0.35}</string>
+				<key>rotation</key>
+				<string>0.500946044921875</string>
+				<key>scale</key>
+				<string>{0.99995, 0.99995}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.9, 13.5}</string>
+				<key>rotation</key>
+				<string>-0.285003662109375</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.4, 19.35}</string>
+				<key>rotation</key>
+				<string>-0.5385284423828125</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+		<key>GateKeeper_speak_030.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.85, 0.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>GateKeeper_base_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, 13.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>GateKeeper_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.65, -38.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>GateKeeper_bottomLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.35, -18.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>GateKeeper_topLip_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.45, 0.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>GateKeeper_nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>GateKeeper_eye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.15, 19.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>GateKeeper_eyebrow_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>usedTextures</key>
+	<dict>
+		<key>texture_0</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>texture</key>
+			<string>GateKeeper_base_001.png</string>
+		</dict>
+		<key>texture_1</key>
+		<dict>
+			<key>tag</key>
+			<string>1</string>
+			<key>texture</key>
+			<string>GateKeeper_head_001.png</string>
+		</dict>
+		<key>texture_2</key>
+		<dict>
+			<key>tag</key>
+			<string>2</string>
+			<key>texture</key>
+			<string>GateKeeper_bottomLip_001.png</string>
+		</dict>
+		<key>texture_3</key>
+		<dict>
+			<key>tag</key>
+			<string>3</string>
+			<key>texture</key>
+			<string>GateKeeper_topLip_001.png</string>
+		</dict>
+		<key>texture_4</key>
+		<dict>
+			<key>tag</key>
+			<string>4</string>
+			<key>texture</key>
+			<string>GateKeeper_nose_001.png</string>
+		</dict>
+		<key>texture_5</key>
+		<dict>
+			<key>tag</key>
+			<string>5</string>
+			<key>texture</key>
+			<string>GateKeeper_eye_001.png</string>
+		</dict>
+		<key>texture_6</key>
+		<dict>
+			<key>tag</key>
+			<string>6</string>
+			<key>texture</key>
+			<string>GateKeeper_eyebrow_001.png</string>
+		</dict>
+		<key>texture_7</key>
+		<dict>
+			<key>tag</key>
+			<string>7</string>
+			<key>texture</key>
+			<string>GateKeeper_mouth_001.png</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

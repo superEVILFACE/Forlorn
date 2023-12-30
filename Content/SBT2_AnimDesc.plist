@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainer</key>
+	<dict>
+		<key>SBT2_walk_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -3.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>SBT_walk_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.6, 3.4}</string>
+				<key>rotation</key>
+				<string>37.190216064453125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>SBT_spikeShell_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.9, 9.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>SBT_spikeHead_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>SBT2_walk_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -3.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>SBT_walk_002.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.8, 2.8}</string>
+				<key>rotation</key>
+				<string>27.473251342773438</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>SBT_spikeShell_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.65, 2.65}</string>
+				<key>rotation</key>
+				<string>-22.2384033203125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>SBT_spikeHead_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>SBT2_walk_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -3.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>SBT_walk_003.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.25, 7.25}</string>
+				<key>rotation</key>
+				<string>40.95677185058594</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>SBT_spikeShell_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.4, 12.9}</string>
+				<key>rotation</key>
+				<string>-3.4526519775390625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>SBT_spikeHead_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>SBT2_walk_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -3.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>SBT_walk_004.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.55, 15.05}</string>
+				<key>rotation</key>
+				<string>36.9056396484375</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>SBT_spikeShell_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.4, 20.9}</string>
+				<key>rotation</key>
+				<string>-2.481353759765625</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>SBT_spikeHead_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>SBT2_walk_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -3.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>SBT_walk_005.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9, 16.45}</string>
+				<key>rotation</key>
+				<string>40.476104736328125</string>
+				<key>scale</key>
+				<string>{1.00001, 1.00001}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>SBT_spikeShell_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.85, 25.1}</string>
+				<key>rotation</key>
+				<string>9.975601196289063</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>SBT_spikeHead_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>SBT2_walk_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -3.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>SBT_walk_006.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.8, 6.45}</string>
+				<key>rotation</key>
+				<string>70.43594360351563</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>SBT_spikeShell_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.15, 19.15}</string>
+				<key>rotation</key>
+				<string>44.22804260253906</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>SBT_spikeHead_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>SBT2_walk_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -3.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>SBT_walk_007.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.95, 0}</string>
+				<key>rotation</key>
+				<string>80.71356201171875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>SBT_spikeShell_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.4, 15.65}</string>
+				<key>rotation</key>
+				<string>44.22804260253906</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>SBT_spikeHead_001.png</string>
+				<key>usesCustomTag</key>
+				<string>1</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>usedTextures</key>
+	<dict>
+		<key>texture_0</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>texture</key>
+			<string>0</string>
+		</dict>
+		<key>texture_1</key>
+		<dict>
+			<key>tag</key>
+			<string>1</string>
+			<key>texture</key>
+			<string>0</string>
+		</dict>
+		<key>texture_2</key>
+		<dict>
+			<key>tag</key>
+			<string>2</string>
+			<key>texture</key>
+			<string>0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

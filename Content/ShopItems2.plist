@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Icons</key>
+	<dict>
+		<key>category</key>
+		<string>group</string>
+		<key>kIcon_001</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>So &lt;cl&gt;much&lt;/c&gt; to do, so little time!</string>
+			<key>featureID</key>
+			<string>kIcon_001</string>
+			<key>isFree</key>
+			<string>YES</string>
+			<key>title</key>
+			<string>Slash</string>
+		</dict>
+		<key>kIcon_002</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>There are three things Grumpy does not like. &lt;cg&gt;Everything&lt;/c&gt;, &lt;cy&gt;everyone&lt;/c&gt; and &lt;cl&gt;You&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_002</string>
+			<key>isFree</key>
+			<string>YES</string>
+			<key>title</key>
+			<string>Grumpy</string>
+		</dict>
+		<key>kIcon_003</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Looks &lt;cl&gt;Tiny&lt;/c&gt; and &lt;cy&gt;peaceful&lt;/c&gt;... but can you be sure?</string>
+			<key>featureID</key>
+			<string>kIcon_003</string>
+			<key>isFree</key>
+			<string>YES</string>
+			<key>title</key>
+			<string>Pinkie</string>
+		</dict>
+		<key>kIcon_004</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>You have &lt;cy&gt;cookies&lt;/c&gt; for Flubbo?</string>
+			<key>featureID</key>
+			<string>kIcon_004</string>
+			<key>isFree</key>
+			<string>YES</string>
+			<key>title</key>
+			<string>Flubbo</string>
+		</dict>
+		<key>kIcon_005</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cl&gt;Sleepy&lt;/c&gt; and &lt;cy&gt;sceptical&lt;/c&gt;, seems to be a good description.</string>
+			<key>featureID</key>
+			<string>kIcon_005</string>
+			<key>isFree</key>
+			<string>YES</string>
+			<key>title</key>
+			<string>Luigi</string>
+		</dict>
+		<key>kIcon_006</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>So &lt;cl&gt;much&lt;/c&gt; to do, so little &lt;cy&gt;time&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_006</string>
+			<key>isFree</key>
+			<string>YES</string>
+			<key>title</key>
+			<string>BamBam</string>
+		</dict>
+		<key>kIcon_007</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>I AM the &lt;cl&gt;Blue&lt;/c&gt; Slash!</string>
+			<key>featureID</key>
+			<string>kIcon_007</string>
+			<key>price</key>
+			<string>250</string>
+			<key>title</key>
+			<string>Slash 2</string>
+		</dict>
+		<key>kIcon_008</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Angry, very &lt;cr&gt;angry&lt;/c&gt;...</string>
+			<key>featureID</key>
+			<string>kIcon_008</string>
+			<key>price</key>
+			<string>250</string>
+			<key>title</key>
+			<string>Gumpy 2</string>
+		</dict>
+		<key>kIcon_009</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>You buy &lt;cl&gt;Pinkie&lt;/c&gt;?</string>
+			<key>featureID</key>
+			<string>kIcon_009</string>
+			<key>price</key>
+			<string>250</string>
+			<key>title</key>
+			<string>Pinkie 2</string>
+		</dict>
+		<key>kIcon_010</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>You got &lt;cy&gt;candy&lt;/c&gt; for Flubbo?</string>
+			<key>featureID</key>
+			<string>kIcon_010</string>
+			<key>price</key>
+			<string>250</string>
+			<key>title</key>
+			<string>Flubbo 2</string>
+		</dict>
+		<key>kIcon_011</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cy&gt;zzzzZZZZZ&lt;/c&gt;...</string>
+			<key>featureID</key>
+			<string>kIcon_011</string>
+			<key>price</key>
+			<string>250</string>
+			<key>title</key>
+			<string>Luigi 2</string>
+			<key>unlockedBy</key>
+			<string>0</string>
+		</dict>
+		<key>kIcon_012</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Ever since that &lt;cy&gt;Energy Drink&lt;/c&gt;, &lt;cl&gt;BamBam&lt;/c&gt; has never been the same...</string>
+			<key>featureID</key>
+			<string>kIcon_012</string>
+			<key>price</key>
+			<string>250</string>
+			<key>title</key>
+			<string>BamBam 2</string>
+			<key>unlockedBy</key>
+			<string>0</string>
+		</dict>
+		<key>kIcon_013</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Currently testing the new &lt;cl&gt;Never Melt&lt;/c&gt; Ice &lt;cy&gt;X3000&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_013</string>
+			<key>price</key>
+			<string>400</string>
+			<key>title</key>
+			<string>Mr. Frost</string>
+			<key>unlockedBy</key>
+			<string>0</string>
+		</dict>
+		<key>kIcon_014</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>The &lt;cl&gt;saddest&lt;/c&gt; Boom in Boomlia. Ever since the shop ran out of &lt;cg&gt;cookies&lt;/c&gt;. </string>
+			<key>featureID</key>
+			<string>kIcon_014</string>
+			<key>price</key>
+			<string>400</string>
+			<key>title</key>
+			<string>Ome</string>
+		</dict>
+		<key>kIcon_015</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Always up to &lt;cy&gt;no good&lt;/c&gt;. Keep an eye open when &lt;cr&gt;The Imp&lt;/c&gt; is near...</string>
+			<key>featureID</key>
+			<string>kIcon_015</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>The Imp</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.level.10</string>
+		</dict>
+		<key>kIcon_016</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>A master of &lt;cg&gt;Swordsmanship&lt;/c&gt;, &lt;cl&gt;bombs&lt;/c&gt;, and &lt;cy&gt;boomerangs&lt;/c&gt;...</string>
+			<key>featureID</key>
+			<string>kIcon_016</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>The Hero</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.level.15</string>
+		</dict>
+		<key>kIcon_017</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>There are times when &lt;cy&gt;exploding&lt;/c&gt; is not the right thing to do...</string>
+			<key>featureID</key>
+			<string>kIcon_017</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>PeaceBoom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.pacifist</string>
+		</dict>
+		<key>kIcon_018</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Some say that &lt;cl&gt;these&lt;/c&gt; are the remains of the &lt;cg&gt;first&lt;/c&gt; Boomling. It could also be a &lt;cy&gt;strange&lt;/c&gt; rock...</string>
+			<key>featureID</key>
+			<string>kIcon_018</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>StoneBoom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.stone.C</string>
+		</dict>
+		<key>kIcon_019</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>So &lt;cl&gt;cool&lt;/c&gt;, it does not need a description.</string>
+			<key>featureID</key>
+			<string>kIcon_019</string>
+			<key>price</key>
+			<string>500</string>
+			<key>title</key>
+			<string>Cyboom X1</string>
+		</dict>
+		<key>kIcon_020</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>More &lt;cg&gt;powerful&lt;/c&gt; than any other Z-model. Batteries not included.</string>
+			<key>featureID</key>
+			<string>kIcon_020</string>
+			<key>price</key>
+			<string>500</string>
+			<key>title</key>
+			<string>Cyboom Z5</string>
+		</dict>
+		<key>kIcon_021</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>New and &lt;cg&gt;improved&lt;/c&gt; model. Slightly &lt;cr&gt;flammable&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_021</string>
+			<key>price</key>
+			<string>500</string>
+			<key>title</key>
+			<string>Cyboom R2</string>
+		</dict>
+		<key>kIcon_022</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>It's &lt;cg&gt;green&lt;/c&gt;... I mean, what more could you possibly want?</string>
+			<key>featureID</key>
+			<string>kIcon_022</string>
+			<key>price</key>
+			<string>500</string>
+			<key>title</key>
+			<string>Cyboom Y7</string>
+		</dict>
+		<key>kIcon_023</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Not the &lt;cy&gt;smartest&lt;/c&gt; of the &lt;cg&gt;Borcs&lt;/c&gt;, not even close...</string>
+			<key>featureID</key>
+			<string>kIcon_023</string>
+			<key>price</key>
+			<string>500</string>
+			<key>title</key>
+			<string>JubJub</string>
+		</dict>
+		<key>kIcon_024</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Determined to start the first &lt;cy&gt;Boomling&lt;/c&gt; &lt;cg&gt;Jungle Tribe&lt;/c&gt;. It's not going very well.</string>
+			<key>featureID</key>
+			<string>kIcon_024</string>
+			<key>price</key>
+			<string>500</string>
+			<key>title</key>
+			<string>JibJib</string>
+		</dict>
+		<key>kIcon_025</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>You cannot hide from the &lt;cr&gt;Boom Hunter&lt;/c&gt;... Seriously, &lt;cy&gt;stop&lt;/c&gt; hiding.</string>
+			<key>featureID</key>
+			<string>kIcon_025</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Boom Hunter</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.4bandits</string>
+		</dict>
+		<key>kIcon_026</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>A fierce &lt;cl&gt;rebel&lt;/c&gt; with a craving for &lt;cy&gt;Street Fights&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_026</string>
+			<key>price</key>
+			<string>500</string>
+			<key>title</key>
+			<string>Boom Kid</string>
+		</dict>
+		<key>kIcon_027</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cg&gt;Protector&lt;/c&gt; of the innocent and &lt;cr&gt;scourge&lt;/c&gt; of the wicked! And what a &lt;cl&gt;Mustache&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_027</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Borro</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.changer.C</string>
+		</dict>
+		<key>kIcon_028</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>When the going gets &lt;cg&gt;though&lt;/c&gt;. He &lt;cr&gt;quits&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_028</string>
+			<key>price</key>
+			<string>500</string>
+			<key>title</key>
+			<string>RageQuit</string>
+		</dict>
+		<key>kIcon_029</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>The &lt;cy&gt;richest&lt;/c&gt; of all the Boomlings. Which he reminds everyone &lt;cg&gt;every&lt;/c&gt; 5 minutes.</string>
+			<key>featureID</key>
+			<string>kIcon_029</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>The Baron</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.gold.3</string>
+		</dict>
+		<key>kIcon_030</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>There are no seas in &lt;cl&gt;Boomlia&lt;/c&gt;. Maybe that's why he's so &lt;cr&gt;angry&lt;/c&gt;?</string>
+			<key>featureID</key>
+			<string>kIcon_030</string>
+			<key>price</key>
+			<string>500</string>
+			<key>title</key>
+			<string>Pirate Boom</string>
+		</dict>
+		<key>kIcon_031</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cy&gt;Wuh!&lt;/c&gt; &lt;cg&gt;Who!?&lt;/c&gt;... \nAh, it's just &lt;cl&gt;you&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_031</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Ye Olde Sage</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.rank.1</string>
+		</dict>
+		<key>kIcon_032</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>There is no &lt;cy&gt;challenge&lt;/c&gt; to great for &lt;cl&gt;Captain Flash&lt;/c&gt;! </string>
+			<key>featureID</key>
+			<string>kIcon_032</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Captain Flash</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.turtle.3</string>
+		</dict>
+		<key>kIcon_033</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>The &lt;cr&gt;Ghost&lt;/c&gt; of Boomlia. &lt;cg&gt;Master&lt;/c&gt; of his own fate, and &lt;cy&gt;champion&lt;/c&gt; of the Gods. </string>
+			<key>featureID</key>
+			<string>kIcon_033</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Boomos</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.rank.3</string>
+		</dict>
+		<key>kIcon_034</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>If he goes anywhere, don't worry. &lt;cg&gt;He will be back&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_034</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Boominator</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.rank.2</string>
+		</dict>
+		<key>kIcon_035</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cr&gt;Jetpacks&lt;/c&gt; and &lt;cg&gt;Boomlings&lt;/c&gt; are a combination few have tried... And &lt;cy&gt;none&lt;/c&gt; have mastered.</string>
+			<key>featureID</key>
+			<string>kIcon_035</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>JetBoom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.turtle.4</string>
+		</dict>
+		<key>kIcon_036</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Infused with a &lt;cg&gt;mystic power&lt;/c&gt;. The &lt;cy&gt;Blobbos&lt;/c&gt; are the source of all color in &lt;cl&gt;Boomlia&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_036</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Blobbo</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.colors.2</string>
+		</dict>
+		<key>kIcon_037</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>An &lt;cy&gt;anchient warrior&lt;/c&gt; blessed with the &lt;cg&gt;power&lt;/c&gt; of the &lt;cl&gt;MegaBlobbos&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_037</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>DragonBoom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.firstMegaBlob</string>
+		</dict>
+		<key>kIcon_038</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>A true force of &lt;cr&gt;Evil&lt;/c&gt;. Beware of&lt;cy&gt;Skulletor&lt;/c&gt;...</string>
+			<key>featureID</key>
+			<string>kIcon_038</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Skulletor</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.skull.C</string>
+		</dict>
+		<key>kIcon_039</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>No one knows what they have &lt;cg&gt;eaten&lt;/c&gt;... But it could &lt;cr&gt;not&lt;/c&gt; have been &lt;cl&gt;tasty&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_039</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Mega Blobbo</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.megablob.C</string>
+		</dict>
+		<key>kIcon_040</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Some Boomlings are just happy. Period.</string>
+			<key>featureID</key>
+			<string>kIcon_040</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Clueless</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.icon.1</string>
+		</dict>
+		<key>kIcon_041</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cg&gt;The Colorless&lt;/c&gt; were banished from &lt;cl&gt;Boomlia&lt;/c&gt; thousands of years ago. They long for &lt;cr&gt;revenge&lt;/c&gt;! </string>
+			<key>featureID</key>
+			<string>kIcon_041</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Enraged Boom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.icon.2</string>
+		</dict>
+		<key>kIcon_042</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>The leader of the &lt;cg&gt;Colorless Tribe&lt;/c&gt;... This is one seriously &lt;cr&gt;angry&lt;/c&gt; Boom.</string>
+			<key>featureID</key>
+			<string>kIcon_042</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>BOOOOM UUUUUU</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.icon.3</string>
+		</dict>
+		<key>kIcon_043</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cy&gt;Years&lt;/c&gt; have passed since the &lt;cl&gt;masked&lt;/c&gt; Boom was last seen. Where did he go?</string>
+			<key>featureID</key>
+			<string>kIcon_043</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Master of Disguise</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.icon</string>
+		</dict>
+		<key>kIcon_044</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>No one knows where the large group of &lt;cy&gt;BoomChu's&lt;/c&gt; came from. But it has been hard trying to &lt;cg&gt;catch&lt;/c&gt; them all.</string>
+			<key>featureID</key>
+			<string>kIcon_044</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>BoomChu</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.level.5</string>
+		</dict>
+		<key>kIcon_045</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>All bow down to &lt;cy&gt;SkeleBoom&lt;/c&gt;! Basically he is &lt;cr&gt;evil&lt;/c&gt;. Yea...</string>
+			<key>featureID</key>
+			<string>kIcon_045</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>SkeleBoom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.cheatDeath</string>
+		</dict>
+		<key>kIcon_046</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Search the &lt;cg&gt;Deepest Swamp&lt;/c&gt; in &lt;cl&gt;Boomlia&lt;/c&gt; to find the Swamp Boom... and maybe his &lt;cy&gt;Donkey&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_046</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Swamp Boom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.chain.5</string>
+		</dict>
+		<key>kIcon_047</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cr&gt;Booming&lt;/c&gt;.. Is the &lt;cl&gt;only&lt;/c&gt; thing I was good at...</string>
+			<key>featureID</key>
+			<string>kIcon_047</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Boom Fox</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.bombs.2</string>
+		</dict>
+		<key>kIcon_048</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>There is no &lt;cg&gt;racetrack&lt;/c&gt; in the world to difficult for &lt;cl&gt;The Boom Racer&lt;/c&gt;. If only he had a &lt;cy&gt;car&lt;/c&gt;...</string>
+			<key>featureID</key>
+			<string>kIcon_048</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Boom Racer</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.level1Speed</string>
+		</dict>
+		<key>kIcon_049</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Master &lt;cy&gt;tactician&lt;/c&gt; and Boom &lt;cg&gt;expert&lt;/c&gt;. Can also be sneaky... very &lt;cl&gt;sneaky&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_049</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Solid Boom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.chain.7</string>
+		</dict>
+		<key>kIcon_050</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>The &lt;cg&gt;Boom&lt;/c&gt; Cat. \n&lt;cr&gt;Fear&lt;/c&gt; me, if you &lt;cl&gt;dare&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_050</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Boom Cat</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.combocat</string>
+		</dict>
+		<key>kIcon_051</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>A &lt;cl&gt;Mentally&lt;/c&gt; unstable &lt;cg&gt;Boom veteran&lt;/c&gt;. &lt;cy&gt;Skilled&lt;/c&gt; with every &lt;cr&gt;weapon&lt;/c&gt; known in Boomlia.</string>
+			<key>featureID</key>
+			<string>kIcon_051</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>RamBoom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.pow.C</string>
+		</dict>
+		<key>kIcon_052</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Six &lt;cg&gt;different Blobs&lt;/c&gt; accidentally tried to &lt;cy&gt;recolor&lt;/c&gt; the same Boom. This is the &lt;cl&gt;result&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_052</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>The RainBoom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.colors.3</string>
+		</dict>
+		<key>kIcon_053</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>I give you &lt;cy&gt;Gold&lt;/c&gt;\n&lt;cg&gt;Y U NO&lt;/c&gt; BUY &lt;cr&gt;POWERUPS&lt;/c&gt;?!</string>
+			<key>featureID</key>
+			<string>kIcon_053</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>BoomUNo</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.yuno</string>
+		</dict>
+		<key>kIcon_054</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cy&gt;Everyone left&lt;/c&gt;.\n&lt;cg&gt;Still here&lt;/c&gt;.\n&lt;cl&gt;Forever Alone&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_054</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Lonely Boom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.foreveralone</string>
+		</dict>
+		<key>kIcon_055</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Use &lt;cl&gt;Bombs&lt;/c&gt; to make &lt;cg&gt;chains&lt;/c&gt;, you &lt;cy&gt;must&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_055</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Master Boom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.firstMegaBomb</string>
+		</dict>
+		<key>kIcon_056</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Scanning for &lt;cr&gt;Bombs&lt;/c&gt;... \n&lt;cy&gt;No Bombs found.&lt;/c&gt; \nScanning for &lt;cl&gt;Noobs&lt;/c&gt;... o_o</string>
+			<key>featureID</key>
+			<string>kIcon_056</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>BoomBot</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.megabomb.C</string>
+		</dict>
+		<key>kIcon_057</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>The Kings &lt;cr&gt;evil&lt;/c&gt; brother. Secretly &lt;cg&gt;allied&lt;/c&gt; with the Colorless to overthrow the king! &lt;cy&gt;Be Prepared&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_057</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Royal Boom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.level.20</string>
+		</dict>
+		<key>kIcon_058</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Roses are &lt;cr&gt;Red&lt;/c&gt;\nViolets are &lt;cl&gt;Blue&lt;/c&gt;\nI am the &lt;cg&gt;King&lt;/c&gt;\n&lt;cy&gt;BOW DOWN TO ME&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_058</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>The BoomKing</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.rank.4</string>
+		</dict>
+		<key>kIcon_059</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>The &lt;cy&gt;Champion Knight&lt;/c&gt; of &lt;cl&gt;Boomlia&lt;/c&gt;. I put the &lt;cg&gt;Boom&lt;/c&gt; in Boomlings!</string>
+			<key>featureID</key>
+			<string>kIcon_059</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Boom Crasher</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.nodes.C</string>
+		</dict>
+		<key>kIcon_060</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cy&gt;Confused&lt;/c&gt; by &lt;cg&gt;everyone&lt;/c&gt; and &lt;cl&gt;Everything&lt;/c&gt;...\nWho are you anyway?</string>
+			<key>featureID</key>
+			<string>kIcon_060</string>
+			<key>price</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Clueless Boom</string>
+			<key>unlockedBy</key>
+			<string>boomlings.ach.mystery.C</string>
+		</dict>
+		<key>kIcon_061</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>They say &lt;cg&gt;Boomlings&lt;/c&gt; have good... &lt;cr&gt;taste&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_061</string>
+			<key>price</key>
+			<string>1000</string>
+			<key>title</key>
+			<string>Boomula</string>
+		</dict>
+		<key>kIcon_062</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>Bhomp &lt;cg&gt;slam&lt;/c&gt; Boomlings! Stay &lt;cr&gt;away&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_062</string>
+			<key>price</key>
+			<string>1000</string>
+			<key>title</key>
+			<string>Bhomp</string>
+		</dict>
+		<key>kIcon_063</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>A &lt;cl&gt;Boomling&lt;/c&gt; created from solid &lt;cy&gt;Gold&lt;/c&gt;. The shine is so bright!</string>
+			<key>featureID</key>
+			<string>kIcon_063</string>
+			<key>price</key>
+			<string>5000</string>
+			<key>title</key>
+			<string>Golden Boom</string>
+		</dict>
+		<key>kIcon_064</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>I will make a &lt;cg&gt;special&lt;/c&gt; treat for &lt;cy&gt;you&lt;/c&gt;!</string>
+			<key>featureID</key>
+			<string>kIcon_064</string>
+			<key>price</key>
+			<string>1000</string>
+			<key>title</key>
+			<string>Boom Chef</string>
+		</dict>
+		<key>kIcon_065</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>&lt;cl&gt;Boomlia&lt;/c&gt; needs a &lt;cy&gt;hero&lt;/c&gt;, and that hero is &lt;cg&gt;The Boon&lt;/c&gt;...</string>
+			<key>featureID</key>
+			<string>kIcon_065</string>
+			<key>price</key>
+			<string>1000</string>
+			<key>title</key>
+			<string>The Boon</string>
+		</dict>
+		<key>kIcon_066</key>
+		<dict>
+			<key>category</key>
+			<string>icons</string>
+			<key>description</key>
+			<string>This is just a &lt;cg&gt;strange&lt;/c&gt; hybrid. Seems to like &lt;cy&gt;carrots&lt;/c&gt;.</string>
+			<key>featureID</key>
+			<string>kIcon_066</string>
+			<key>price</key>
+			<string>1000</string>
+			<key>title</key>
+			<string>BunnyBoom</string>
+		</dict>
+	</dict>
+	<key>kItemRes</key>
+	<dict>
+		<key>category</key>
+		<string>consumable</string>
+		<key>count</key>
+		<string>1</string>
+		<key>description</key>
+		<string>Get one more chance to replay the level. One time use.</string>
+		<key>featureID</key>
+		<string>kItemRes</string>
+		<key>iconName</key>
+		<string>itemRes_001.png</string>
+		<key>price</key>
+		<string>200</string>
+		<key>title</key>
+		<string>Ankh of Life</string>
+		<key>type</key>
+		<string>consumable</string>
+	</dict>
+	<key>kItemRes5</key>
+	<dict>
+		<key>category</key>
+		<string>consumable</string>
+		<key>count</key>
+		<string>5</string>
+		<key>description</key>
+		<string>Package containing &lt;cg&gt;5&lt;/c&gt; Ankhs.</string>
+		<key>featureID</key>
+		<string>kItemRes</string>
+		<key>iconName</key>
+		<string>itemRes_001.png</string>
+		<key>price</key>
+		<string>800</string>
+		<key>title</key>
+		<string>Ankh of Life x5</string>
+		<key>type</key>
+		<string>consumable</string>
+	</dict>
+	<key>kItemSkip</key>
+	<dict>
+		<key>category</key>
+		<string>consumable</string>
+		<key>count</key>
+		<string>1</string>
+		<key>description</key>
+		<string>Start the game on Level 5. One time use.</string>
+		<key>featureID</key>
+		<string>kItemSkip</string>
+		<key>groupID</key>
+		<string>kSkip</string>
+		<key>iconName</key>
+		<string>itemSkip_001.png</string>
+		<key>price</key>
+		<string>50</string>
+		<key>title</key>
+		<string>Hidden Passage</string>
+		<key>type</key>
+		<string>consumable</string>
+	</dict>
+	<key>kItemSkip5</key>
+	<dict>
+		<key>category</key>
+		<string>consumable</string>
+		<key>count</key>
+		<string>5</string>
+		<key>description</key>
+		<string>Package containing &lt;cg&gt;5&lt;/c&gt; Hidden Passages.</string>
+		<key>featureID</key>
+		<string>kItemSkip</string>
+		<key>groupID</key>
+		<string>kSkip</string>
+		<key>iconName</key>
+		<string>itemSkip_001.png</string>
+		<key>price</key>
+		<string>200</string>
+		<key>title</key>
+		<string>Hidden Passage x5</string>
+		<key>type</key>
+		<string>consumable</string>
+	</dict>
+	<key>kItemSkipB</key>
+	<dict>
+		<key>category</key>
+		<string>consumable</string>
+		<key>count</key>
+		<string>1</string>
+		<key>description</key>
+		<string>Start the game on Level 10. One time use.</string>
+		<key>featureID</key>
+		<string>kItemSkipB</string>
+		<key>groupID</key>
+		<string>kSkip</string>
+		<key>iconName</key>
+		<string>itemSkipB_001.png</string>
+		<key>price</key>
+		<string>150</string>
+		<key>title</key>
+		<string>Secret Tunnel</string>
+		<key>type</key>
+		<string>consumable</string>
+	</dict>
+	<key>kItemSkipB5</key>
+	<dict>
+		<key>category</key>
+		<string>consumable</string>
+		<key>count</key>
+		<string>5</string>
+		<key>description</key>
+		<string>Package containing &lt;cg&gt;5&lt;/c&gt; Secret Tunnels.</string>
+		<key>featureID</key>
+		<string>kItemSkipB</string>
+		<key>groupID</key>
+		<string>kSkip</string>
+		<key>iconName</key>
+		<string>itemSkipB_001.png</string>
+		<key>price</key>
+		<string>600</string>
+		<key>title</key>
+		<string>Secret Tunnel x5</string>
+		<key>type</key>
+		<string>consumable</string>
+	</dict>
+	<key>kItemSkipC</key>
+	<dict>
+		<key>category</key>
+		<string>consumable</string>
+		<key>count</key>
+		<string>1</string>
+		<key>description</key>
+		<string>Start the game on Level 15. One time use.</string>
+		<key>featureID</key>
+		<string>kItemSkipC</string>
+		<key>groupID</key>
+		<string>kSkip</string>
+		<key>iconName</key>
+		<string>itemSkipC_001.png</string>
+		<key>price</key>
+		<string>300</string>
+		<key>title</key>
+		<string>Dark Pathway</string>
+		<key>type</key>
+		<string>consumable</string>
+	</dict>
+	<key>kItemSkipC5</key>
+	<dict>
+		<key>category</key>
+		<string>consumable</string>
+		<key>count</key>
+		<string>5</string>
+		<key>description</key>
+		<string>Package containing &lt;cg&gt;5&lt;/c&gt; Dark Pathways.</string>
+		<key>featureID</key>
+		<string>kItemSkipC</string>
+		<key>groupID</key>
+		<string>kSkip</string>
+		<key>iconName</key>
+		<string>itemSkipC_001.png</string>
+		<key>price</key>
+		<string>1200</string>
+		<key>title</key>
+		<string>Dark Pathway x5</string>
+		<key>type</key>
+		<string>consumable</string>
+	</dict>
+	<key>kPowBOOM</key>
+	<dict>
+		<key>category</key>
+		<string>powerups</string>
+		<key>ranks</key>
+		<dict>
+			<key>kPowBOOM_01</key>
+			<dict>
+				<key>charges</key>
+				<string>1</string>
+				<key>description</key>
+				<string>Detonates all bombs &lt;cg&gt;once&lt;/c&gt; per game.</string>
+				<key>featureID</key>
+				<string>kPowBOOM_01</string>
+				<key>iconName</key>
+				<string>boom_01.png</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Tiny BOOM!</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowBOOM_02</key>
+			<dict>
+				<key>charges</key>
+				<string>2</string>
+				<key>description</key>
+				<string>Detonates all bombs &lt;cg&gt;twice&lt;/c&gt; per game for &lt;cg&gt;1.5x&lt;/c&gt; point value.</string>
+				<key>featureID</key>
+				<string>kPowBOOM_02</string>
+				<key>iconName</key>
+				<string>boom_02.png</string>
+				<key>price</key>
+				<string>750</string>
+				<key>title</key>
+				<string>Large BOOM!</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowBOOM_03</key>
+			<dict>
+				<key>charges</key>
+				<string>3</string>
+				<key>description</key>
+				<string>Detonates all bombs &lt;cg&gt;three&lt;/c&gt; times per game for &lt;cg&gt;2x&lt;/c&gt; point value.</string>
+				<key>featureID</key>
+				<string>kPowBOOM_03</string>
+				<key>iconName</key>
+				<string>boom_03.png</string>
+				<key>price</key>
+				<string>1500</string>
+				<key>title</key>
+				<string>Giant BOOM!</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<string>powerup</string>
+	</dict>
+	<key>kPowBombM</key>
+	<dict>
+		<key>category</key>
+		<string>powerups</string>
+		<key>ranks</key>
+		<dict>
+			<key>kPowBombM_01</key>
+			<dict>
+				<key>description</key>
+				<string>- Increased chance for &lt;cg&gt;Bombs&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowBombM_01</string>
+				<key>iconName</key>
+				<string>bomb_01.png</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Bomb Novice</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowBombM_02</key>
+			<dict>
+				<key>description</key>
+				<string>- Increased chance for &lt;cg&gt;Bombs&lt;/c&gt;. \n- Chance to spawn &lt;cg&gt;Mega Bombs&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowBombM_02</string>
+				<key>iconName</key>
+				<string>bomb_02.png</string>
+				<key>price</key>
+				<string>750</string>
+				<key>title</key>
+				<string>Bomb Adept</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowBombM_03</key>
+			<dict>
+				<key>description</key>
+				<string>- Increased chance for &lt;cg&gt;Bombs&lt;/c&gt;. \n- Chance to spawn &lt;cg&gt;Mega Bombs&lt;/c&gt;. \n- Bombs destroy &lt;cr&gt;rocks&lt;/c&gt; in &lt;cg&gt;1&lt;/c&gt; hit.</string>
+				<key>featureID</key>
+				<string>kPowBombM_03</string>
+				<key>iconName</key>
+				<string>bomb_03.png</string>
+				<key>price</key>
+				<string>1500</string>
+				<key>title</key>
+				<string>Bomb Master</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<string>powerup</string>
+	</dict>
+	<key>kPowColorM</key>
+	<dict>
+		<key>category</key>
+		<string>powerups</string>
+		<key>ranks</key>
+		<dict>
+			<key>kPowColorM_01</key>
+			<dict>
+				<key>description</key>
+				<string>- Increased chance for &lt;cg&gt;Blobs&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowColorM_01</string>
+				<key>iconName</key>
+				<string>color_01.png</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Blob Novice</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowColorM_02</key>
+			<dict>
+				<key>description</key>
+				<string>- Increased chance for &lt;cg&gt;Blobs&lt;/c&gt;. \n- Chance to spawn &lt;cg&gt;Mega Blobs&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowColorM_02</string>
+				<key>iconName</key>
+				<string>color_02.png</string>
+				<key>price</key>
+				<string>750</string>
+				<key>title</key>
+				<string>Blob Adept</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowColorM_03</key>
+			<dict>
+				<key>description</key>
+				<string>- Increased chance for &lt;cg&gt;Blobs&lt;/c&gt;. \n- Chance to spawn &lt;cg&gt;Mega Blobs&lt;/c&gt;. \n- Blobs remove &lt;cl&gt;Ice&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowColorM_03</string>
+				<key>iconName</key>
+				<string>color_03.png</string>
+				<key>price</key>
+				<string>1500</string>
+				<key>title</key>
+				<string>Blob Master</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<string>powerup</string>
+	</dict>
+	<key>kPowGreed</key>
+	<dict>
+		<key>category</key>
+		<string>powerups</string>
+		<key>ranks</key>
+		<dict>
+			<key>kPowGreed_01</key>
+			<dict>
+				<key>description</key>
+				<string>Increases gold gain by &lt;cy&gt;5%&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowGreed_01</string>
+				<key>iconName</key>
+				<string>greed_01.png</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Greed</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowGreed_02</key>
+			<dict>
+				<key>description</key>
+				<string>Increases gold gain by &lt;cy&gt;10%&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowGreed_02</string>
+				<key>iconName</key>
+				<string>greed_02.png</string>
+				<key>price</key>
+				<string>750</string>
+				<key>title</key>
+				<string>Greater Greed</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowGreed_03</key>
+			<dict>
+				<key>description</key>
+				<string>- Increases gold gain by &lt;cy&gt;20%&lt;/c&gt;.\n- Increased chance for &lt;cy&gt;Mystery Boxes&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowGreed_03</string>
+				<key>iconName</key>
+				<string>greed_03.png</string>
+				<key>price</key>
+				<string>1500</string>
+				<key>title</key>
+				<string>Greediest Greed</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<string>powerup</string>
+	</dict>
+	<key>kPowLevelSkip</key>
+	<dict>
+		<key>category</key>
+		<string>powerups</string>
+		<key>ranks</key>
+		<dict>
+			<key>kPowLevelSkip_01</key>
+			<dict>
+				<key>charges</key>
+				<string>1</string>
+				<key>description</key>
+				<string>Skip a &lt;cg&gt;level&lt;/c&gt; &lt;cg&gt;once&lt;/c&gt; per game.</string>
+				<key>featureID</key>
+				<string>kPowLevelSkip_01</string>
+				<key>iconName</key>
+				<string>skipLevel_01.png</string>
+				<key>price</key>
+				<string>1500</string>
+				<key>title</key>
+				<string>Level Skip</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<string>powerup</string>
+	</dict>
+	<key>kPowSkullBlast</key>
+	<dict>
+		<key>category</key>
+		<string>powerups</string>
+		<key>ranks</key>
+		<dict>
+			<key>kPowSkullBlast_01</key>
+			<dict>
+				<key>charges</key>
+				<string>1</string>
+				<key>description</key>
+				<string>Removes all &lt;cr&gt;Skulls&lt;/c&gt; &lt;cg&gt;once&lt;/c&gt; per game.</string>
+				<key>featureID</key>
+				<string>kPowSkullBlast_01</string>
+				<key>iconName</key>
+				<string>skull_01.png</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Skull Pop</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowSkullBlast_02</key>
+			<dict>
+				<key>charges</key>
+				<string>2</string>
+				<key>description</key>
+				<string>Removes all &lt;cr&gt;Skulls&lt;/c&gt; and &lt;cl&gt;Ice Bombs&lt;/c&gt; &lt;cg&gt;twice&lt;/c&gt; per game.</string>
+				<key>featureID</key>
+				<string>kPowSkullBlast_02</string>
+				<key>iconName</key>
+				<string>skull_02.png</string>
+				<key>price</key>
+				<string>750</string>
+				<key>title</key>
+				<string>Skull Blast</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowSkullBlast_03</key>
+			<dict>
+				<key>charges</key>
+				<string>3</string>
+				<key>description</key>
+				<string>Removes all &lt;cr&gt;Skulls&lt;/c&gt;, &lt;cl&gt;Ice Bombs&lt;/c&gt; and &lt;cy&gt;Stones&lt;/c&gt; &lt;cg&gt;three&lt;/c&gt; times per game.</string>
+				<key>featureID</key>
+				<string>kPowSkullBlast_03</string>
+				<key>iconName</key>
+				<string>skull_03.png</string>
+				<key>price</key>
+				<string>1500</string>
+				<key>title</key>
+				<string>Skull DoomBoom</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<string>powerup</string>
+	</dict>
+	<key>kPowTimeBoost</key>
+	<dict>
+		<key>category</key>
+		<string>powerups</string>
+		<key>ranks</key>
+		<dict>
+			<key>kPowTimeBoost_01</key>
+			<dict>
+				<key>description</key>
+				<string>+1 time to &lt;cr&gt;Skulls&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowTimeBoost_01</string>
+				<key>iconName</key>
+				<string>timeSlow_01.png</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Tiny Time Boost</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowTimeBoost_02</key>
+			<dict>
+				<key>description</key>
+				<string>+2 time to &lt;cr&gt;Skulls&lt;/c&gt;.\n+1 time to &lt;cl&gt;Ice Bombs&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowTimeBoost_02</string>
+				<key>iconName</key>
+				<string>timeSlow_02.png</string>
+				<key>price</key>
+				<string>750</string>
+				<key>title</key>
+				<string>Large Time Boost</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowTimeBoost_03</key>
+			<dict>
+				<key>description</key>
+				<string>+3 time to &lt;cr&gt;Skulls&lt;/c&gt;.\n+2 time to &lt;cl&gt;Ice Bombs&lt;/c&gt;.\n+1 time to &lt;cg&gt;Mystery Boxes&lt;/c&gt;.</string>
+				<key>featureID</key>
+				<string>kPowTimeBoost_03</string>
+				<key>iconName</key>
+				<string>timeSlow_03.png</string>
+				<key>price</key>
+				<string>1500</string>
+				<key>title</key>
+				<string>Giant Time Boost</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<string>powerup</string>
+	</dict>
+	<key>kPowTimeFreeze</key>
+	<dict>
+		<key>category</key>
+		<string>powerups</string>
+		<key>ranks</key>
+		<dict>
+			<key>kPowTimeFreeze_01</key>
+			<dict>
+				<key>charges</key>
+				<string>1</string>
+				<key>description</key>
+				<string>Stops time for &lt;cg&gt;3&lt;/c&gt; turns &lt;cg&gt;once&lt;/c&gt; per game.</string>
+				<key>featureID</key>
+				<string>kPowTimeFreeze_01</string>
+				<key>iconName</key>
+				<string>timeFreeze_01.png</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Time Freeze</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowTimeFreeze_02</key>
+			<dict>
+				<key>charges</key>
+				<string>2</string>
+				<key>description</key>
+				<string>Stops time for &lt;cg&gt;4&lt;/c&gt; turns &lt;cg&gt;twice&lt;/c&gt; per game.</string>
+				<key>featureID</key>
+				<string>kPowTimeFreeze_02</string>
+				<key>iconName</key>
+				<string>timeFreeze_02.png</string>
+				<key>price</key>
+				<string>750</string>
+				<key>title</key>
+				<string>Super Time Freeze</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+			<key>kPowTimeFreeze_03</key>
+			<dict>
+				<key>charges</key>
+				<string>3</string>
+				<key>description</key>
+				<string>Stops time for &lt;cg&gt;5&lt;/c&gt; turns &lt;cg&gt;three&lt;/c&gt; times per game.</string>
+				<key>featureID</key>
+				<string>kPowTimeFreeze_03</string>
+				<key>iconName</key>
+				<string>timeFreeze_03.png</string>
+				<key>price</key>
+				<string>1500</string>
+				<key>title</key>
+				<string>Mega Time Freeze</string>
+				<key>usable</key>
+				<string>1</string>
+				<key>usePrice</key>
+				<string>50</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<string>powerup</string>
+	</dict>
+	<key>kPowerupSlot</key>
+	<dict>
+		<key>category</key>
+		<string>general</string>
+		<key>ranks</key>
+		<dict>
+			<key>kPowerupSlot_01</key>
+			<dict>
+				<key>description</key>
+				<string>Powerup slot 1</string>
+				<key>featureID</key>
+				<string>kPowerupSlot_01</string>
+				<key>iconName</key>
+				<string>bg_pow_001.png</string>
+				<key>price</key>
+				<string>750</string>
+				<key>title</key>
+				<string>Slot 1</string>
+			</dict>
+			<key>kPowerupSlot_02</key>
+			<dict>
+				<key>description</key>
+				<string>Powerup slot 2</string>
+				<key>featureID</key>
+				<string>kPowerupSlot_02</string>
+				<key>iconName</key>
+				<string>bg_pow_001.png</string>
+				<key>price</key>
+				<string>1500</string>
+				<key>title</key>
+				<string>Slot 2</string>
+			</dict>
+			<key>kPowerupSlot_03</key>
+			<dict>
+				<key>description</key>
+				<string>Powerup slot 3</string>
+				<key>featureID</key>
+				<string>kPowerupSlot_03</string>
+				<key>iconName</key>
+				<string>bg_pow_001.png</string>
+				<key>price</key>
+				<string>3000</string>
+				<key>title</key>
+				<string>Slot 3</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

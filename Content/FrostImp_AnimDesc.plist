@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainer</key>
+	<dict>
+		<key>FrostImp_idle_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.85, -15.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FrostImp_backThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FrostImp_backLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.35, -24.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>FrostImp_frontLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.5, -9.8}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>FrostImp_frontHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.85, -1.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>FrostImp_frontShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.45, 24.05}</string>
+				<key>rotation</key>
+				<string>2.451690673828125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>FrostImp_ear_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.75, -27.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.55, -27.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.15, -9.75}</string>
+				<key>rotation</key>
+				<string>13.156631469726563</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FrostImp_backHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.05, -1.4}</string>
+				<key>rotation</key>
+				<string>7.20849609375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>FrostImp_backShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{22, -9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>FrostImp_tail_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.3, -4.1}</string>
+				<key>rotation</key>
+				<string>2.451690673828125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>FrostImp_body_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.85, 27.45}</string>
+				<key>rotation</key>
+				<string>23.158798217773438</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>FrostImp_fire_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.45, 18.45}</string>
+				<key>rotation</key>
+				<string>2.451690673828125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>FrostImp_head_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.85, -15.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>FrostImp_frontThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>FrostImp_idle_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.85, -15.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FrostImp_backThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FrostImp_backLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.35, -24.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>FrostImp_frontLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.25, -9.9}</string>
+				<key>rotation</key>
+				<string>10.94952392578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>FrostImp_frontHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.7, -1.6}</string>
+				<key>rotation</key>
+				<string>2.21514892578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>FrostImp_frontShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.45, 24}</string>
+				<key>rotation</key>
+				<string>-8.68939208984375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>FrostImp_ear_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.85, -27.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.55, -27.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.35, -10.35}</string>
+				<key>rotation</key>
+				<string>15.960296630859375</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FrostImp_backHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.95, -1.85}</string>
+				<key>rotation</key>
+				<string>5.0159149169921875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>FrostImp_backShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{21.2, -7.8}</string>
+				<key>rotation</key>
+				<string>-7.2222747802734375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>FrostImp_tail_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.6, -4.3}</string>
+				<key>rotation</key>
+				<string>-0.465972900390625</string>
+				<key>scale</key>
+				<string>{1.02610, 0.98532}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>FrostImp_body_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.6, 26.9}</string>
+				<key>rotation</key>
+				<string>23.035263061523438</string>
+				<key>scale</key>
+				<string>{0.99848, 0.99848}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>FrostImp_fire_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.25, 18}</string>
+				<key>rotation</key>
+				<string>3.9706573486328125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>FrostImp_head_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.55, -16}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>FrostImp_frontThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>FrostImp_idle_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.05, -15.75}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FrostImp_backThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FrostImp_backLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.35, -24.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>FrostImp_frontLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.6, -10.15}</string>
+				<key>rotation</key>
+				<string>13.945693969726563</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>FrostImp_frontHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.45, -1.75}</string>
+				<key>rotation</key>
+				<string>5.2119293212890625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>FrostImp_frontShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.8, 23.95}</string>
+				<key>rotation</key>
+				<string>-12.948379516601563</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>FrostImp_ear_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.95, -27.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.55, -27.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.4, -10.9}</string>
+				<key>rotation</key>
+				<string>18.151748657226563</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FrostImp_backHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.05, -1.4}</string>
+				<key>rotation</key>
+				<string>7.20849609375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>FrostImp_backShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{20.6, -7.35}</string>
+				<key>rotation</key>
+				<string>-10.660186767578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>FrostImp_tail_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.15, -4.3}</string>
+				<key>rotation</key>
+				<string>-2.8678131103515625</string>
+				<key>scale</key>
+				<string>{1.03655, 0.97941}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>FrostImp_body_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.35, 26.75}</string>
+				<key>rotation</key>
+				<string>22.812774658203125</string>
+				<key>scale</key>
+				<string>{0.99815, 0.99815}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>FrostImp_fire_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.65, 17.8}</string>
+				<key>rotation</key>
+				<string>4.228118896484375</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>FrostImp_head_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.35, -16.2}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>FrostImp_frontThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>FrostImp_idle_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.05, -15.75}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FrostImp_backThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FrostImp_backLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.35, -24.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>FrostImp_frontLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.85, -10.35}</string>
+				<key>rotation</key>
+				<string>15.395431518554688</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>FrostImp_frontHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.4, -2.05}</string>
+				<key>rotation</key>
+				<string>6.66143798828125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>FrostImp_frontShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.85, 23.8}</string>
+				<key>rotation</key>
+				<string>-12.950042724609375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>FrostImp_ear_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.95, -27.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.55, -27.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.6, -11.1}</string>
+				<key>rotation</key>
+				<string>18.151748657226563</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FrostImp_backHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.05, -1.4}</string>
+				<key>rotation</key>
+				<string>7.20849609375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>FrostImp_backShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{20.25, -7.45}</string>
+				<key>rotation</key>
+				<string>-11.367752075195313</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>FrostImp_tail_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.05, -4.4}</string>
+				<key>rotation</key>
+				<string>-4.1689910888671875</string>
+				<key>scale</key>
+				<string>{1.03619, 0.97941}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>FrostImp_body_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.7, 26.55}</string>
+				<key>rotation</key>
+				<string>22.75555419921875</string>
+				<key>scale</key>
+				<string>{0.99901, 0.99901}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>FrostImp_fire_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.6, 17.65}</string>
+				<key>rotation</key>
+				<string>5.644287109375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>FrostImp_head_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.15, -16.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>FrostImp_frontThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>FrostImp_idle_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.05, -15.75}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FrostImp_backThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FrostImp_backLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.35, -24.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>FrostImp_frontLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.6, -10.15}</string>
+				<key>rotation</key>
+				<string>13.945693969726563</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>FrostImp_frontHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.45, -1.75}</string>
+				<key>rotation</key>
+				<string>5.2119293212890625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>FrostImp_frontShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.8, 23.95}</string>
+				<key>rotation</key>
+				<string>-12.948379516601563</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>FrostImp_ear_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.95, -27.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.55, -27.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.4, -10.9}</string>
+				<key>rotation</key>
+				<string>18.151748657226563</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FrostImp_backHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.05, -1.4}</string>
+				<key>rotation</key>
+				<string>7.20849609375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>FrostImp_backShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{20.6, -7.35}</string>
+				<key>rotation</key>
+				<string>-10.660186767578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>FrostImp_tail_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.15, -4.3}</string>
+				<key>rotation</key>
+				<string>-2.8678131103515625</string>
+				<key>scale</key>
+				<string>{1.03655, 0.97941}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>FrostImp_body_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.45, 26.75}</string>
+				<key>rotation</key>
+				<string>22.312515258789063</string>
+				<key>scale</key>
+				<string>{0.99818, 0.99818}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>FrostImp_fire_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.65, 17.8}</string>
+				<key>rotation</key>
+				<string>4.228118896484375</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>FrostImp_head_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.35, -16.2}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>FrostImp_frontThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>FrostImp_idle_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.85, -15.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FrostImp_backThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FrostImp_backLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.35, -24.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>FrostImp_frontLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.25, -9.9}</string>
+				<key>rotation</key>
+				<string>10.94952392578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>FrostImp_frontHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.7, -1.6}</string>
+				<key>rotation</key>
+				<string>2.21514892578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>FrostImp_frontShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.45, 24}</string>
+				<key>rotation</key>
+				<string>-8.68939208984375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>FrostImp_ear_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.85, -27.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.55, -27.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.35, -10.35}</string>
+				<key>rotation</key>
+				<string>15.960296630859375</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FrostImp_backHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.95, -1.85}</string>
+				<key>rotation</key>
+				<string>5.0159149169921875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>FrostImp_backShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{21.2, -7.8}</string>
+				<key>rotation</key>
+				<string>-7.2222747802734375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>FrostImp_tail_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.6, -4.3}</string>
+				<key>rotation</key>
+				<string>-0.465972900390625</string>
+				<key>scale</key>
+				<string>{1.02610, 0.98532}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>FrostImp_body_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.75, 27.05}</string>
+				<key>rotation</key>
+				<string>22.0321044921875</string>
+				<key>scale</key>
+				<string>{0.99858, 0.99858}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>FrostImp_fire_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.25, 18}</string>
+				<key>rotation</key>
+				<string>3.9706573486328125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>FrostImp_head_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.55, -16}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>FrostImp_frontThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>FrostImp_idle_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.85, -15.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FrostImp_backThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, -24}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FrostImp_backLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.35, -24.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>FrostImp_frontLeg_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.5, -9.8}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>FrostImp_frontHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.85, -1.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>FrostImp_frontShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.45, 24.05}</string>
+				<key>rotation</key>
+				<string>2.451690673828125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>FrostImp_ear_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.75, -27.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.55, -27.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FrostImp_foot_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.15, -9.75}</string>
+				<key>rotation</key>
+				<string>13.156631469726563</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FrostImp_backHand_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.05, -1.4}</string>
+				<key>rotation</key>
+				<string>7.20849609375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>FrostImp_backShoulder_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{22, -9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>FrostImp_tail_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.3, -4.1}</string>
+				<key>rotation</key>
+				<string>2.451690673828125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>FrostImp_body_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3, 27.4}</string>
+				<key>rotation</key>
+				<string>21.655502319335938</string>
+				<key>scale</key>
+				<string>{1.00001, 1.00001}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>FrostImp_fire_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.45, 18.45}</string>
+				<key>rotation</key>
+				<string>2.451690673828125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>FrostImp_head_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.85, -15.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>FrostImp_frontThigh_1.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>usedTextures</key>
+	<dict>
+		<key>texture_0</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>texture</key>
+			<string>FrostImp_backThigh_1.png</string>
+		</dict>
+		<key>texture_1</key>
+		<dict>
+			<key>tag</key>
+			<string>1</string>
+			<key>texture</key>
+			<string>FrostImp_backLeg_1.png</string>
+		</dict>
+		<key>texture_10</key>
+		<dict>
+			<key>tag</key>
+			<string>10</string>
+			<key>texture</key>
+			<string>FrostImp_frontLeg_1.png</string>
+		</dict>
+		<key>texture_11</key>
+		<dict>
+			<key>tag</key>
+			<string>11</string>
+			<key>texture</key>
+			<string>FrostImp_frontHand_1.png</string>
+		</dict>
+		<key>texture_12</key>
+		<dict>
+			<key>tag</key>
+			<string>12</string>
+			<key>texture</key>
+			<string>FrostImp_frontShoulder_1.png</string>
+		</dict>
+		<key>texture_13</key>
+		<dict>
+			<key>tag</key>
+			<string>13</string>
+			<key>texture</key>
+			<string>FrostImp_ear_1.png</string>
+		</dict>
+		<key>texture_14</key>
+		<dict>
+			<key>tag</key>
+			<string>14</string>
+			<key>texture</key>
+			<string>FrostImp_foot_1.png</string>
+		</dict>
+		<key>texture_2</key>
+		<dict>
+			<key>tag</key>
+			<string>2</string>
+			<key>texture</key>
+			<string>FrostImp_foot_1.png</string>
+		</dict>
+		<key>texture_3</key>
+		<dict>
+			<key>tag</key>
+			<string>3</string>
+			<key>texture</key>
+			<string>FrostImp_backHand_1.png</string>
+		</dict>
+		<key>texture_4</key>
+		<dict>
+			<key>tag</key>
+			<string>4</string>
+			<key>texture</key>
+			<string>FrostImp_backShoulder_1.png</string>
+		</dict>
+		<key>texture_5</key>
+		<dict>
+			<key>tag</key>
+			<string>5</string>
+			<key>texture</key>
+			<string>FrostImp_tail_1.png</string>
+		</dict>
+		<key>texture_6</key>
+		<dict>
+			<key>tag</key>
+			<string>6</string>
+			<key>texture</key>
+			<string>FrostImp_body_1.png</string>
+		</dict>
+		<key>texture_7</key>
+		<dict>
+			<key>tag</key>
+			<string>7</string>
+			<key>texture</key>
+			<string>FrostImp_fire_1.png</string>
+		</dict>
+		<key>texture_8</key>
+		<dict>
+			<key>tag</key>
+			<string>8</string>
+			<key>texture</key>
+			<string>FrostImp_head_1.png</string>
+		</dict>
+		<key>texture_9</key>
+		<dict>
+			<key>tag</key>
+			<string>9</string>
+			<key>texture</key>
+			<string>FrostImp_frontThigh_1.png</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

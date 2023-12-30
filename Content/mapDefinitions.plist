@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Levels</key>
+	<dict>
+		<key>001</key>
+		<dict>
+			<key>Start</key>
+			<string>{360, 170}</string>
+			<key>point1</key>
+			<string>{360, 170}</string>
+			<key>point2</key>
+			<string>{420, 200}</string>
+		</dict>
+		<key>002</key>
+		<dict>
+			<key>Start</key>
+			<string>{500, 300}</string>
+			<key>point1</key>
+			<string>{500, 300}</string>
+			<key>point2</key>
+			<string>{530, 330}</string>
+		</dict>
+		<key>003</key>
+		<dict>
+			<key>Start</key>
+			<string>{500, 400}</string>
+			<key>point1</key>
+			<string>{500, 400}</string>
+			<key>point2</key>
+			<string>{400, 400}</string>
+		</dict>
+		<key>004</key>
+		<dict>
+			<key>Start</key>
+			<string>{320, 300}</string>
+			<key>point1</key>
+			<string>{320, 300}</string>
+			<key>point2</key>
+			<string>{320, 300}</string>
+		</dict>
+		<key>005</key>
+		<dict>
+			<key>Start</key>
+			<string>{320, 400}</string>
+			<key>point1</key>
+			<string>{320, 400}</string>
+			<key>point2</key>
+			<string>{320, 400}</string>
+		</dict>
+		<key>006</key>
+		<dict>
+			<key>Start</key>
+			<string>{95, 194}</string>
+			<key>point1</key>
+			<string>{95, 194}</string>
+			<key>point2</key>
+			<string>{95, 194}</string>
+		</dict>
+		<key>007</key>
+		<dict>
+			<key>Start</key>
+			<string>{222, 250}</string>
+			<key>point1</key>
+			<string>{222, 250}</string>
+			<key>point2</key>
+			<string>{222, 250}</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

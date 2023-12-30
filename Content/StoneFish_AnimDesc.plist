@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainer</key>
+	<dict>
+		<key>StoneFish_idle_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{16.75, -0.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>StoneFish_Tail_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-7.5, -7.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>StoneFish_Jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.5, 5.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>StoneFish_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>StoneFish_idle_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{16.95, -1.8}</string>
+				<key>rotation</key>
+				<string>6.7838897705078125</string>
+				<key>scale</key>
+				<string>{0.99961, 0.99961}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>StoneFish_Tail_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-7.2, -11.7}</string>
+				<key>rotation</key>
+				<string>-14.532150268554688</string>
+				<key>scale</key>
+				<string>{1.01123, 0.99921}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>StoneFish_Jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-8.45, 8.8}</string>
+				<key>rotation</key>
+				<string>12.296524047851563</string>
+				<key>scale</key>
+				<string>{1.02171, 0.99932}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>StoneFish_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>StoneFish_idle_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{17.05, -2.85}</string>
+				<key>rotation</key>
+				<string>14.258193969726563</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>StoneFish_Tail_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.55, -16.5}</string>
+				<key>rotation</key>
+				<string>-30.243850708007813</string>
+				<key>scale</key>
+				<string>{1.02498, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>StoneFish_Jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.5, 12.45}</string>
+				<key>rotation</key>
+				<string>25.7203369140625</string>
+				<key>scale</key>
+				<string>{1.04648, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>StoneFish_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>StoneFish_idle_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{17, -3.4}</string>
+				<key>rotation</key>
+				<string>18.322097778320313</string>
+				<key>scale</key>
+				<string>{0.99901, 0.99901}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>StoneFish_Tail_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.6, -17}</string>
+				<key>rotation</key>
+				<string>-31.318206787109375</string>
+				<key>scale</key>
+				<string>{1.04204, 0.99855}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>StoneFish_Jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.4, 13.3}</string>
+				<key>rotation</key>
+				<string>28.323379516601563</string>
+				<key>scale</key>
+				<string>{1.07200, 0.99862}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>StoneFish_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>StoneFish_idle_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{16.8, -4.1}</string>
+				<key>rotation</key>
+				<string>22.97747802734375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>StoneFish_Tail_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.9, -17.55}</string>
+				<key>rotation</key>
+				<string>-32.48072814941406</string>
+				<key>scale</key>
+				<string>{1.06356, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>StoneFish_Jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6.25, 14.3}</string>
+				<key>rotation</key>
+				<string>31.223037719726563</string>
+				<key>scale</key>
+				<string>{1.10250, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>StoneFish_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>StoneFish_idle_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{17.9, -3.15}</string>
+				<key>rotation</key>
+				<string>15.276718139648438</string>
+				<key>scale</key>
+				<string>{1.08332, 0.99999}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>StoneFish_Tail_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.05, -6.65}</string>
+				<key>rotation</key>
+				<string>1.927032470703125</string>
+				<key>scale</key>
+				<string>{1.06353, 1.00002}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>StoneFish_Jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.45, 7.3}</string>
+				<key>rotation</key>
+				<string>5.4251556396484375</string>
+				<key>scale</key>
+				<string>{1.13270, 1.00001}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>StoneFish_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>StoneFish_idle_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{17.4, -1.95}</string>
+				<key>rotation</key>
+				<string>7.7937164306640625</string>
+				<key>scale</key>
+				<string>{1.04268, 0.99956}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>StoneFish_Tail_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-8.95, -6.9}</string>
+				<key>rotation</key>
+				<string>0.8130035400390625</string>
+				<key>scale</key>
+				<string>{1.03283, 0.99995}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>StoneFish_Jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11, 6.15}</string>
+				<key>rotation</key>
+				<string>2.765777587890625</string>
+				<key>scale</key>
+				<string>{1.06855, 0.99984}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>StoneFish_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>usedTextures</key>
+	<dict>
+		<key>texture_0</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>texture</key>
+			<string>StoneFish_Tail_001.png</string>
+		</dict>
+		<key>texture_1</key>
+		<dict>
+			<key>tag</key>
+			<string>1</string>
+			<key>texture</key>
+			<string>StoneFish_Jaw_001.png</string>
+		</dict>
+		<key>texture_2</key>
+		<dict>
+			<key>tag</key>
+			<string>2</string>
+			<key>texture</key>
+			<string>StoneFish_Head_001.png</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

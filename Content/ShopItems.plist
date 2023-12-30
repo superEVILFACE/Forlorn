@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kItemBag</key>
+	<dict>
+		<key>ranks</key>
+		<dict>
+			<key>01</key>
+			<dict>
+				<key>description</key>
+				<string>Small bag description</string>
+				<key>iconName</key>
+				<string></string>
+				<key>itemID</key>
+				<string>kItemBag</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Small bag</string>
+				<key>unique</key>
+				<string>1</string>
+			</dict>
+			<key>02</key>
+			<dict>
+				<key>description</key>
+				<string>Medium bag description</string>
+				<key>iconName</key>
+				<string></string>
+				<key>itemID</key>
+				<string>kItemBag</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Medium bag</string>
+				<key>unique</key>
+				<string>1</string>
+			</dict>
+			<key>03</key>
+			<dict>
+				<key>description</key>
+				<string>Large bag description</string>
+				<key>iconName</key>
+				<string></string>
+				<key>itemID</key>
+				<string>kItemBag</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Large bag</string>
+				<key>unique</key>
+				<string>1</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>kItemCoin1</key>
+	<dict>
+		<key>animationType</key>
+		<string>kItemAnimBounce</string>
+		<key>iconName</key>
+		<string>gem_green.png</string>
+		<key>instant</key>
+		<string>1</string>
+		<key>itemID</key>
+		<string>kItemCoin1</string>
+	</dict>
+	<key>kItemCoin2</key>
+	<dict>
+		<key>animationType</key>
+		<string>kItemAnimBounce</string>
+		<key>iconName</key>
+		<string>gem_blue.png</string>
+		<key>instant</key>
+		<string>1</string>
+		<key>itemID</key>
+		<string>kItemCoin2</string>
+	</dict>
+	<key>kItemCoin5</key>
+	<dict>
+		<key>animationType</key>
+		<string>kItemAnimBounce</string>
+		<key>iconName</key>
+		<string>gem_red.png</string>
+		<key>instant</key>
+		<string>1</string>
+		<key>itemID</key>
+		<string>kItemCoin5</string>
+	</dict>
+	<key>kItemElementalBomb</key>
+	<dict>
+		<key>ranks</key>
+		<dict>
+			<key>01</key>
+			<dict>
+				<key>consumable</key>
+				<string>1</string>
+				<key>description</key>
+				<string>Elemental Bomb rank 1 description</string>
+				<key>iconName</key>
+				<string>icon_bag_medium_green.png</string>
+				<key>itemID</key>
+				<string>kItemElementalBomb</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>EBomb Rank 1</string>
+				<key>usable</key>
+				<string>1</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>kItemFireStance</key>
+	<dict>
+		<key>description</key>
+		<string>You are now the master of Fire!</string>
+		<key>iconName</key>
+		<string>item_heart_of_fire.png</string>
+		<key>itemID</key>
+		<string>kItemFireStance</string>
+		<key>title</key>
+		<string>Heart of Fire</string>
+		<key>unique</key>
+		<string>1</string>
+	</dict>
+	<key>kItemHealth</key>
+	<dict>
+		<key>animationType</key>
+		<string>kItemAnimSink</string>
+		<key>iconName</key>
+		<string>FLHeart_04_001.png</string>
+		<key>instant</key>
+		<string>1</string>
+		<key>itemID</key>
+		<string>kItemHealth</string>
+		<key>scale</key>
+		<string>0.8</string>
+	</dict>
+	<key>kItemHealthPotion</key>
+	<dict>
+		<key>ranks</key>
+		<dict>
+			<key>01</key>
+			<dict>
+				<key>consumable</key>
+				<string>1</string>
+				<key>description</key>
+				<string>Drink to regain your vitality!</string>
+				<key>iconName</key>
+				<string>icon_potion_health.png</string>
+				<key>itemID</key>
+				<string>kItemHealthPotion</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Small Health Potion</string>
+				<key>usable</key>
+				<string>1</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>kItemHeartPiece</key>
+	<dict>
+		<key>animationType</key>
+		<string>kItemAnimHover</string>
+		<key>iconName</key>
+		<string>item_HeartPiece.png</string>
+		<key>itemID</key>
+		<string>kItemHeartPiece</string>
+	</dict>
+	<key>kItemMelee</key>
+	<dict>
+		<key>description</key>
+		<string>Melee description</string>
+		<key>iconName</key>
+		<string>item_elemental_sword.png</string>
+		<key>itemID</key>
+		<string>kItemMelee</string>
+		<key>title</key>
+		<string>Melee</string>
+		<key>unique</key>
+		<string>1</string>
+	</dict>
+	<key>kItemMeleeUp</key>
+	<dict>
+		<key>ranks</key>
+		<dict>
+			<key>kItemMeleeUp_01</key>
+			<dict>
+				<key>description</key>
+				<string>Melee update 01 description</string>
+				<key>iconName</key>
+				<string></string>
+				<key>itemID</key>
+				<string>kItemMeleeUp_01</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Melee Upgrade 1</string>
+				<key>unique</key>
+				<string>1</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>kItemQuickBoots</key>
+	<dict>
+		<key>ranks</key>
+		<dict>
+			<key>01</key>
+			<dict>
+				<key>description</key>
+				<string>You feel lighter...</string>
+				<key>iconName</key>
+				<string></string>
+				<key>itemID</key>
+				<string>kItemQuickBoots</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Boots of Quickness Rank 1</string>
+				<key>unique</key>
+				<string>1</string>
+			</dict>
+			<key>02</key>
+			<dict>
+				<key>description</key>
+				<string>You can almost fly!</string>
+				<key>iconName</key>
+				<string></string>
+				<key>itemID</key>
+				<string>kItemQuickBoots</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Boots of Quickness Rank 2</string>
+				<key>unique</key>
+				<string>1</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>kItemTimeWarp</key>
+	<dict>
+		<key>ranks</key>
+		<dict>
+			<key>01</key>
+			<dict>
+				<key>consumable</key>
+				<string>1</string>
+				<key>description</key>
+				<string>Cast this spell to bend time!</string>
+				<key>iconName</key>
+				<string>icon_bag_large_blue.png</string>
+				<key>itemID</key>
+				<string>kItemTimeWarp</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Timewarp Rank 1</string>
+				<key>usable</key>
+				<string>1</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>kItemWings</key>
+	<dict>
+		<key>ranks</key>
+		<dict>
+			<key>01</key>
+			<dict>
+				<key>description</key>
+				<string>Its almost as if you could fly...</string>
+				<key>iconName</key>
+				<string></string>
+				<key>itemID</key>
+				<string>kItemWings</string>
+				<key>price</key>
+				<string>250</string>
+				<key>title</key>
+				<string>Giant Feather</string>
+				<key>unique</key>
+				<string>1</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

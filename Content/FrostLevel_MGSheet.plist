@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>background_large_pillar.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{73,252}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{73,252}}</string>
+			<key>sourceSize</key>
+			<string>{73,252}</string>
+		</dict>
+		<key>midground_mountain_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,76},{224,178}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{224,178}}</string>
+			<key>sourceSize</key>
+			<string>{224,178}</string>
+		</dict>
+		<key>midground_mountain_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,256},{197,178}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{197,178}}</string>
+			<key>sourceSize</key>
+			<string>{197,178}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>FrostLevel_MGSheet.png</string>
+		<key>size</key>
+		<string>{256,512}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:115d867103100d746dda33ec7e4cbab6$</string>
+		<key>textureFileName</key>
+		<string>FrostLevel_MGSheet.png</string>
+	</dict>
+</dict>
+</plist>

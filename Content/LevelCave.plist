@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bgContainer</key>
+	<dict/>
+	<key>blockContainer</key>
+	<dict>
+		<key>0</key>
+		<dict>
+			<key>animated</key>
+			<string>1</string>
+			<key>customAnim</key>
+			<string>0</string>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>frameOffset</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>0</string>
+			<key>p_uID</key>
+			<string>0</string>
+			<key>position</key>
+			<string>{431.9, 242.7}</string>
+			<key>scale</key>
+			<string>{0.69, 0.69}</string>
+			<key>sheetType</key>
+			<string>B3</string>
+			<key>skipEndAnim</key>
+			<string>0</string>
+			<key>skipStartAnim</key>
+			<string>1</string>
+			<key>spriteSheet</key>
+			<string>CommonSheet_01</string>
+			<key>texture</key>
+			<string>Fire_01.png</string>
+			<key>type</key>
+			<string>disabled</string>
+			<key>zValue</key>
+			<string>0</string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>animated</key>
+			<string>1</string>
+			<key>customAnim</key>
+			<string>0</string>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>frameOffset</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>0</string>
+			<key>p_uID</key>
+			<string>1</string>
+			<key>position</key>
+			<string>{44.9, 242.7}</string>
+			<key>scale</key>
+			<string>{0.69, 0.69}</string>
+			<key>sheetType</key>
+			<string>B3</string>
+			<key>skipEndAnim</key>
+			<string>0</string>
+			<key>skipStartAnim</key>
+			<string>1</string>
+			<key>spriteSheet</key>
+			<string>CommonSheet_01</string>
+			<key>texture</key>
+			<string>Fire_01.png</string>
+			<key>type</key>
+			<string>disabled</string>
+			<key>zValue</key>
+			<string>1</string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>customVar</key>
+			<string>{52, 56}</string>
+			<key>customXVar</key>
+			<string>1</string>
+			<key>customYVar</key>
+			<string>1</string>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>freeMode</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>0</string>
+			<key>p_uID</key>
+			<string>10</string>
+			<key>position</key>
+			<string>{74.6, 209.3}</string>
+			<key>scale</key>
+			<string>{2.14, 2.32}</string>
+			<key>sheetType</key>
+			<string>particle</string>
+			<key>spriteSheet</key>
+			<string>particle</string>
+			<key>startColor</key>
+			<string>154 157 173</string>
+			<key>texture</key>
+			<string>shineLarge.plist</string>
+			<key>type</key>
+			<string>particle</string>
+			<key>zValue</key>
+			<string>3</string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>customVar</key>
+			<string>{61, 43}</string>
+			<key>customXVar</key>
+			<string>1</string>
+			<key>customYVar</key>
+			<string>1</string>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>freeMode</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>0</string>
+			<key>p_uID</key>
+			<string>11</string>
+			<key>position</key>
+			<string>{431.2, 112.4}</string>
+			<key>scale</key>
+			<string>{2.54, 1.79}</string>
+			<key>sheetType</key>
+			<string>particle</string>
+			<key>spriteSheet</key>
+			<string>particle</string>
+			<key>startColor</key>
+			<string>154 157 173</string>
+			<key>texture</key>
+			<string>shineLarge.plist</string>
+			<key>type</key>
+			<string>particle</string>
+			<key>zValue</key>
+			<string>4</string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>customVar</key>
+			<string>{52, 56}</string>
+			<key>customXVar</key>
+			<string>1</string>
+			<key>customYVar</key>
+			<string>1</string>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>freeMode</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>0</string>
+			<key>p_uID</key>
+			<string>12</string>
+			<key>position</key>
+			<string>{437.7, 209.3}</string>
+			<key>scale</key>
+			<string>{2.14, 2.32}</string>
+			<key>sheetType</key>
+			<string>particle</string>
+			<key>spriteSheet</key>
+			<string>particle</string>
+			<key>startColor</key>
+			<string>154 157 173</string>
+			<key>texture</key>
+			<string>shineLarge.plist</string>
+			<key>type</key>
+			<string>particle</string>
+			<key>zValue</key>
+			<string>5</string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>mType</key>
+			<string>4</string>
+			<key>p_uID</key>
+			<string>13</string>
+			<key>position</key>
+			<string>{512.6, 378.2}</string>
+			<key>rotation</key>
+			<string>-166.1</string>
+			<key>scale</key>
+			<string>{1.00, 1.00}</string>
+			<key>sheetType</key>
+			<string>F1</string>
+			<key>spriteSheet</key>
+			<string>FrostLevel_Sheet02</string>
+			<key>texture</key>
+			<string>sn_mountain_ground_2.png</string>
+			<key>type</key>
+			<string>disabled</string>
+			<key>zValue</key>
+			<string>0</string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>flipped</key>
+			<string>{1, 0}</string>
+			<key>mType</key>
+			<string>4</string>
+			<key>p_uID</key>
+			<string>14</string>
+			<key>position</key>
+			<string>{-11.5, 399.1}</string>
+			<key>rotation</key>
+			<string>-210.1</string>
+			<key>scale</key>
+			<string>{1.00, 1.00}</string>
+			<key>sheetType</key>
+			<string>F1</string>
+			<key>spriteSheet</key>
+			<string>FrostLevel_Sheet02</string>
+			<key>texture</key>
+			<string>sn_mountain_ground_1.png</string>
+			<key>type</key>
+			<string>disabled</string>
+			<key>zValue</key>
+			<string>1</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>ignoreEdges</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>4</string>
+			<key>p_uID</key>
+			<string>2</string>
+			<key>points</key>
+			<dict>
+				<key>point_0</key>
+				<dict>
+					<key>angle</key>
+					<string>9.843</string>
+					<key>position</key>
+					<string>{-90.8, -134.7}</string>
+				</dict>
+				<key>point_1</key>
+				<dict>
+					<key>angle</key>
+					<string>0.014</string>
+					<key>position</key>
+					<string>{-65.4, 115.3}</string>
+				</dict>
+				<key>point_2</key>
+				<dict>
+					<key>angle</key>
+					<string>10.991</string>
+					<key>position</key>
+					<string>{285.9, 110.3}</string>
+				</dict>
+				<key>point_3</key>
+				<dict>
+					<key>angle</key>
+					<string>0</string>
+					<key>position</key>
+					<string>{308.1, -133.7}</string>
+				</dict>
+			</dict>
+			<key>position</key>
+			<string>{103.3, -5.4}</string>
+			<key>scale</key>
+			<string>{1.10, 1.00}</string>
+			<key>sheetType</key>
+			<string>B2</string>
+			<key>spriteSheet</key>
+			<string>FrostLevel_Sheet02</string>
+			<key>texture</key>
+			<string>sn_snowground_big.png</string>
+			<key>type</key>
+			<string>curved</string>
+			<key>zValue</key>
+			<string>0</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>ignoreEdges</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>4</string>
+			<key>p_uID</key>
+			<string>3</string>
+			<key>points</key>
+			<dict>
+				<key>point_0</key>
+				<dict>
+					<key>angle</key>
+					<string>9.690</string>
+					<key>position</key>
+					<string>{246.5, -137.7}</string>
+				</dict>
+				<key>point_1</key>
+				<dict>
+					<key>angle</key>
+					<string>0.014</string>
+					<key>position</key>
+					<string>{272.3, 112.3}</string>
+				</dict>
+				<key>point_2</key>
+				<dict>
+					<key>angle</key>
+					<string>10.844</string>
+					<key>position</key>
+					<string>{628.6, 107.3}</string>
+				</dict>
+				<key>point_3</key>
+				<dict>
+					<key>angle</key>
+					<string>0</string>
+					<key>position</key>
+					<string>{651.1, -136.7}</string>
+				</dict>
+			</dict>
+			<key>position</key>
+			<string>{443.4, -8.4}</string>
+			<key>scale</key>
+			<string>{1.12, 1.00}</string>
+			<key>sheetType</key>
+			<string>B2</string>
+			<key>spriteSheet</key>
+			<string>FrostLevel_Sheet02</string>
+			<key>texture</key>
+			<string>sn_snowground_big.png</string>
+			<key>type</key>
+			<string>curved</string>
+			<key>zValue</key>
+			<string>1</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>mType</key>
+			<string>4</string>
+			<key>p_uID</key>
+			<string>4</string>
+			<key>position</key>
+			<string>{120.5, 129.1}</string>
+			<key>scale</key>
+			<string>{1.00, 1.00}</string>
+			<key>sheetType</key>
+			<string>B2</string>
+			<key>spriteSheet</key>
+			<string>FrostLevel_Sheet02</string>
+			<key>texture</key>
+			<string>sn_crystal_purple_medium.png</string>
+			<key>type</key>
+			<string>disabled</string>
+			<key>zValue</key>
+			<string>2</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>mType</key>
+			<string>4</string>
+			<key>p_uID</key>
+			<string>5</string>
+			<key>position</key>
+			<string>{435.6, 159.6}</string>
+			<key>scale</key>
+			<string>{1.00, 1.00}</string>
+			<key>sheetType</key>
+			<string>B1</string>
+			<key>spriteSheet</key>
+			<string>FrostLevel_Sheet01</string>
+			<key>texture</key>
+			<string>sn_torch_pillar.png</string>
+			<key>type</key>
+			<string>disabled</string>
+			<key>zValue</key>
+			<string>0</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>mType</key>
+			<string>4</string>
+			<key>p_uID</key>
+			<string>6</string>
+			<key>position</key>
+			<string>{52.6, 159.6}</string>
+			<key>scale</key>
+			<string>{1.00, 1.00}</string>
+			<key>sheetType</key>
+			<string>B1</string>
+			<key>spriteSheet</key>
+			<string>FrostLevel_Sheet01</string>
+			<key>texture</key>
+			<string>sn_torch_pillar.png</string>
+			<key>type</key>
+			<string>disabled</string>
+			<key>zValue</key>
+			<string>1</string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>customVar</key>
+			<string>{61, 43}</string>
+			<key>customXVar</key>
+			<string>1</string>
+			<key>customYVar</key>
+			<string>1</string>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>freeMode</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>0</string>
+			<key>p_uID</key>
+			<string>7</string>
+			<key>position</key>
+			<string>{68.2, 112.4}</string>
+			<key>scale</key>
+			<string>{2.54, 1.79}</string>
+			<key>sheetType</key>
+			<string>particle</string>
+			<key>spriteSheet</key>
+			<string>particle</string>
+			<key>startColor</key>
+			<string>154 157 173</string>
+			<key>texture</key>
+			<string>shineLarge.plist</string>
+			<key>type</key>
+			<string>particle</string>
+			<key>zValue</key>
+			<string>0</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>customVar</key>
+			<string>{17, 9}</string>
+			<key>customXVar</key>
+			<string>1</string>
+			<key>customYVar</key>
+			<string>1</string>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>freeMode</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>0</string>
+			<key>p_uID</key>
+			<string>8</string>
+			<key>position</key>
+			<string>{121.3, 128.9}</string>
+			<key>scale</key>
+			<string>{0.73, 0.37}</string>
+			<key>sheetType</key>
+			<string>particle</string>
+			<key>spriteSheet</key>
+			<string>particle</string>
+			<key>texture</key>
+			<string>crystal_shine.plist</string>
+			<key>type</key>
+			<string>particle</string>
+			<key>zValue</key>
+			<string>1</string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>customVar</key>
+			<string>{129, 38}</string>
+			<key>customXVar</key>
+			<string>1</string>
+			<key>customYVar</key>
+			<string>1</string>
+			<key>flipped</key>
+			<string>{0, 0}</string>
+			<key>freeMode</key>
+			<string>0</string>
+			<key>mType</key>
+			<string>0</string>
+			<key>p_uID</key>
+			<string>9</string>
+			<key>position</key>
+			<string>{261.4, 114}</string>
+			<key>rotation</key>
+			<string>0.8</string>
+			<key>scale</key>
+			<string>{5.34, 1.51}</string>
+			<key>sheetType</key>
+			<string>particle</string>
+			<key>spriteSheet</key>
+			<string>particle</string>
+			<key>startColor</key>
+			<string>154 157 173</string>
+			<key>texture</key>
+			<string>shineLarge.plist</string>
+			<key>type</key>
+			<string>particle</string>
+			<key>zValue</key>
+			<string>2</string>
+		</dict>
+	</dict>
+	<key>commandContainer</key>
+	<dict/>
+	<key>drawingContainer</key>
+	<dict/>
+	<key>fireflyContainer</key>
+	<dict/>
+	<key>itemContainer</key>
+	<dict/>
+	<key>levelSize</key>
+	<string>{512, 399}</string>
+	<key>npcContainer</key>
+	<dict/>
+	<key>playerSpawn</key>
+	<string>{226.5, 160.3}</string>
+	<key>settings</key>
+	<dict>
+		<key>bgImage</key>
+		<string>cave_bg_01</string>
+		<key>bgMusic</key>
+		<string>0</string>
+		<key>enableShadowMode</key>
+		<string>0</string>
+		<key>fadeEntry</key>
+		<string>0</string>
+		<key>introLevelText</key>
+		<string>Cave of DOOM</string>
+		<key>offsetBGY</key>
+		<string>0</string>
+		<key>textBlue</key>
+		<string>255</string>
+		<key>textGreen</key>
+		<string>170</string>
+		<key>textRed</key>
+		<string>66</string>
+	</dict>
+	<key>setup</key>
+	<dict/>
+	<key>sheetContainer</key>
+	<dict>
+		<key>sheet_0</key>
+		<dict>
+			<key>texture</key>
+			<string>CommonSheet_01</string>
+			<key>type</key>
+			<string>B3</string>
+		</dict>
+		<key>sheet_1</key>
+		<dict>
+			<key>texture</key>
+			<string>FrostLevel_Sheet02</string>
+			<key>type</key>
+			<string>B2</string>
+		</dict>
+		<key>sheet_2</key>
+		<dict>
+			<key>texture</key>
+			<string>FrostLevel_Sheet01</string>
+			<key>type</key>
+			<string>B1</string>
+		</dict>
+		<key>sheet_3</key>
+		<dict>
+			<key>texture</key>
+			<string>FrostLevel_Sheet02</string>
+			<key>type</key>
+			<string>F1</string>
+		</dict>
+	</dict>
+	<key>sounds</key>
+	<string></string>
+	<key>textContainer</key>
+	<dict/>
+	<key>triggerContainer</key>
+	<dict/>
+	<key>weather</key>
+	<string></string>
+</dict>
+</plist>

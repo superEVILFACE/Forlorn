@@ -1,0 +1,7610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainer</key>
+	<dict>
+		<key>Witch_idle_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-8.45, -7.65}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.95, -24.75}</string>
+				<key>rotation</key>
+				<string>59.951629638671875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4, -12.9}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.5, -22.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.25, 2}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.25, -10.3}</string>
+				<key>rotation</key>
+				<string>-1.9803009033203125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.15, -4}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.15, 26.3}</string>
+				<key>rotation</key>
+				<string>-3.4752960205078125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{25.95, 4.45}</string>
+				<key>rotation</key>
+				<string>-6.5216827392578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-31.4, -0.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.75, -14.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17, -15.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-19.5, -13.35}</string>
+				<key>rotation</key>
+				<string>5.54296875</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13, -14.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{18.25, -33.15}</string>
+				<key>rotation</key>
+				<string>60.94798278808594</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.05, -16.65}</string>
+				<key>rotation</key>
+				<string>60.94798278808594</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_idle_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-8.2, -7.8}</string>
+				<key>rotation</key>
+				<string>4.52276611328125</string>
+				<key>scale</key>
+				<string>{0.99974, 0.99974}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.75, -25.05}</string>
+				<key>rotation</key>
+				<string>58.9107666015625</string>
+				<key>scale</key>
+				<string>{0.99853, 0.99853}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.01250, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.25, -13.2}</string>
+				<key>rotation</key>
+				<string>3.5554351806640625</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.75, -22.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.03125, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.5, 1.75}</string>
+				<key>rotation</key>
+				<string>3.5554351806640625</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.8, -10.55}</string>
+				<key>rotation</key>
+				<string>-2.0064849853515625</string>
+				<key>scale</key>
+				<string>{0.99988, 0.99988}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.45, -4.2}</string>
+				<key>rotation</key>
+				<string>3.5554351806640625</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.35, 25.9}</string>
+				<key>rotation</key>
+				<string>-3.3062896728515625</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99277}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{26.4, 4.35}</string>
+				<key>rotation</key>
+				<string>-7.2781829833984375</string>
+				<key>scale</key>
+				<string>{0.99960, 0.99960}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-31.15, -0.4}</string>
+				<key>rotation</key>
+				<string>0.2640228271484375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.5, -14.4}</string>
+				<key>rotation</key>
+				<string>1.5584259033203125</string>
+				<key>scale</key>
+				<string>{0.99993, 0.99993}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17, -15.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-19.5, -13.35}</string>
+				<key>rotation</key>
+				<string>4.260284423828125</string>
+				<key>scale</key>
+				<string>{0.99977, 0.99977}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.75, -14.9}</string>
+				<key>rotation</key>
+				<string>1.5584259033203125</string>
+				<key>scale</key>
+				<string>{0.99993, 0.99993}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{18.95, -33.65}</string>
+				<key>rotation</key>
+				<string>53.881011962890625</string>
+				<key>scale</key>
+				<string>{0.99842, 0.99842}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.95, -17.1}</string>
+				<key>rotation</key>
+				<string>60.16563415527344</string>
+				<key>scale</key>
+				<string>{0.99856, 0.99856}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_idle_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-8.05, -7.95}</string>
+				<key>rotation</key>
+				<string>5.4589385986328125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.35, -25.35}</string>
+				<key>rotation</key>
+				<string>57.73692321777344</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.02499, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.5, -13.4}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5, -23.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.06250, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.75, 1.5}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.3, -10.85}</string>
+				<key>rotation</key>
+				<string>-2.052764892578125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.65, -4.5}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.65, 25.4}</string>
+				<key>rotation</key>
+				<string>-3.4752960205078125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.98596}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{26.8, 4.25}</string>
+				<key>rotation</key>
+				<string>-8.182113647460938</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-30.9, -0.35}</string>
+				<key>rotation</key>
+				<string>0.528045654296875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.25, -14.7}</string>
+				<key>rotation</key>
+				<string>3.46746826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17, -15.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-19.5, -13.35}</string>
+				<key>rotation</key>
+				<string>3.0291290283203125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.55, -14.95}</string>
+				<key>rotation</key>
+				<string>3.46746826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.6, -33.8}</string>
+				<key>rotation</key>
+				<string>46.61798095703125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.65, -17.5}</string>
+				<key>rotation</key>
+				<string>59.239532470703125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_idle_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-7.75, -7.9}</string>
+				<key>rotation</key>
+				<string>6.05438232421875</string>
+				<key>scale</key>
+				<string>{0.99966, 0.99966}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.25, -25.35}</string>
+				<key>rotation</key>
+				<string>54.39837646484375</string>
+				<key>scale</key>
+				<string>{0.99842, 0.99842}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.03139, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.55, -13.7}</string>
+				<key>rotation</key>
+				<string>6.8028564453125</string>
+				<key>scale</key>
+				<string>{0.99961, 0.99961}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5, -23.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.07280, 1.01041}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.95, 1.25}</string>
+				<key>rotation</key>
+				<string>3.5554351806640625</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.5, -11.15}</string>
+				<key>rotation</key>
+				<string>-1.2613525390625</string>
+				<key>scale</key>
+				<string>{0.99992, 0.99992}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.9, -4.75}</string>
+				<key>rotation</key>
+				<string>3.5554351806640625</string>
+				<key>scale</key>
+				<string>{0.99979, 0.99979}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.85, 24.9}</string>
+				<key>rotation</key>
+				<string>-3.307159423828125</string>
+				<key>scale</key>
+				<string>{1.01260, 0.97561}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{27.1, 4.4}</string>
+				<key>rotation</key>
+				<string>-10.021392822265625</string>
+				<key>scale</key>
+				<string>{0.99947, 0.99947}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-30.65, -0.35}</string>
+				<key>rotation</key>
+				<string>0.7920379638671875</string>
+				<key>scale</key>
+				<string>{0.99996, 0.99996}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4, -15.15}</string>
+				<key>rotation</key>
+				<string>4.7980804443359375</string>
+				<key>scale</key>
+				<string>{0.99972, 0.99972}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-16.75, -15.2}</string>
+				<key>rotation</key>
+				<string>1.3041839599609375</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-19.3, -13.3}</string>
+				<key>rotation</key>
+				<string>3.0064544677734375</string>
+				<key>scale</key>
+				<string>{0.99982, 0.99982}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.3, -15.15}</string>
+				<key>rotation</key>
+				<string>4.7980804443359375</string>
+				<key>scale</key>
+				<string>{0.99972, 0.99972}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.9, -33.5}</string>
+				<key>rotation</key>
+				<string>39.08952331542969</string>
+				<key>scale</key>
+				<string>{0.99836, 0.99836}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.55, -17.65}</string>
+				<key>rotation</key>
+				<string>59.68965148925781</string>
+				<key>scale</key>
+				<string>{0.99856, 0.99856}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_idle_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-7.3, -7.75}</string>
+				<key>rotation</key>
+				<string>6.948486328125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.25, -25.4}</string>
+				<key>rotation</key>
+				<string>50.9642333984375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.03778, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.5, -13.9}</string>
+				<key>rotation</key>
+				<string>10.176467895507813</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5, -23.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.08310, 1.02081}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.25, 1}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.8, -11.35}</string>
+				<key>rotation</key>
+				<string>-0.530670166015625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.15, -5}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.2, 24.3}</string>
+				<key>rotation</key>
+				<string>-3.4752960205078125</string>
+				<key>scale</key>
+				<string>{1.02563, 0.96566}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{27.4, 4.4}</string>
+				<key>rotation</key>
+				<string>-11.94134521484375</string>
+				<key>scale</key>
+				<string>{1.00002, 1.00002}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-30.25, -0.4}</string>
+				<key>rotation</key>
+				<string>1.22552490234375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.75, -15.5}</string>
+				<key>rotation</key>
+				<string>6.403411865234375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-16.5, -15.25}</string>
+				<key>rotation</key>
+				<string>2.9349517822265625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-19, -13.35}</string>
+				<key>rotation</key>
+				<string>3.0291290283203125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.05, -15.3}</string>
+				<key>rotation</key>
+				<string>6.403411865234375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{20.15, -33.35}</string>
+				<key>rotation</key>
+				<string>31.510498046875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.4, -17.8}</string>
+				<key>rotation</key>
+				<string>60.161041259765625</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_idle_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-7.2, -7.95}</string>
+				<key>rotation</key>
+				<string>6.831298828125</string>
+				<key>scale</key>
+				<string>{1.00737, 0.99077}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.35, -25.3}</string>
+				<key>rotation</key>
+				<string>49.963836669921875</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.05078, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.7, -14.05}</string>
+				<key>rotation</key>
+				<string>10.006988525390625</string>
+				<key>scale</key>
+				<string>{1.00707, 0.99105}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5, -23.1}</string>
+				<key>rotation</key>
+				<string>1.226409912109375</string>
+				<key>scale</key>
+				<string>{1.10108, 1.01657}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.5, 0.75}</string>
+				<key>rotation</key>
+				<string>3.6547088623046875</string>
+				<key>scale</key>
+				<string>{1.00753, 0.99059}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.05, -11.5}</string>
+				<key>rotation</key>
+				<string>-0.5210418701171875</string>
+				<key>scale</key>
+				<string>{1.00761, 0.99051}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.4, -5.2}</string>
+				<key>rotation</key>
+				<string>3.6547088623046875</string>
+				<key>scale</key>
+				<string>{1.00753, 0.99059}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.45, 23.6}</string>
+				<key>rotation</key>
+				<string>-3.4169464111328125</string>
+				<key>scale</key>
+				<string>{1.03338, 0.94819}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{27.6, 4.35}</string>
+				<key>rotation</key>
+				<string>-13.208847045898438</string>
+				<key>scale</key>
+				<string>{1.00674, 0.99144}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-29.95, -0.4}</string>
+				<key>rotation</key>
+				<string>1.5427093505859375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.75, -15.5}</string>
+				<key>rotation</key>
+				<string>6.403411865234375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-16.5, -15.25}</string>
+				<key>rotation</key>
+				<string>2.9349517822265625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-19, -13.35}</string>
+				<key>rotation</key>
+				<string>3.0291290283203125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.05, -15.3}</string>
+				<key>rotation</key>
+				<string>6.403411865234375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{20.2, -33.3}</string>
+				<key>rotation</key>
+				<string>30.802413940429688</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.4, -17.8}</string>
+				<key>rotation</key>
+				<string>60.161041259765625</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_scream_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-8.45, -7.65}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.95, -24.75}</string>
+				<key>rotation</key>
+				<string>59.951629638671875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4, -12.9}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.5, -22.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.25, 2}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.25, -10.3}</string>
+				<key>rotation</key>
+				<string>-1.9803009033203125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.15, -4}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.15, 26.3}</string>
+				<key>rotation</key>
+				<string>-3.4752960205078125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{25.95, 4.45}</string>
+				<key>rotation</key>
+				<string>-6.5216827392578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-31.4, -0.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.75, -14.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17, -15.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-19.5, -13.35}</string>
+				<key>rotation</key>
+				<string>5.54296875</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13, -14.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{18.25, -33.15}</string>
+				<key>rotation</key>
+				<string>60.94798278808594</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.05, -16.65}</string>
+				<key>rotation</key>
+				<string>60.94798278808594</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_scream_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-8.45, -8.75}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.6, -26.2}</string>
+				<key>rotation</key>
+				<string>66.18084716796875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -40.75}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.03751, 0.93750}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4, -12.9}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.5, -24.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.08333, 0.93750}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.5, -2}</string>
+				<key>rotation</key>
+				<string>8.929290771484375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.35, -14.4}</string>
+				<key>rotation</key>
+				<string>3.23046875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.85, -8.35}</string>
+				<key>rotation</key>
+				<string>8.929290771484375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.5, 18.15}</string>
+				<key>rotation</key>
+				<string>1.7357635498046875</string>
+				<key>scale</key>
+				<string>{1.10085, 0.90700}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{24.8, -0.2}</string>
+				<key>rotation</key>
+				<string>-7.5421295166015625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-32.3, -0.4}</string>
+				<key>rotation</key>
+				<string>-0.949371337890625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5, -18.8}</string>
+				<key>rotation</key>
+				<string>13.197235107421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17.2, -16.95}</string>
+				<key>rotation</key>
+				<string>13.197235107421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-20, -13.2}</string>
+				<key>rotation</key>
+				<string>1.99163818359375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.25, -17.65}</string>
+				<key>rotation</key>
+				<string>13.197235107421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{16.85, -35.85}</string>
+				<key>rotation</key>
+				<string>29.440048217773438</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{6.65, -17.5}</string>
+				<key>rotation</key>
+				<string>67.17683410644531</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_scream_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.7, -8}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.25, -14.95}</string>
+				<key>rotation</key>
+				<string>-8.286590576171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4, -12.9}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.5, -22.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9, -14.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>19</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Inside_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{6, 3.75}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.25, -28.05}</string>
+				<key>rotation</key>
+				<string>-1.9803009033203125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.3, -2.9}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.6, 29.15}</string>
+				<key>rotation</key>
+				<string>-11.194549560546875</string>
+				<key>scale</key>
+				<string>{0.99998, 1.05870}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_19</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{23.95, 7.95}</string>
+				<key>rotation</key>
+				<string>-6.5216827392578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>19</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-32.95, -0.45}</string>
+				<key>rotation</key>
+				<string>-2.175872802734375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.45, -14.05}</string>
+				<key>rotation</key>
+				<string>13.197235107421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-18.2, -14.95}</string>
+				<key>rotation</key>
+				<string>13.197235107421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-20, -13.2}</string>
+				<key>rotation</key>
+				<string>1.99163818359375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.7, -15.15}</string>
+				<key>rotation</key>
+				<string>-7.547271728515625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{34.35, -14.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>20</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_Point_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.55, -15.65}</string>
+				<key>rotation</key>
+				<string>6.9390106201171875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_scream_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.7, -7}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{20.8, -14.15}</string>
+				<key>rotation</key>
+				<string>-6.751983642578125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{0.97501, 1.02678}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4, -12.9}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.5, -21.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.02083}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.5, -15.05}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>19</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Inside_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.5, 4.25}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.25, -29.05}</string>
+				<key>rotation</key>
+				<string>-1.9803009033203125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.3, -2.4}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4, 30.25}</string>
+				<key>rotation</key>
+				<string>-11.194549560546875</string>
+				<key>scale</key>
+				<string>{0.99998, 1.08099}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_19</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{23.45, 8.45}</string>
+				<key>rotation</key>
+				<string>-6.5216827392578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>19</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-32.95, -0.45}</string>
+				<key>rotation</key>
+				<string>-2.175872802734375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.45, -14.05}</string>
+				<key>rotation</key>
+				<string>13.197235107421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-18.2, -14.95}</string>
+				<key>rotation</key>
+				<string>13.197235107421875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-20, -13.2}</string>
+				<key>rotation</key>
+				<string>1.99163818359375</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.7, -15.15}</string>
+				<key>rotation</key>
+				<string>-7.547271728515625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{36.35, -12.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>20</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_Point_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.55, -15.65}</string>
+				<key>rotation</key>
+				<string>6.9390106201171875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-8.45, -7.65}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.95, -24.75}</string>
+				<key>rotation</key>
+				<string>59.951629638671875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4, -12.9}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.5, -22.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.25, 2}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.25, -10.3}</string>
+				<key>rotation</key>
+				<string>-1.9803009033203125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.15, -4}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.15, 26.3}</string>
+				<key>rotation</key>
+				<string>-3.4752960205078125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{25.95, 4.45}</string>
+				<key>rotation</key>
+				<string>-6.5216827392578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-31.4, -0.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.75, -14.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17, -15.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-19.5, -13.35}</string>
+				<key>rotation</key>
+				<string>5.54296875</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13, -14.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{18.25, -33.15}</string>
+				<key>rotation</key>
+				<string>60.94798278808594</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.05, -16.65}</string>
+				<key>rotation</key>
+				<string>60.94798278808594</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-6, -5.65}</string>
+				<key>rotation</key>
+				<string>4.9534454345703125</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.75, -25.9}</string>
+				<key>rotation</key>
+				<string>71.38139343261719</string>
+				<key>scale</key>
+				<string>{1.00001, 1.00001}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.2, -14.25}</string>
+				<key>rotation</key>
+				<string>8.43548583984375</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{5.5, -22.6}</string>
+				<key>rotation</key>
+				<string>7.1973114013671875</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.8, -0.55}</string>
+				<key>rotation</key>
+				<string>8.851638793945313</string>
+				<key>scale</key>
+				<string>{1.01568, 0.98035}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.7, -12.75}</string>
+				<key>rotation</key>
+				<string>6.8373260498046875</string>
+				<key>scale</key>
+				<string>{1.01641, 0.97966}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{17.15, -6.8}</string>
+				<key>rotation</key>
+				<string>8.851638793945313</string>
+				<key>scale</key>
+				<string>{1.01568, 0.98035}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{15.85, 22.3}</string>
+				<key>rotation</key>
+				<string>1.913055419921875</string>
+				<key>scale</key>
+				<string>{1.06686, 0.94866}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{30.85, 0.25}</string>
+				<key>rotation</key>
+				<string>-1.0227813720703125</string>
+				<key>scale</key>
+				<string>{1.01644, 0.97962}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-34.1, -0.65}</string>
+				<key>rotation</key>
+				<string>-6.474212646484375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-3.45, -13.8}</string>
+				<key>rotation</key>
+				<string>1.975921630859375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17, -15.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-20, -13.85}</string>
+				<key>rotation</key>
+				<string>-2.927978515625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.5, -14.85}</string>
+				<key>rotation</key>
+				<string>-5.221466064453125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{15.7, -34.8}</string>
+				<key>rotation</key>
+				<string>70.40103149414063</string>
+				<key>scale</key>
+				<string>{0.99996, 0.99996}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.6, -16.75}</string>
+				<key>rotation</key>
+				<string>72.37716674804688</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.65, -3.7}</string>
+				<key>rotation</key>
+				<string>-0.0139923095703125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.25, -24.8}</string>
+				<key>rotation</key>
+				<string>49.192657470703125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.15, -10.9}</string>
+				<key>rotation</key>
+				<string>-0.0139923095703125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.15, -22.6}</string>
+				<key>rotation</key>
+				<string>-3.7321929931640625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.9, -3.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>19</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Inside_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{6.45, 4.35}</string>
+				<key>rotation</key>
+				<string>-0.0139923095703125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.8, -17.65}</string>
+				<key>rotation</key>
+				<string>-0.726470947265625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.7, -2.85}</string>
+				<key>rotation</key>
+				<string>-0.0139923095703125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.05, 29.85}</string>
+				<key>rotation</key>
+				<string>-10.913284301757813</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_19</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{21.7, 9.75}</string>
+				<key>rotation</key>
+				<string>-20.494705200195313</string>
+				<key>scale</key>
+				<string>{1.00002, 1.00002}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>19</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.15}</string>
+				<key>rotation</key>
+				<string>4.7268829345703125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-36.2, -2}</string>
+				<key>rotation</key>
+				<string>-10.161224365234375</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.65, -14.7}</string>
+				<key>rotation</key>
+				<string>-3.7321929931640625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17, -15.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-21, -14.85}</string>
+				<key>rotation</key>
+				<string>-1.439605712890625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.8, -16}</string>
+				<key>rotation</key>
+				<string>-3.7321929931640625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{21.65, -31.65}</string>
+				<key>rotation</key>
+				<string>23.482452392578125</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7, -18}</string>
+				<key>rotation</key>
+				<string>50.18853759765625</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-15.9, -3.6}</string>
+				<key>rotation</key>
+				<string>-2.4656524658203125</string>
+				<key>scale</key>
+				<string>{0.97875, 0.99999}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{16.95, -22.95}</string>
+				<key>rotation</key>
+				<string>37.717437744140625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.5}</string>
+				<key>rotation</key>
+				<string>-1.484161376953125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.02677}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.15, -10.9}</string>
+				<key>rotation</key>
+				<string>-0.0139923095703125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.65, -22.1}</string>
+				<key>rotation</key>
+				<string>-11.477798461914063</string>
+				<key>scale</key>
+				<string>{0.99999, 1.06666}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{6.8, -7.5}</string>
+				<key>rotation</key>
+				<string>-2.4508209228515625</string>
+				<key>scale</key>
+				<string>{0.97875, 1.00000}</string>
+				<key>tag</key>
+				<string>19</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Inside_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.95, 5.3}</string>
+				<key>rotation</key>
+				<string>-2.4656524658203125</string>
+				<key>scale</key>
+				<string>{0.97875, 0.99999}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.2, -22.45}</string>
+				<key>rotation</key>
+				<string>-3.1929931640625</string>
+				<key>scale</key>
+				<string>{0.97875, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.4, -1.7}</string>
+				<key>rotation</key>
+				<string>-2.4656524658203125</string>
+				<key>scale</key>
+				<string>{0.97875, 0.99999}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-1.35, 31.9}</string>
+				<key>rotation</key>
+				<string>-13.59600830078125</string>
+				<key>scale</key>
+				<string>{0.97950, 1.05442}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_19</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{18.65, 11.35}</string>
+				<key>rotation</key>
+				<string>-23.352874755859375</string>
+				<key>scale</key>
+				<string>{0.98141, 0.99744}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>19</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.15}</string>
+				<key>rotation</key>
+				<string>8.193252563476563</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-37.95, -2.45}</string>
+				<key>rotation</key>
+				<string>-12.111953735351563</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.65, -14.7}</string>
+				<key>rotation</key>
+				<string>-3.7321929931640625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-18, -16.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-22.75, -15.3}</string>
+				<key>rotation</key>
+				<string>-1.439605712890625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.3, -16.5}</string>
+				<key>rotation</key>
+				<string>-3.7321929931640625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{25.55, -28.2}</string>
+				<key>rotation</key>
+				<string>12.0074462890625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.5, -17.75}</string>
+				<key>rotation</key>
+				<string>38.714141845703125</string>
+				<key>scale</key>
+				<string>{0.99996, 0.99996}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-16.05, -3.55}</string>
+				<key>rotation</key>
+				<string>-3.2688140869140625</string>
+				<key>scale</key>
+				<string>{0.97857, 0.99981}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{17.2, -22.75}</string>
+				<key>rotation</key>
+				<string>35.117279052734375</string>
+				<key>scale</key>
+				<string>{0.99844, 0.99844}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.45}</string>
+				<key>rotation</key>
+				<string>-1.3102874755859375</string>
+				<key>scale</key>
+				<string>{0.99994, 1.02671}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.15, -10.9}</string>
+				<key>rotation</key>
+				<string>-0.004364013671875</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.65, -22.05}</string>
+				<key>rotation</key>
+				<string>-12.814620971679688</string>
+				<key>scale</key>
+				<string>{0.99928, 1.06592}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{6.6, -7.75}</string>
+				<key>rotation</key>
+				<string>-3.26446533203125</string>
+				<key>scale</key>
+				<string>{0.97858, 0.99984}</string>
+				<key>tag</key>
+				<string>19</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Inside_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.65, 5.55}</string>
+				<key>rotation</key>
+				<string>-3.2688140869140625</string>
+				<key>scale</key>
+				<string>{0.97857, 0.99981}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.35, -22.55}</string>
+				<key>rotation</key>
+				<string>-4.0132904052734375</string>
+				<key>scale</key>
+				<string>{0.97853, 0.99977}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.2, -1.35}</string>
+				<key>rotation</key>
+				<string>-3.2688140869140625</string>
+				<key>scale</key>
+				<string>{0.97857, 0.99981}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.1, 32.3}</string>
+				<key>rotation</key>
+				<string>-14.311553955078125</string>
+				<key>scale</key>
+				<string>{0.97874, 1.06098}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_19</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{18.05, 12.2}</string>
+				<key>rotation</key>
+				<string>-25.799041748046875</string>
+				<key>scale</key>
+				<string>{0.98014, 0.99618}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>19</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.7, -49.15}</string>
+				<key>rotation</key>
+				<string>8.0518798828125</string>
+				<key>scale</key>
+				<string>{0.99956, 0.99956}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-38.3, -2.6}</string>
+				<key>rotation</key>
+				<string>-12.53668212890625</string>
+				<key>scale</key>
+				<string>{0.99932, 0.99932}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.65, -14.75}</string>
+				<key>rotation</key>
+				<string>-3.55804443359375</string>
+				<key>scale</key>
+				<string>{0.99981, 0.99981}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-18, -16.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-23.25, -15.3}</string>
+				<key>rotation</key>
+				<string>-1.2989349365234375</string>
+				<key>scale</key>
+				<string>{0.99991, 0.99991}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.6, -16.8}</string>
+				<key>rotation</key>
+				<string>-3.55804443359375</string>
+				<key>scale</key>
+				<string>{0.99981, 0.99981}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{26, -27.65}</string>
+				<key>rotation</key>
+				<string>9.508529663085938</string>
+				<key>scale</key>
+				<string>{0.99943, 0.99943}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.6, -17.9}</string>
+				<key>rotation</key>
+				<string>36.11842346191406</string>
+				<key>scale</key>
+				<string>{0.99840, 0.99840}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-16.25, -3.55}</string>
+				<key>rotation</key>
+				<string>-4.16986083984375</string>
+				<key>scale</key>
+				<string>{0.97876, 0.99999}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{17.45, -22.55}</string>
+				<key>rotation</key>
+				<string>32.72270202636719</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.5}</string>
+				<key>rotation</key>
+				<string>-1.484161376953125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.02677}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.15, -10.9}</string>
+				<key>rotation</key>
+				<string>-0.0139923095703125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.65, -22.1}</string>
+				<key>rotation</key>
+				<string>-14.464126586914063</string>
+				<key>scale</key>
+				<string>{1.00000, 1.06666}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{6.4, -8.05}</string>
+				<key>rotation</key>
+				<string>-4.1550750732421875</string>
+				<key>scale</key>
+				<string>{0.97875, 1.00000}</string>
+				<key>tag</key>
+				<string>19</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Inside_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.35, 5.9}</string>
+				<key>rotation</key>
+				<string>-4.16986083984375</string>
+				<key>scale</key>
+				<string>{0.97876, 0.99999}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.4, -22.6}</string>
+				<key>rotation</key>
+				<string>-4.89703369140625</string>
+				<key>scale</key>
+				<string>{0.97876, 0.99999}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8, -0.95}</string>
+				<key>rotation</key>
+				<string>-4.16986083984375</string>
+				<key>scale</key>
+				<string>{0.97876, 0.99999}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-2.85, 32.65}</string>
+				<key>rotation</key>
+				<string>-15.300308227539063</string>
+				<key>scale</key>
+				<string>{0.97950, 1.06921}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_19</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{17.35, 12.9}</string>
+				<key>rotation</key>
+				<string>-28.254241943359375</string>
+				<key>scale</key>
+				<string>{0.98142, 0.99743}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>19</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.15}</string>
+				<key>rotation</key>
+				<string>8.193252563476563</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-38.8, -2.65}</string>
+				<key>rotation</key>
+				<string>-13.112686157226563</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.65, -14.7}</string>
+				<key>rotation</key>
+				<string>-3.7321929931640625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-18, -16.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-23.75, -15.3}</string>
+				<key>rotation</key>
+				<string>-1.439605712890625</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.8, -17}</string>
+				<key>rotation</key>
+				<string>-3.7321929931640625</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{26.45, -27.1}</string>
+				<key>rotation</key>
+				<string>7.0122222900390625</string>
+				<key>scale</key>
+				<string>{0.99997, 0.99997}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.55, -18.15}</string>
+				<key>rotation</key>
+				<string>33.71812438964844</string>
+				<key>scale</key>
+				<string>{0.99996, 0.99996}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.25, -4.55}</string>
+				<key>rotation</key>
+				<string>-2.0501556396484375</string>
+				<key>scale</key>
+				<string>{0.98395, 0.99988}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{16.35, -23.2}</string>
+				<key>rotation</key>
+				<string>39.58424377441406</string>
+				<key>scale</key>
+				<string>{0.99838, 0.99838}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.6}</string>
+				<key>rotation</key>
+				<string>-1.028900146484375</string>
+				<key>scale</key>
+				<string>{0.99995, 1.02002}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.6, -11.4}</string>
+				<key>rotation</key>
+				<string>0.7911529541015625</string>
+				<key>scale</key>
+				<string>{0.99993, 0.99993}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.8, -22.25}</string>
+				<key>rotation</key>
+				<string>-10.781723022460938</string>
+				<key>scale</key>
+				<string>{0.99941, 1.04938}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.9, -5.3}</string>
+				<key>rotation</key>
+				<string>-4.1550750732421875</string>
+				<key>scale</key>
+				<string>{0.97875, 1.00000}</string>
+				<key>tag</key>
+				<string>19</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Inside_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.8, 4.9}</string>
+				<key>rotation</key>
+				<string>-2.0501556396484375</string>
+				<key>scale</key>
+				<string>{0.98395, 0.99988}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.3, -19.45}</string>
+				<key>rotation</key>
+				<string>-4.0254669189453125</string>
+				<key>scale</key>
+				<string>{0.98377, 0.99967}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.3, -1.7}</string>
+				<key>rotation</key>
+				<string>-2.0501556396484375</string>
+				<key>scale</key>
+				<string>{0.98395, 0.99988}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.25, 31.15}</string>
+				<key>rotation</key>
+				<string>-12.282333374023438</string>
+				<key>scale</key>
+				<string>{0.98396, 1.05121}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_19</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.7, 10.85}</string>
+				<key>rotation</key>
+				<string>-22.796432495117188</string>
+				<key>scale</key>
+				<string>{0.98491, 0.99693}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>19</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.25}</string>
+				<key>rotation</key>
+				<string>6.038818359375</string>
+				<key>scale</key>
+				<string>{0.99967, 0.99967}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-37.1, -2.3}</string>
+				<key>rotation</key>
+				<string>-9.775344848632813</string>
+				<key>scale</key>
+				<string>{0.99944, 0.99944}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.4, -14.55}</string>
+				<key>rotation</key>
+				<string>-2.7622833251953125</string>
+				<key>scale</key>
+				<string>{0.99985, 0.99985}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17.75, -15.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-22.7, -14.8}</string>
+				<key>rotation</key>
+				<string>0.2640228271484375</string>
+				<key>scale</key>
+				<string>{0.99996, 0.99996}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.35, -16.45}</string>
+				<key>rotation</key>
+				<string>-2.7622833251953125</string>
+				<key>scale</key>
+				<string>{0.99985, 0.99985}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{24.5, -28.9}</string>
+				<key>rotation</key>
+				<string>20.334976196289063</string>
+				<key>scale</key>
+				<string>{0.99888, 0.99888}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.15, -17.8}</string>
+				<key>rotation</key>
+				<string>40.58470153808594</string>
+				<key>scale</key>
+				<string>{0.99836, 0.99836}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_008.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.3, -5.55}</string>
+				<key>rotation</key>
+				<string>-0.057708740234375</string>
+				<key>scale</key>
+				<string>{0.98938, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{15.35, -23.75}</string>
+				<key>rotation</key>
+				<string>46.36961364746094</string>
+				<key>scale</key>
+				<string>{0.99834, 0.99834}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.95, -39.75}</string>
+				<key>rotation</key>
+				<string>-0.5612640380859375</string>
+				<key>scale</key>
+				<string>{0.99997, 1.01334}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.1, -11.9}</string>
+				<key>rotation</key>
+				<string>1.775054931640625</string>
+				<key>scale</key>
+				<string>{0.99988, 0.99988}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.05, -22.35}</string>
+				<key>rotation</key>
+				<string>-7.061309814453125</string>
+				<key>scale</key>
+				<string>{0.99962, 1.03292}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.4, -3.8}</string>
+				<key>rotation</key>
+				<string>-4.1550750732421875</string>
+				<key>scale</key>
+				<string>{0.97875, 1.00000}</string>
+				<key>tag</key>
+				<string>19</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Inside_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{6.35, 3.95}</string>
+				<key>rotation</key>
+				<string>-0.057708740234375</string>
+				<key>scale</key>
+				<string>{0.98938, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.25, -16.45}</string>
+				<key>rotation</key>
+				<string>-3.297576904296875</string>
+				<key>scale</key>
+				<string>{0.98920, 0.99981}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.6, -2.45}</string>
+				<key>rotation</key>
+				<string>-0.057708740234375</string>
+				<key>scale</key>
+				<string>{0.98938, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.25, 29.5}</string>
+				<key>rotation</key>
+				<string>-9.290695190429688</string>
+				<key>scale</key>
+				<string>{0.98923, 1.03408}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_19</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{21.8, 8.7}</string>
+				<key>rotation</key>
+				<string>-17.302230834960938</string>
+				<key>scale</key>
+				<string>{0.98978, 0.99782}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>19</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.7, -49.35}</string>
+				<key>rotation</key>
+				<string>4.02459716796875</string>
+				<key>scale</key>
+				<string>{0.99978, 0.99978}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-35.45, -2}</string>
+				<key>rotation</key>
+				<string>-6.5164947509765625</string>
+				<key>scale</key>
+				<string>{0.99962, 0.99962}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-5.2, -14.4}</string>
+				<key>rotation</key>
+				<string>-1.780303955078125</string>
+				<key>scale</key>
+				<string>{0.99989, 0.99989}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17.5, -15.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-21.55, -14.3}</string>
+				<key>rotation</key>
+				<string>2.0134735107421875</string>
+				<key>scale</key>
+				<string>{0.99988, 0.99988}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.95, -15.95}</string>
+				<key>rotation</key>
+				<string>-1.780303955078125</string>
+				<key>scale</key>
+				<string>{0.99989, 0.99989}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{22.5, -30.5}</string>
+				<key>rotation</key>
+				<string>33.86424255371094</string>
+				<key>scale</key>
+				<string>{0.99845, 0.99845}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.75, -17.35}</string>
+				<key>rotation</key>
+				<string>47.37171936035156</string>
+				<key>scale</key>
+				<string>{0.99834, 0.99834}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_009.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.3, -6.6}</string>
+				<key>rotation</key>
+				<string>1.5610504150390625</string>
+				<key>scale</key>
+				<string>{0.99460, 0.99991}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.2, -24.15}</string>
+				<key>rotation</key>
+				<string>53.15757751464844</string>
+				<key>scale</key>
+				<string>{0.99841, 0.99841}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.95, -39.75}</string>
+				<key>rotation</key>
+				<string>-0.2806396484375</string>
+				<key>scale</key>
+				<string>{0.99998, 1.00667}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.5, -12.4}</string>
+				<key>rotation</key>
+				<string>2.7579193115234375</string>
+				<key>scale</key>
+				<string>{0.99983, 0.99983}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.3, -22.55}</string>
+				<key>rotation</key>
+				<string>-3.530181884765625</string>
+				<key>scale</key>
+				<string>{0.99979, 1.01647}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.4, -2.3}</string>
+				<key>rotation</key>
+				<string>-4.1550750732421875</string>
+				<key>scale</key>
+				<string>{0.97875, 1.00000}</string>
+				<key>tag</key>
+				<string>19</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Inside_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.8, 2.9}</string>
+				<key>rotation</key>
+				<string>1.5610504150390625</string>
+				<key>scale</key>
+				<string>{0.99460, 0.99991}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.2, -13.4}</string>
+				<key>rotation</key>
+				<string>-2.53546142578125</string>
+				<key>scale</key>
+				<string>{0.99449, 0.99976}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.85, -3.25}</string>
+				<key>rotation</key>
+				<string>1.5610504150390625</string>
+				<key>scale</key>
+				<string>{0.99460, 0.99991}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{6.25, 27.95}</string>
+				<key>rotation</key>
+				<string>-6.298065185546875</string>
+				<key>scale</key>
+				<string>{0.99451, 1.01693}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_19</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{23.9, 6.6}</string>
+				<key>rotation</key>
+				<string>-11.809906005859375</string>
+				<key>scale</key>
+				<string>{0.99472, 0.99870}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>19</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.5}</string>
+				<key>rotation</key>
+				<string>2.0134735107421875</string>
+				<key>scale</key>
+				<string>{0.99987, 0.99987}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-33.65, -1.85}</string>
+				<key>rotation</key>
+				<string>-3.2574920654296875</string>
+				<key>scale</key>
+				<string>{0.99980, 0.99980}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.95, -14.25}</string>
+				<key>rotation</key>
+				<string>-0.7955322265625</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17.25, -15.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-20.55, -13.9}</string>
+				<key>rotation</key>
+				<string>3.762664794921875</string>
+				<key>scale</key>
+				<string>{0.99977, 0.99977}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.45, -15.45}</string>
+				<key>rotation</key>
+				<string>-0.7955322265625</string>
+				<key>scale</key>
+				<string>{0.99994, 0.99994}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{20.25, -31.85}</string>
+				<key>rotation</key>
+				<string>47.40534973144531</string>
+				<key>scale</key>
+				<string>{0.99835, 0.99835}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.45, -17.1}</string>
+				<key>rotation</key>
+				<string>54.15751647949219</string>
+				<key>scale</key>
+				<string>{0.99841, 0.99841}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+		<key>Witch_startled_010.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-8.45, -7.65}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>Witch_Hair_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.75, -50.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>Witch_Foot_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_10</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.95, -24.75}</string>
+				<key>rotation</key>
+				<string>59.951629638671875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>10</string>
+				<key>texture</key>
+				<string>Witch_Arm_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>10</string>
+			</dict>
+			<key>sprite_11</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -39.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>11</string>
+				<key>texture</key>
+				<string>Witch_Dress_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>11</string>
+			</dict>
+			<key>sprite_12</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4, -12.9}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>12</string>
+				<key>texture</key>
+				<string>Witch_Neck_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>12</string>
+			</dict>
+			<key>sprite_13</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.5, -22.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>13</string>
+				<key>texture</key>
+				<string>Witch_Torso_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>13</string>
+			</dict>
+			<key>sprite_14</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.25, 2}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>14</string>
+				<key>texture</key>
+				<string>Witch_Head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>14</string>
+			</dict>
+			<key>sprite_15</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.25, -10.3}</string>
+				<key>rotation</key>
+				<string>-1.9803009033203125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>15</string>
+				<key>texture</key>
+				<string>Witch_Chin_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>15</string>
+			</dict>
+			<key>sprite_16</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.15, -4}</string>
+				<key>rotation</key>
+				<string>3.71826171875</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>16</string>
+				<key>texture</key>
+				<string>Witch_Mouth_Top_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>16</string>
+			</dict>
+			<key>sprite_17</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.15, 26.3}</string>
+				<key>rotation</key>
+				<string>-3.4752960205078125</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>17</string>
+				<key>texture</key>
+				<string>Witch_Hat_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>17</string>
+			</dict>
+			<key>sprite_18</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{25.95, 4.45}</string>
+				<key>rotation</key>
+				<string>-6.5216827392578125</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>18</string>
+				<key>texture</key>
+				<string>Witch_Nose_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>18</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{19.75, -49.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>Witch_Foot_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-31.4, -0.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>Witch_Broom_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-4.75, -14.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+			<key>sprite_5</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-17, -15.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>5</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_part_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>5</string>
+			</dict>
+			<key>sprite_6</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-19.5, -13.35}</string>
+				<key>rotation</key>
+				<string>5.54296875</string>
+				<key>scale</key>
+				<string>{0.99999, 0.99999}</string>
+				<key>tag</key>
+				<string>6</string>
+				<key>texture</key>
+				<string>Witch_Hand_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>6</string>
+			</dict>
+			<key>sprite_7</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13, -14.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>7</string>
+				<key>texture</key>
+				<string>Witch_Arm_Back_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>7</string>
+			</dict>
+			<key>sprite_8</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{18.25, -33.15}</string>
+				<key>rotation</key>
+				<string>60.94798278808594</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>8</string>
+				<key>texture</key>
+				<string>Witch_Hand_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>8</string>
+			</dict>
+			<key>sprite_9</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.05, -16.65}</string>
+				<key>rotation</key>
+				<string>60.94798278808594</string>
+				<key>scale</key>
+				<string>{0.99998, 0.99998}</string>
+				<key>tag</key>
+				<string>9</string>
+				<key>texture</key>
+				<string>Witch_Shoulder_Front_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>9</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>usedTextures</key>
+	<dict>
+		<key>texture_0</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>texture</key>
+			<string>Witch_Hair_001.png</string>
+		</dict>
+		<key>texture_1</key>
+		<dict>
+			<key>tag</key>
+			<string>1</string>
+			<key>texture</key>
+			<string>Witch_Foot_Back_001.png</string>
+		</dict>
+		<key>texture_10</key>
+		<dict>
+			<key>tag</key>
+			<string>10</string>
+			<key>texture</key>
+			<string>Witch_Arm_Front_001.png</string>
+		</dict>
+		<key>texture_11</key>
+		<dict>
+			<key>tag</key>
+			<string>11</string>
+			<key>texture</key>
+			<string>Witch_Dress_001.png</string>
+		</dict>
+		<key>texture_12</key>
+		<dict>
+			<key>tag</key>
+			<string>12</string>
+			<key>texture</key>
+			<string>Witch_Neck_001.png</string>
+		</dict>
+		<key>texture_13</key>
+		<dict>
+			<key>tag</key>
+			<string>13</string>
+			<key>texture</key>
+			<string>Witch_Torso_001.png</string>
+		</dict>
+		<key>texture_14</key>
+		<dict>
+			<key>tag</key>
+			<string>14</string>
+			<key>texture</key>
+			<string>Witch_Head_001.png</string>
+		</dict>
+		<key>texture_15</key>
+		<dict>
+			<key>tag</key>
+			<string>15</string>
+			<key>texture</key>
+			<string>Witch_Chin_001.png</string>
+		</dict>
+		<key>texture_16</key>
+		<dict>
+			<key>tag</key>
+			<string>16</string>
+			<key>texture</key>
+			<string>Witch_Mouth_Top_001.png</string>
+		</dict>
+		<key>texture_17</key>
+		<dict>
+			<key>tag</key>
+			<string>17</string>
+			<key>texture</key>
+			<string>Witch_Hat_001.png</string>
+		</dict>
+		<key>texture_18</key>
+		<dict>
+			<key>tag</key>
+			<string>18</string>
+			<key>texture</key>
+			<string>Witch_Nose_001.png</string>
+		</dict>
+		<key>texture_19</key>
+		<dict>
+			<key>tag</key>
+			<string>19</string>
+			<key>texture</key>
+			<string>Witch_Mouth_Inside_001.png</string>
+		</dict>
+		<key>texture_2</key>
+		<dict>
+			<key>tag</key>
+			<string>2</string>
+			<key>texture</key>
+			<string>Witch_Foot_Front_001.png</string>
+		</dict>
+		<key>texture_20</key>
+		<dict>
+			<key>tag</key>
+			<string>20</string>
+			<key>texture</key>
+			<string>Witch_Hand_Front_Point_001.png</string>
+		</dict>
+		<key>texture_3</key>
+		<dict>
+			<key>tag</key>
+			<string>3</string>
+			<key>texture</key>
+			<string>Witch_Broom_001.png</string>
+		</dict>
+		<key>texture_4</key>
+		<dict>
+			<key>tag</key>
+			<string>4</string>
+			<key>texture</key>
+			<string>Witch_Shoulder_Back_001.png</string>
+		</dict>
+		<key>texture_5</key>
+		<dict>
+			<key>tag</key>
+			<string>5</string>
+			<key>texture</key>
+			<string>Witch_Arm_Back_part_001.png</string>
+		</dict>
+		<key>texture_6</key>
+		<dict>
+			<key>tag</key>
+			<string>6</string>
+			<key>texture</key>
+			<string>Witch_Hand_Back_001.png</string>
+		</dict>
+		<key>texture_7</key>
+		<dict>
+			<key>tag</key>
+			<string>7</string>
+			<key>texture</key>
+			<string>Witch_Arm_Back_001.png</string>
+		</dict>
+		<key>texture_8</key>
+		<dict>
+			<key>tag</key>
+			<string>8</string>
+			<key>texture</key>
+			<string>Witch_Hand_Front_001.png</string>
+		</dict>
+		<key>texture_9</key>
+		<dict>
+			<key>tag</key>
+			<string>9</string>
+			<key>texture</key>
+			<string>Witch_Shoulder_Front_001.png</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

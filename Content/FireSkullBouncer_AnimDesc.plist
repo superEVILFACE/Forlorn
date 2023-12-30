@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainer</key>
+	<dict>
+		<key>FireSkullBouncer_bounce_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.1, -7.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.6, -11.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.6, -4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.1, 0}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_bounce_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.75, -7.6}</string>
+				<key>rotation</key>
+				<string>-8.983901977539063</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.6, -11.45}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.09375, 0.93500}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.75, -4.55}</string>
+				<key>rotation</key>
+				<string>-8.983901977539063</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.2, -2.7}</string>
+				<key>rotation</key>
+				<string>-4.2255096435546875</string>
+				<key>scale</key>
+				<string>{1.03645, 0.98196}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_bounce_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.05, -8.3}</string>
+				<key>rotation</key>
+				<string>-8.983901977539063</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.6, -11.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.14844, 0.87422}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.05, -5.25}</string>
+				<key>rotation</key>
+				<string>-8.983901977539063</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.35, -3.6}</string>
+				<key>rotation</key>
+				<string>-5.675445556640625</string>
+				<key>scale</key>
+				<string>{1.04032, 0.96987}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_bounce_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.2, -7.9}</string>
+				<key>rotation</key>
+				<string>-17.751388549804688</string>
+				<key>scale</key>
+				<string>{1.00571, 1.06183}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.75, -11}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.09354, 1.07819}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.75, -3.8}</string>
+				<key>rotation</key>
+				<string>-17.751388549804688</string>
+				<key>scale</key>
+				<string>{1.00571, 1.06183}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.4, -1.6}</string>
+				<key>rotation</key>
+				<string>-8.158981323242188</string>
+				<key>scale</key>
+				<string>{1.04161, 1.03394}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_bounce_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.75, -5.5}</string>
+				<key>rotation</key>
+				<string>-13.88226318359375</string>
+				<key>scale</key>
+				<string>{1.00225, 1.02499}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.75, -10.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.03203, 1.21024}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.5, -1.9}</string>
+				<key>rotation</key>
+				<string>-13.88226318359375</string>
+				<key>scale</key>
+				<string>{1.00225, 1.02499}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.45, 1.85}</string>
+				<key>rotation</key>
+				<string>-8.355056762695313</string>
+				<key>scale</key>
+				<string>{1.04083, 1.05753}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_down_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.65, -12.35}</string>
+				<key>rotation</key>
+				<string>4.2802886962890625</string>
+				<key>scale</key>
+				<string>{1.15880, 1.02350}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.45, -14.65}</string>
+				<key>rotation</key>
+				<string>-18.321304321289063</string>
+				<key>scale</key>
+				<string>{1.02953, 1.19920}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.3, -3.8}</string>
+				<key>rotation</key>
+				<string>-11.278656005859375</string>
+				<key>scale</key>
+				<string>{1.00152, 1.02322}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.05, 4.55}</string>
+				<key>rotation</key>
+				<string>17.0660400390625</string>
+				<key>scale</key>
+				<string>{1.03794, 1.05381}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_down_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.4, -12.1}</string>
+				<key>rotation</key>
+				<string>2.8128662109375</string>
+				<key>scale</key>
+				<string>{1.11890, 1.02120}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.2, -14.3}</string>
+				<key>rotation</key>
+				<string>-16.563751220703125</string>
+				<key>scale</key>
+				<string>{1.02572, 1.18091}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.3, -3.85}</string>
+				<key>rotation</key>
+				<string>-10.2645263671875</string>
+				<key>scale</key>
+				<string>{1.00054, 1.02044}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, 4.15}</string>
+				<key>rotation</key>
+				<string>15.529434204101563</string>
+				<key>scale</key>
+				<string>{1.03347, 1.04796}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_down_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.2, -11.9}</string>
+				<key>rotation</key>
+				<string>1.724395751953125</string>
+				<key>scale</key>
+				<string>{1.07958, 1.01929}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4, -14.05}</string>
+				<key>rotation</key>
+				<string>-15.072311401367188</string>
+				<key>scale</key>
+				<string>{1.02373, 1.16483}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.25, -3.85}</string>
+				<key>rotation</key>
+				<string>-9.288986206054688</string>
+				<key>scale</key>
+				<string>{1.00073, 1.01881}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.05, 3.8}</string>
+				<key>rotation</key>
+				<string>14.060104370117188</string>
+				<key>scale</key>
+				<string>{1.03079, 1.04396}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_down_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.65, -11.55}</string>
+				<key>rotation</key>
+				<string>4.7590179443359375</string>
+				<key>scale</key>
+				<string>{1.06934, 1.01234}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.2, -13.2}</string>
+				<key>rotation</key>
+				<string>-9.776199340820313</string>
+				<key>scale</key>
+				<string>{1.01477, 1.10767}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8, -3.9}</string>
+				<key>rotation</key>
+				<string>-6.0223846435546875</string>
+				<key>scale</key>
+				<string>{0.99997, 1.01190}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.05, 2.55}</string>
+				<key>rotation</key>
+				<string>9.049560546875</string>
+				<key>scale</key>
+				<string>{1.01950, 1.02814}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_down_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.95, -11.45}</string>
+				<key>rotation</key>
+				<string>6.2652435302734375</string>
+				<key>scale</key>
+				<string>{1.06486, 1.00939}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.8, -12.6}</string>
+				<key>rotation</key>
+				<string>-7.285064697265625</string>
+				<key>scale</key>
+				<string>{1.01125, 1.08073}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.85, -3.95}</string>
+				<key>rotation</key>
+				<string>-4.5175628662109375</string>
+				<key>scale</key>
+				<string>{1.00010, 1.00899}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.1, 1.9}</string>
+				<key>rotation</key>
+				<string>6.792510986328125</string>
+				<key>scale</key>
+				<string>{1.01475, 1.02124}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_down_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.4, -10.15}</string>
+				<key>rotation</key>
+				<string>2.7884521484375</string>
+				<key>scale</key>
+				<string>{1.03366, 1.00471}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.3, -11.85}</string>
+				<key>rotation</key>
+				<string>-3.75482177734375</string>
+				<key>scale</key>
+				<string>{1.00568, 1.04188}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.65, -4}</string>
+				<key>rotation</key>
+				<string>-2.275390625</string>
+				<key>scale</key>
+				<string>{0.99990, 1.00457}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.15, 1}</string>
+				<key>rotation</key>
+				<string>3.50927734375</string>
+				<key>scale</key>
+				<string>{1.00750, 1.01090}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_down_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.65, -9.3}</string>
+				<key>rotation</key>
+				<string>0.7527008056640625</string>
+				<key>scale</key>
+				<string>{1.01396, 1.00198}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2, -11.45}</string>
+				<key>rotation</key>
+				<string>-1.5051422119140625</string>
+				<key>scale</key>
+				<string>{1.00238, 1.01741}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.55, -4}</string>
+				<key>rotation</key>
+				<string>-0.8042755126953125</string>
+				<key>scale</key>
+				<string>{0.99996, 1.00190}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.15, 0.4}</string>
+				<key>rotation</key>
+				<string>1.3015594482421875</string>
+				<key>scale</key>
+				<string>{1.00316, 1.00458}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_down_008.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.75, -9.1}</string>
+				<key>rotation</key>
+				<string>0.05157470703125</string>
+				<key>scale</key>
+				<string>{1.00754, 1.00108}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.75, -11.3}</string>
+				<key>rotation</key>
+				<string>-0.7815399169921875</string>
+				<key>scale</key>
+				<string>{1.00136, 1.00943}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.55, -4}</string>
+				<key>rotation</key>
+				<string>-0.5096893310546875</string>
+				<key>scale</key>
+				<string>{1.00001, 1.00106}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.1, 0.2}</string>
+				<key>rotation</key>
+				<string>0.7666778564453125</string>
+				<key>scale</key>
+				<string>{1.00177, 1.00252}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_up_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.45, -7.2}</string>
+				<key>rotation</key>
+				<string>-13.88226318359375</string>
+				<key>scale</key>
+				<string>{1.00225, 1.02499}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.55, -11.25}</string>
+				<key>rotation</key>
+				<string>-5.2015228271484375</string>
+				<key>scale</key>
+				<string>{1.03202, 1.21023}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.5, -1.9}</string>
+				<key>rotation</key>
+				<string>-13.88226318359375</string>
+				<key>scale</key>
+				<string>{1.00225, 1.02499}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.1, 2.2}</string>
+				<key>rotation</key>
+				<string>-1.8807373046875</string>
+				<key>scale</key>
+				<string>{1.04084, 1.05753}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_up_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.25, -7.55}</string>
+				<key>rotation</key>
+				<string>-12.560836791992188</string>
+				<key>scale</key>
+				<string>{1.01203, 1.02431}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{2.7, -11.45}</string>
+				<key>rotation</key>
+				<string>-6.0284423828125</string>
+				<key>scale</key>
+				<string>{1.03168, 1.20982}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.6, -2}</string>
+				<key>rotation</key>
+				<string>-13.762741088867188</string>
+				<key>scale</key>
+				<string>{1.00148, 1.02428}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.1, 2.35}</string>
+				<key>rotation</key>
+				<string>-0.52716064453125</string>
+				<key>scale</key>
+				<string>{1.04082, 1.05753}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_up_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{1.65, -8.6}</string>
+				<key>rotation</key>
+				<string>-9.277069091796875</string>
+				<key>scale</key>
+				<string>{1.04226, 1.02452}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.05, -12.1}</string>
+				<key>rotation</key>
+				<string>-8.551803588867188</string>
+				<key>scale</key>
+				<string>{1.03153, 1.20963}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.75, -2.4}</string>
+				<key>rotation</key>
+				<string>-13.295822143554688</string>
+				<key>scale</key>
+				<string>{1.00148, 1.02428}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.05, 2.8}</string>
+				<key>rotation</key>
+				<string>3.0064544677734375</string>
+				<key>scale</key>
+				<string>{1.04065, 1.05734}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_up_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.85, -9.9}</string>
+				<key>rotation</key>
+				<string>-4.5218963623046875</string>
+				<key>scale</key>
+				<string>{1.08497, 1.02477}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{3.65, -13.05}</string>
+				<key>rotation</key>
+				<string>-12.282333374023438</string>
+				<key>scale</key>
+				<string>{1.03133, 1.20940}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{7.95, -2.9}</string>
+				<key>rotation</key>
+				<string>-12.79217529296875</string>
+				<key>scale</key>
+				<string>{1.00154, 1.02432}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.05, 3.45}</string>
+				<key>rotation</key>
+				<string>8.045013427734375</string>
+				<key>scale</key>
+				<string>{1.04034, 1.05700}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_up_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -11.35}</string>
+				<key>rotation</key>
+				<string>0.0358428955078125</string>
+				<key>scale</key>
+				<string>{1.12735, 1.02493}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.1, -14}</string>
+				<key>rotation</key>
+				<string>-15.818756103515625</string>
+				<key>scale</key>
+				<string>{1.03113, 1.20919}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.1, -3.3}</string>
+				<key>rotation</key>
+				<string>-12.287353515625</string>
+				<key>scale</key>
+				<string>{1.00158, 1.02437}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.05, 4.1}</string>
+				<key>rotation</key>
+				<string>13.261856079101563</string>
+				<key>scale</key>
+				<string>{1.04008, 1.05673}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_up_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.6, -12.2}</string>
+				<key>rotation</key>
+				<string>3.2967071533203125</string>
+				<key>scale</key>
+				<string>{1.15650, 1.02473}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.55, -14.55}</string>
+				<key>rotation</key>
+				<string>-18.328399658203125</string>
+				<key>scale</key>
+				<string>{1.03102, 1.20905}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.3, -3.7}</string>
+				<key>rotation</key>
+				<string>-12.011627197265625</string>
+				<key>scale</key>
+				<string>{1.00159, 1.02436}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.1, 4.7}</string>
+				<key>rotation</key>
+				<string>16.781173706054688</string>
+				<key>scale</key>
+				<string>{1.03989, 1.05656}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+		<key>FireSkullBouncer_up_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-0.8, -12.6}</string>
+				<key>rotation</key>
+				<string>4.5774993896484375</string>
+				<key>scale</key>
+				<string>{1.16691, 1.02498}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>FireSkull_tongue_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{4.6, -14.85}</string>
+				<key>rotation</key>
+				<string>-19.36431884765625</string>
+				<key>scale</key>
+				<string>{1.03203, 1.21026}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>FireSkull_jaw_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{8.3, -3.8}</string>
+				<key>rotation</key>
+				<string>-11.890289306640625</string>
+				<key>scale</key>
+				<string>{1.00226, 1.02501}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>FireSkull_strap_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0.1, 4.75}</string>
+				<key>rotation</key>
+				<string>18.0458984375</string>
+				<key>scale</key>
+				<string>{1.04084, 1.05753}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>FireSkull_head_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>usedTextures</key>
+	<dict>
+		<key>texture_0</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>texture</key>
+			<string>FireSkull_tongue_001.png</string>
+		</dict>
+		<key>texture_1</key>
+		<dict>
+			<key>tag</key>
+			<string>1</string>
+			<key>texture</key>
+			<string>FireSkull_jaw_001.png</string>
+		</dict>
+		<key>texture_2</key>
+		<dict>
+			<key>tag</key>
+			<string>2</string>
+			<key>texture</key>
+			<string>FireSkull_strap_001.png</string>
+		</dict>
+		<key>texture_3</key>
+		<dict>
+			<key>tag</key>
+			<string>3</string>
+			<key>texture</key>
+			<string>FireSkull_head_001.png</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

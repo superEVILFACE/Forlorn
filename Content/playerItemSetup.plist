@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kItemFireStance</key>
+	<dict>
+		<key>position</key>
+		<string>{60,230}</string>
+	</dict>
+	<key>kItemMelee</key>
+	<dict>
+		<key>position</key>
+		<string>{60,150}</string>
+	</dict>
+	<key>kItemMelee3</key>
+	<dict>
+		<key>position</key>
+		<string>{240,230}</string>
+	</dict>
+	<key>kItemOrbOfShadow</key>
+	<dict>
+		<key>position</key>
+		<string>{240,150}</string>
+	</dict>
+</dict>
+</plist>

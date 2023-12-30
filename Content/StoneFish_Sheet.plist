@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>StoneFish_Head_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,38},{42,38}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{42,38}}</string>
+			<key>sourceSize</key>
+			<string>{42,38}</string>
+		</dict>
+		<key>StoneFish_Jaw_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{44,34}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{44,34}}</string>
+			<key>sourceSize</key>
+			<string>{44,34}</string>
+		</dict>
+		<key>StoneFish_Tail_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,78},{24,26}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{24,26}}</string>
+			<key>sourceSize</key>
+			<string>{24,26}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>StoneFish_Sheet.png</string>
+		<key>size</key>
+		<string>{64,128}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:2cdec2f1b67f29f8d811db6fbe6853ec$</string>
+		<key>textureFileName</key>
+		<string>StoneFish_Sheet.png</string>
+	</dict>
+</dict>
+</plist>
