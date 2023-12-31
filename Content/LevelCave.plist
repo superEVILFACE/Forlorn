@@ -72,7 +72,7 @@
 			<key>zValue</key>
 			<string>1</string>
 		</dict>
-		<key>10</key>
+		<!--<key>10</key>
 		<dict>
 			<key>customVar</key>
 			<string>{52, 56}</string>
@@ -170,7 +170,7 @@
 			<string>particle</string>
 			<key>zValue</key>
 			<string>5</string>
-		</dict>
+		</dict>-->
 		<key>13</key>
 		<dict>
 			<key>flipped</key>
@@ -402,7 +402,7 @@
 			<key>zValue</key>
 			<string>1</string>
 		</dict>
-		<key>7</key>
+		<!--<key>7</key>
 		<dict>
 			<key>customVar</key>
 			<string>{61, 43}</string>
@@ -500,7 +500,7 @@
 			<string>particle</string>
 			<key>zValue</key>
 			<string>2</string>
-		</dict>
+		</dict>-->
 	</dict>
 	<key>commandContainer</key>
 	<dict/>
