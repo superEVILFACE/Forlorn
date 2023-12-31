@@ -25,34 +25,17 @@ bool PlayScene::init() {
 }
 
 bool PlayScene::initWithFile(std::string_view filename) {
-    ValueMap levelData = FileUtils::getInstance()->getValueMapFromFile(filename);
-    ValueMap blockContainer = levelData["blockContainer"].asValueMap();
-    for (const auto& pair : blockContainer) {
-        int blockId = std::stoi(pair.first);
-        ValueMap blockData = pair.second.asValueMap();
+    std::string levelData = FileUtils::getInstance()->getStringFromFile(filename);
+    json levelJson = json::parse(levelData);
+    json blockContainer = levelJson["blockContainer"];
+    for (auto& block : blockContainer.items()) {
+        std::string blockId = block.key();
+        json blockData = block.value();
 
-        bool animated = blockData["animated"].asString() == "1";
-        bool isSpriteSheet = blockData["spriteSheet"].asBool();
-        Vec2 position = PointFromString(blockData["position"].asString());
-        std::string scale = blockData["scale"].asString();
-        float scaleX, scaleY;
-        sscanf(scale.c_str(), "{%f, %f}", &scaleX, &scaleY);
-        float rotation = blockData["rotation"].asFloat();
-        Sprite* sprite;
-        if(animated) {
-            sprite = AnimatedSprite::createWithSpriteFrameName(blockData["texture"].asString());
-        } else if(isSpriteSheet) {
-            sprite = Sprite::createWithSpriteFrameName(blockData["texture"].asString());
-        } else {
-            sprite = Sprite::create(blockData["texture"].asString());
-        }
-        sprite->setTag(blockId);
-        sprite->setPosition(position);
-        sprite->setScale(scaleX, scaleY);
-        if(blockData["rotation"].asBool())
-            sprite->setRotation(rotation);
-        this->addChild(sprite);
-        AXLOG("Sprite added\n details: id: %d, scale: {%f, %f}, rotation: %f", blockId, scaleX, scaleY, rotation);
+        int animated = ForlornUtils::getIntFromLevel(blockData, "animated");
+        Vec2 position = ForlornUtils::getVec2FromLevel(blockData, "position");
+        Vec2 scale = ForlornUtils::getVec2FromLevel(blockData, "scale");
+        AXLOG("Block Details: id: %d, animated: %d, position, {%f, %f}, scale: {%f, %f}", std::stoi(blockId), animated, position.x, position.y, scale.x, scale.y);
     }
     return true;
 }

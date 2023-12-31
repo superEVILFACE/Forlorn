@@ -25,7 +25,7 @@ bool MenuGameScene::init()
     bg->setScale(2.5f);
     this->addChild(bg);
 
-    auto hi = PlayScene::create("LevelCave.plist");
+    auto hi = PlayScene::create("LevelCave.json");
     this->addChild(hi);
     scheduleUpdate();
     return true;
