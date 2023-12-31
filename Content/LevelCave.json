@@ -1,0 +1,306 @@
+{
+  "itemContainer": {},
+  "blockContainer": {
+    "10": {
+      "scale": "{2.14, 2.32}",
+      "freeMode": "0",
+      "customXVar": "1",
+      "position": "{74.6, 209.3}",
+      "flipped": "{0, 0}",
+      "sheetType": "particle",
+      "texture": "shineLarge.plist",
+      "customYVar": "1",
+      "spriteSheet": "particle",
+      "type": "particle",
+      "startColor": "154 157 173",
+      "zValue": "3",
+      "customVar": "{52, 56}",
+      "p_uID": "10",
+      "mType": "0"
+    },
+    "2": {
+      "scale": "{1.10, 1.00}",
+      "points": {
+        "point_2": {
+          "angle": "10.991",
+          "position": "{285.9, 110.3}"
+        },
+        "point_1": {
+          "angle": "0.014",
+          "position": "{-65.4, 115.3}"
+        },
+        "point_0": {
+          "angle": "9.843",
+          "position": "{-90.8, -134.7}"
+        },
+        "point_3": {
+          "angle": "0",
+          "position": "{308.1, -133.7}"
+        }
+      },
+      "position": "{103.3, -5.4}",
+      "flipped": "{0, 0}",
+      "sheetType": "B2",
+      "texture": "sn_snowground_big.png",
+      "spriteSheet": "FrostLevel_Sheet02",
+      "type": "curved",
+      "zValue": "0",
+      "ignoreEdges": "0",
+      "p_uID": "2",
+      "mType": "4"
+    },
+    "3": {
+      "scale": "{1.12, 1.00}",
+      "points": {
+        "point_2": {
+          "angle": "10.844",
+          "position": "{628.6, 107.3}"
+        },
+        "point_1": {
+          "angle": "0.014",
+          "position": "{272.3, 112.3}"
+        },
+        "point_0": {
+          "angle": "9.690",
+          "position": "{246.5, -137.7}"
+        },
+        "point_3": {
+          "angle": "0",
+          "position": "{651.1, -136.7}"
+        }
+      },
+      "position": "{443.4, -8.4}",
+      "flipped": "{0, 0}",
+      "sheetType": "B2",
+      "texture": "sn_snowground_big.png",
+      "spriteSheet": "FrostLevel_Sheet02",
+      "type": "curved",
+      "zValue": "1",
+      "ignoreEdges": "0",
+      "p_uID": "3",
+      "mType": "4"
+    },
+    "11": {
+      "scale": "{2.54, 1.79}",
+      "freeMode": "0",
+      "customXVar": "1",
+      "position": "{431.2, 112.4}",
+      "flipped": "{0, 0}",
+      "sheetType": "particle",
+      "texture": "shineLarge.plist",
+      "customYVar": "1",
+      "spriteSheet": "particle",
+      "type": "particle",
+      "startColor": "154 157 173",
+      "zValue": "4",
+      "customVar": "{61, 43}",
+      "p_uID": "11",
+      "mType": "0"
+    },
+    "4": {
+      "p_uID": "4",
+      "position": "{120.5, 129.1}",
+      "flipped": "{0, 0}",
+      "sheetType": "B2",
+      "spriteSheet": "FrostLevel_Sheet02",
+      "zValue": "2",
+      "mType": "4",
+      "texture": "sn_crystal_purple_medium.png",
+      "type": "disabled",
+      "scale": "{1.00, 1.00}"
+    },
+    "5": {
+      "p_uID": "5",
+      "position": "{435.6, 159.6}",
+      "flipped": "{0, 0}",
+      "sheetType": "B1",
+      "spriteSheet": "FrostLevel_Sheet01",
+      "zValue": "0",
+      "mType": "4",
+      "texture": "sn_torch_pillar.png",
+      "type": "disabled",
+      "scale": "{1.00, 1.00}"
+    },
+    "12": {
+      "scale": "{2.14, 2.32}",
+      "freeMode": "0",
+      "customXVar": "1",
+      "position": "{437.7, 209.3}",
+      "flipped": "{0, 0}",
+      "sheetType": "particle",
+      "texture": "shineLarge.plist",
+      "customYVar": "1",
+      "spriteSheet": "particle",
+      "type": "particle",
+      "startColor": "154 157 173",
+      "zValue": "5",
+      "customVar": "{52, 56}",
+      "p_uID": "12",
+      "mType": "0"
+    },
+    "6": {
+      "p_uID": "6",
+      "position": "{52.6, 159.6}",
+      "flipped": "{0, 0}",
+      "sheetType": "B1",
+      "spriteSheet": "FrostLevel_Sheet01",
+      "zValue": "1",
+      "mType": "4",
+      "texture": "sn_torch_pillar.png",
+      "type": "disabled",
+      "scale": "{1.00, 1.00}"
+    },
+    "13": {
+      "p_uID": "13",
+      "position": "{512.6, 378.2}",
+      "flipped": "{0, 0}",
+      "sheetType": "F1",
+      "spriteSheet": "FrostLevel_Sheet02",
+      "zValue": "0",
+      "mType": "4",
+      "texture": "sn_mountain_ground_2.png",
+      "rotation": "-166.1",
+      "type": "disabled",
+      "scale": "{1.00, 1.00}"
+    },
+    "7": {
+      "scale": "{2.54, 1.79}",
+      "freeMode": "0",
+      "customXVar": "1",
+      "position": "{68.2, 112.4}",
+      "flipped": "{0, 0}",
+      "sheetType": "particle",
+      "texture": "shineLarge.plist",
+      "customYVar": "1",
+      "spriteSheet": "particle",
+      "type": "particle",
+      "startColor": "154 157 173",
+      "zValue": "0",
+      "customVar": "{61, 43}",
+      "p_uID": "7",
+      "mType": "0"
+    },
+    "0": {
+      "scale": "{0.69, 0.69}",
+      "position": "{431.9, 242.7}",
+      "flipped": "{0, 0}",
+      "sheetType": "B3",
+      "texture": "Fire_01.png",
+      "spriteSheet": "CommonSheet_01",
+      "type": "disabled",
+      "skipStartAnim": "1",
+      "frameOffset": "0",
+      "customAnim": "0",
+      "animated": "1",
+      "zValue": "0",
+      "skipEndAnim": "0",
+      "p_uID": "0",
+      "mType": "0"
+    },
+    "8": {
+      "scale": "{0.73, 0.37}",
+      "freeMode": "0",
+      "customXVar": "1",
+      "position": "{121.3, 128.9}",
+      "flipped": "{0, 0}",
+      "sheetType": "particle",
+      "texture": "crystal_shine.plist",
+      "customYVar": "1",
+      "spriteSheet": "particle",
+      "type": "particle",
+      "zValue": "1",
+      "customVar": "{17, 9}",
+      "p_uID": "8",
+      "mType": "0"
+    },
+    "14": {
+      "p_uID": "14",
+      "position": "{-11.5, 399.1}",
+      "flipped": "{1, 0}",
+      "sheetType": "F1",
+      "spriteSheet": "FrostLevel_Sheet02",
+      "zValue": "1",
+      "mType": "4",
+      "texture": "sn_mountain_ground_1.png",
+      "rotation": "-210.1",
+      "type": "disabled",
+      "scale": "{1.00, 1.00}"
+    },
+    "1": {
+      "scale": "{0.69, 0.69}",
+      "position": "{44.9, 242.7}",
+      "flipped": "{0, 0}",
+      "sheetType": "B3",
+      "texture": "Fire_01.png",
+      "spriteSheet": "CommonSheet_01",
+      "type": "disabled",
+      "skipStartAnim": "1",
+      "frameOffset": "0",
+      "customAnim": "0",
+      "animated": "1",
+      "zValue": "1",
+      "skipEndAnim": "0",
+      "p_uID": "1",
+      "mType": "0"
+    },
+    "9": {
+      "scale": "{5.34, 1.51}",
+      "rotation": "0.8",
+      "freeMode": "0",
+      "position": "{261.4, 114}",
+      "flipped": "{0, 0}",
+      "sheetType": "particle",
+      "texture": "shineLarge.plist",
+      "customXVar": "1",
+      "spriteSheet": "particle",
+      "type": "particle",
+      "customYVar": "1",
+      "startColor": "154 157 173",
+      "zValue": "2",
+      "customVar": "{129, 38}",
+      "p_uID": "9",
+      "mType": "0"
+    }
+  },
+  "drawingContainer": {},
+  "playerSpawn": "{226.5, 160.3}",
+  "fireflyContainer": {},
+  "levelSize": "{512, 399}",
+  "triggerContainer": {},
+  "setup": {},
+  "commandContainer": {},
+  "settings": {
+    "fadeEntry": "0",
+    "offsetBGY": "0",
+    "textGreen": "170",
+    "introLevelText": "Cave of DOOM",
+    "enableShadowMode": "0",
+    "textBlue": "255",
+    "bgMusic": "0",
+    "textRed": "66",
+    "bgImage": "cave_bg_01"
+  },
+  "sounds": "",
+  "bgContainer": {},
+  "weather": "",
+  "sheetContainer": {
+    "sheet_3": {
+      "texture": "FrostLevel_Sheet02",
+      "type": "F1"
+    },
+    "sheet_2": {
+      "texture": "FrostLevel_Sheet01",
+      "type": "B1"
+    },
+    "sheet_1": {
+      "texture": "FrostLevel_Sheet02",
+      "type": "B2"
+    },
+    "sheet_0": {
+      "texture": "CommonSheet_01",
+      "type": "B3"
+    }
+  },
+  "textContainer": {},
+  "npcContainer": {}
+}

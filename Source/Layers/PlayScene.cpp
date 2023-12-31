@@ -1,6 +1,8 @@
 #include "PlayScene.hpp"
 #include "Utils/ForlornUtils.hpp"
 #include "Utils/AnimatedSprite.hpp"
+#include "Utils/json.hpp"
+using json = nlohmann::json;
 
 USING_NS_AX;
 
