@@ -25,6 +25,8 @@ bool LoadingScene::init()
     banner->setScale(1.35);
     this->addChild(banner);
 
+    AllocConsole();
+
     loadAssets();
 
     scheduleUpdate();

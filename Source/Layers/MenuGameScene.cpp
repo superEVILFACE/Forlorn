@@ -1,6 +1,7 @@
 #include "MenuGameScene.hpp"
 #include "Utils/AnimatedSprite.hpp"
 #include "Utils/ForlornUtils.hpp"
+#include "PlayScene.hpp"
 USING_NS_AX;
 
 MenuGameScene* MenuGameScene::create() {
@@ -25,29 +26,11 @@ bool MenuGameScene::init()
     this->addChild(bg);
 
     SpriteFrameCache::getInstance()->addSpriteFramesWithFile("CommonSheet_01.plist");
-    /*auto fire1 = AnimatedSprite::createWithSpriteFrameName("Fire_01.png");
-    fire1->setPosition(Vec2(431.9, 242.7));
-    fire1->setScale(0.69f);
-    fire1->runAnimation("Fire_01_looped_%03d.png", 12.0f, true);
-    this->addChild(fire1);
-
-    auto fire2 = AnimatedSprite::createWithSpriteFrameName("Fire_01.png");
-    fire2->setPosition(Vec2(44.9, 242.7));
-    fire2->setScale(0.69f);
-    fire2->runAnimation("Fire_01_looped_%03d.png", 12.0f, true);
-    this->addChild(fire2);*/
-
     SpriteFrameCache::getInstance()->addSpriteFramesWithFile("FrostLevel_Sheet02.plist");
-    auto rock1 = Sprite::createWithSpriteFrameName("sn_mountain_ground_2.png");
-    rock1->setPosition(Vec2(1312.6, 853.2));
-    rock1->setRotation(-166.1);
-    this->addChild(rock1);
-    auto rock2 = Sprite::createWithSpriteFrameName("sn_mountain_ground_1.png");
-    rock2->setPosition(Vec2(-11.5, 874.1));
-    rock2->setRotation(-210.1);
-    rock2->setFlippedX(true);
-    this->addChild(rock2);
+    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("FrostLevel_Sheet01.plist");
 
+    auto hi = PlayScene::create("LevelCave.plist");
+    this->addChild(hi);
     scheduleUpdate();
     return true;
 }
