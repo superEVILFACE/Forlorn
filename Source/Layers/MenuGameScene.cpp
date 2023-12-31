@@ -25,10 +25,6 @@ bool MenuGameScene::init()
     bg->setScale(2.5f);
     this->addChild(bg);
 
-    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("CommonSheet_01.plist");
-    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("FrostLevel_Sheet02.plist");
-    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("FrostLevel_Sheet01.plist");
-
     auto hi = PlayScene::create("LevelCave.plist");
     this->addChild(hi);
     scheduleUpdate();

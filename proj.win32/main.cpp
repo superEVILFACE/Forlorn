@@ -25,6 +25,8 @@
 #include "main.h"
 #include "AppDelegate.hpp"
 
+#define USE_WIN32_CONSOLE
+
 USING_NS_AX;
 
 int WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCmdLine, int nCmdShow)

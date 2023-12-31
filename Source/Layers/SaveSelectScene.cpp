@@ -19,7 +19,6 @@ bool SaveSelectScene::init()
     if (!Scene::init())
         return false;
 
-    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("MenuSheet.plist");
     auto back = Sprite::createWithSpriteFrameName("back_btn.png");
     auto backBtn = MenuItemSprite::create(back, back, AX_CALLBACK_1(SaveSelectScene::onBack, this));
     backBtn->setPosition(Vec2(89, 670));
