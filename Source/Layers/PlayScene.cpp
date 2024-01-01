@@ -95,7 +95,7 @@ bool PlayScene::initWithFile(std::string_view filename) {
             sprite->setFlippedY(flipY);
             sprite->setRotation(rotation);
             this->addChild(sprite, zValue);
-            fmt::println("blockID: {}, texture: {}, spriteSheet: {}, order: {}, pos: [{}, {}], animated: {}, scale: [{}, {}], flipped: [{}, {}]", block.first, texture, spriteSheet, zValue, pos.x, pos.y, animated, scale.x, scale.y, flipX, flipY);
+            fmt::println("blockID: {}, texture: {}, animated: {}, spriteSheet: {}, order: {}, pos: [{}, {}], scale: [{}, {}], rotation: {}, flipped: [{}, {}]", block.first, texture, animated, spriteSheet, zValue, pos.x, pos.y, scale.x, scale.y, rotation, flipX, flipY);
         }
         
     }
