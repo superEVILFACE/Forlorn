@@ -86,10 +86,13 @@ file(GLOB_RECURSE GAME_SOURCE
     Source/Utils/*.cpp
     Source/Managers/*.cpp
     Source/Layers/*.cpp
+    Source/Utils/matjson/src/*.cpp
     )
 
 set(GAME_INC_DIRS
   "${CMAKE_CURRENT_SOURCE_DIR}/Source"
+  "${CMAKE_CURRENT_SOURCE_DIR}/Source/Utils"
+  "${CMAKE_CURRENT_SOURCE_DIR}/Source/Utils/matjson/include"
 )
 
 set(content_folder
