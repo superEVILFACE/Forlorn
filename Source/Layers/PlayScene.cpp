@@ -100,7 +100,7 @@ bool PlayScene::initWithFile(std::string_view filename) {
         {
             fmt::println("Failed to create sprite with texture: {}", texture);
         } else {
-            sprite->setPosition(pos);
+            sprite->setPosition(pos * 2 + 100);
             sprite->setScale(scale.x, scale.y);
             sprite->setFlippedX(flipX);
             sprite->setFlippedY(flipY);
