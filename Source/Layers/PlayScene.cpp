@@ -8,7 +8,7 @@ USING_NS_AX;
 
 PlayScene* PlayScene::create(std::string_view levelfile) {
     auto level = new PlayScene();
-    if (level->initWithFile(levelfile))
+    if (level && level->initWithFile(levelfile))
     {
         level->autorelease();
         return level;
@@ -17,10 +17,10 @@ PlayScene* PlayScene::create(std::string_view levelfile) {
 }
 
 bool PlayScene::init() {
-    if (!PlayScene::init())
+    if (!Node::init())
         return false;
 
-    scheduleUpdate();
+    //scheduleUpdate();
     return true;
 }
 

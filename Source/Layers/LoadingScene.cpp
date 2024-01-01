@@ -80,10 +80,11 @@ bool LoadingScene::init()
 
 void LoadingScene::loadAssets() {
 
-    auto* textureCache = Director::getInstance()->getTextureCache();
-    for (auto sprite : sprites) {
-        textureCache->addImageAsync(sprite, [this](ax::Texture2D*) { loadedResources++; updateLabel(); });
-    }
+    //not needed yet
+    //auto* textureCache = Director::getInstance()->getTextureCache();
+    //for (auto sprite : sprites) {
+    //    textureCache->addImageAsync(sprite, [this](ax::Texture2D*) { loadedResources++; updateLabel(); });
+    //}
 
     for(auto font : fonts) {
         ax::Label::createWithBMFont("", font);
@@ -108,7 +109,7 @@ void LoadingScene::loadingFinished() {
 
 void LoadingScene::updateLabel()
 {
-    constexpr size_t total = fonts.size() + sprites.size() + plists.size();
+    constexpr size_t total = fonts.size() + plists.size();
 
     float percentage = (static_cast<float>(loadedResources) / total) * 100;
     progressLabel->setString(fmt::format("{}%", static_cast<int>(percentage)));

@@ -31,7 +31,6 @@ bool MenuScene::init()
     logo->setPosition(Vec2(ForlornUtils::getCenter().x, 545));
     this->addChild(logo);
 
-    SpriteFrameCache::getInstance()->addSpriteFramesWithFile("MenuSheet.plist");
     auto play = Sprite::createWithSpriteFrameName("play_btn.png");
     auto playSelected = Sprite::createWithSpriteFrameName("play_btn.png");
     playSelected->setOpacity(200);

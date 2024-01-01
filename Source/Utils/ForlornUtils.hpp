@@ -14,12 +14,7 @@ namespace ForlornUtils
 		node->setPosition(ForlornUtils::getCenter());
 	}
 
-	inline ax::FontFNT* getFont(std::string_view fntfile)
-	{
-		ax::FontFNT* (*fn1)(std::string_view);
-		fn1 = ax::FontFNT::create;
-		return fn1(fntfile);
-	}
+
 	inline ax::Vec2 getVec2FromLevel(nlohmann::json data, std::string value) {
 		if (data.contains(value)) {
             std::string vec2Str = data[value];
