@@ -23,14 +23,29 @@ class AnimatedSprite : public ax::Sprite
             stopAllActions();
             ax::Vector<ax::SpriteFrame*> frames;
 
-            if(animName.find("_01.") != std::string::npos)
+            std::string loopedAnim = animName;
+            if (loopedAnim.find_last_of(".") != std::string::npos)
+                loopedAnim.insert(loopedAnim.find_last_of("."), "_looped_001");
+
+            std::string loopedAnimName = loopedAnim;
+            
+            if(animName.find("_01.") != std::string::npos) 
                 animName.replace(animName.find("_01."), 4, "_%02d.");
             else if (animName.find("_001.") != std::string::npos)
                 animName.replace(animName.find("_001."), 5, "_%03d.");
 
+            if(loopedAnimName.find("_01.") != std::string::npos) 
+                loopedAnimName.replace(loopedAnimName.find("_01."), 4, "_%02d.");
+            else if (loopedAnimName.find("_001.") != std::string::npos)
+                loopedAnimName.replace(loopedAnimName.find("_001."), 5, "_%03d.");
+
             int frameIndex = 1;
             while (true) {
-                const std::string frameName = ax::StringUtils::format(animName.c_str(), frameIndex);
+                std::string frameName;
+                if(ax::SpriteFrameCache::getInstance()->getSpriteFrameByName(loopedAnim))
+                    frameName = ax::StringUtils::format(loopedAnimName.c_str(), frameIndex);
+                else
+                    frameName = ax::StringUtils::format(animName.c_str(), frameIndex);
                 ax::SpriteFrame* frame = ax::SpriteFrameCache::getInstance()->getSpriteFrameByName(frameName);
 
                 if (frame) {
