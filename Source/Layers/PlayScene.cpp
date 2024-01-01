@@ -51,13 +51,22 @@ bool PlayScene::initWithFile(std::string_view filename) {
         //std::string posStr = JsonUtils::valueFromObject<std::string>(blockData, "position").value_or("");
         //Vec2 pos = JsonUtils::Vec2FromArray(posStr).value_or(Vec2(0, 0));
         Vec2 pos = JsonUtils::Vec2FromJsonObject(blockData, "position").value_or(Vec2(0, 0));
+
+        Vec2 flipped = JsonUtils::Vec2FromJsonObject(blockData, "flipped").value_or(Vec2(0, 0));
+        bool flipX = flipped.x == 1;
+        bool flipY = flipped.y == 1;
         
         std::string animatedStr = JsonUtils::valueFromObject<std::string>(blockData, "animated").value_or("");
         int animated = ForlornUtils::fromString<int>(animatedStr).value_or(0);
 
+        std::string texture = JsonUtils::valueFromObject<std::string>(blockData, "texture").value_or("");
+
+        std::string zStr = JsonUtils::valueFromObject<std::string>(blockData, "zValue").value_or("");
+        int zValue = ForlornUtils::fromString<int>(zStr).value_or(0);
+
         Vec2 scale = JsonUtils::Vec2FromJsonObject(blockData, "scale").value_or(Vec2(0, 0));
 
-        fmt::println("blockID: {}, pos: [{}, {}], animated: {}, scale: [{}, {}]", block.first, pos.x, pos.y, animated, scale.x, scale.y);
+        fmt::println("blockID: {}, texture: {}, order: {}, pos: [{}, {}], animated: {}, scale: [{}, {}], flipped: [{}, {}]", block.first, texture, zValue, pos.x, pos.y, animated, scale.x, scale.y, flipX, flipY);
         
     }
     return true;
