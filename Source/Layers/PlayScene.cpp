@@ -61,7 +61,7 @@ bool PlayScene::initWithFile(std::string_view filename) {
 
         std::string texture = JsonUtils::valueFromObject<std::string>(blockData, "texture").value_or("");
         bool isPNG = texture.substr(texture.size() - 4) == ".png";
-        
+
         bool spriteSheet = JsonUtils::valueFromObject<bool>(blockData, "spriteSheet").value_or("");
 
         std::string zStr = JsonUtils::valueFromObject<std::string>(blockData, "zValue").value_or("");
@@ -79,10 +79,10 @@ bool PlayScene::initWithFile(std::string_view filename) {
         }
         else if (spriteSheet) {
             if(isPNG)
-                sprite = AnimatedSprite::createWithSpriteFrameName(texture);
+                sprite = Sprite::createWithSpriteFrameName(texture);
         } else {
             if(isPNG)
-                sprite = AnimatedSprite::createWithSpriteFrameName(texture);
+                sprite = Sprite::create(texture);
         }
 
         if(!sprite) 
