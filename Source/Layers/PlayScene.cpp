@@ -42,6 +42,17 @@ bool PlayScene::initWithFile(std::string_view filename) {
 
     json::Value file = json::parse(levelData);
 
+    const json::Object& settingsData = file["settings"].as_object();
+    std::string bgImage = JsonUtils::valueFromObject<std::string>(settingsData, "bgImage").value_or("") + ".png";
+    Sprite* bg = Sprite::create(bgImage);
+    if(bg == nullptr) {
+        fmt::println("Failted to create BG with texture: {}", bgImage);
+    } else {
+        bg->setPosition(Vec2(ForlornUtils::getCenter().x, 545));
+        bg->setScale(2.5f);
+        this->addChild(bg);
+    }
+
     for (const auto& block : file["blockContainer"].as_object()) {
         const json::Object& blockData = block.second.as_object();
 

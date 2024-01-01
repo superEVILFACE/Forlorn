@@ -20,13 +20,8 @@ bool MenuGameScene::init()
     if (!Scene::init())
         return false;
 
-    auto bg = Sprite::create("cave_bg_01.png");
-    bg->setPosition(Vec2(ForlornUtils::getCenter().x, 545));
-    bg->setScale(2.5f);
-    this->addChild(bg);
-
-    auto hi = PlayScene::create("LevelCave.json");
-    this->addChild(hi);
+    auto titleBG = PlayScene::create("LevelCave.json");
+    this->addChild(titleBG);
     scheduleUpdate();
     return true;
 }
