@@ -60,13 +60,43 @@ bool PlayScene::initWithFile(std::string_view filename) {
         int animated = ForlornUtils::fromString<int>(animatedStr).value_or(0);
 
         std::string texture = JsonUtils::valueFromObject<std::string>(blockData, "texture").value_or("");
+        bool isPNG = texture.substr(texture.size() - 4) == ".png";
+        
+        bool spriteSheet = JsonUtils::valueFromObject<bool>(blockData, "spriteSheet").value_or("");
 
         std::string zStr = JsonUtils::valueFromObject<std::string>(blockData, "zValue").value_or("");
         int zValue = ForlornUtils::fromString<int>(zStr).value_or(0);
 
         Vec2 scale = JsonUtils::Vec2FromJsonObject(blockData, "scale").value_or(Vec2(0, 0));
 
-        fmt::println("blockID: {}, texture: {}, order: {}, pos: [{}, {}], animated: {}, scale: [{}, {}], flipped: [{}, {}]", block.first, texture, zValue, pos.x, pos.y, animated, scale.x, scale.y, flipX, flipY);
+        std::string rotationStr = JsonUtils::valueFromObject<std::string>(blockData, "rotation").value_or("");
+        float rotation = ForlornUtils::fromString<float>(rotationStr).value_or(0);
+
+        Sprite* sprite = nullptr;
+        if(animated == 1) {
+            if(isPNG)
+                sprite = AnimatedSprite::createWithSpriteFrameName(texture);
+        }
+        else if (spriteSheet) {
+            if(isPNG)
+                sprite = AnimatedSprite::createWithSpriteFrameName(texture);
+        } else {
+            if(isPNG)
+                sprite = AnimatedSprite::createWithSpriteFrameName(texture);
+        }
+
+        if(!sprite) 
+        {
+            fmt::println("Failed to create sprite with texture: {}", texture);
+        } else {
+            sprite->setPosition(pos);
+            sprite->setScale(scale.x, scale.y);
+            sprite->setFlippedX(flipX);
+            sprite->setFlippedY(flipY);
+            sprite->setRotation(rotation);
+            this->addChild(sprite, zValue);
+            fmt::println("blockID: {}, texture: {}, spriteSheet: {}, order: {}, pos: [{}, {}], animated: {}, scale: [{}, {}], flipped: [{}, {}]", block.first, texture, spriteSheet, zValue, pos.x, pos.y, animated, scale.x, scale.y, flipX, flipY);
+        }
         
     }
     return true;
