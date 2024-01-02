@@ -27,22 +27,24 @@ bool MenuScene::init()
     auto gameScene = MenuGameScene::create();
     this->addChild(gameScene);
 
-    auto logo = Sprite::create("forlorn_logo_menu.png");
-    logo->setPosition(Vec2(ForlornUtils::getCenter().x, 545));
-    this->addChild(logo);
-
-    auto play = Sprite::createWithSpriteFrameName("play_btn.png");
-    auto playSelected = Sprite::createWithSpriteFrameName("play_btn.png");
-    playSelected->setOpacity(200);
-    auto playBtn = MenuItemSprite::create(play, playSelected, AX_CALLBACK_1(MenuScene::onPlay, this));
-    playBtn->setPosition(Vec2(ForlornUtils::getCenter().x, 200));
-
-    auto menu = Menu::create();
-    menu->setPosition(Vec2::ZERO);
-    menu->addChild(playBtn);
-    this->addChild(menu);
-    scheduleUpdate();
     return true;
+
+    //auto logo = Sprite::create("forlorn_logo_menu.png");
+    //logo->setPosition(Vec2(ForlornUtils::getCenter().x, 545));
+    //this->addChild(logo);
+    //
+    //auto play = Sprite::createWithSpriteFrameName("play_btn.png");
+    //auto playSelected = Sprite::createWithSpriteFrameName("play_btn.png");
+    //playSelected->setOpacity(200);
+    //auto playBtn = MenuItemSprite::create(play, playSelected, AX_CALLBACK_1(MenuScene::onPlay, this));
+    //playBtn->setPosition(Vec2(ForlornUtils::getCenter().x, 200));
+    //
+    //auto menu = Menu::create();
+    //menu->setPosition(Vec2::ZERO);
+    //menu->addChild(playBtn);
+    //this->addChild(menu);
+    //scheduleUpdate();
+    //return true;
 }
 
 void MenuScene::onPlay(Ref* sender) {

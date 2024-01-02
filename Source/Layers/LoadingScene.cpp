@@ -1,7 +1,9 @@
 #include "LoadingScene.hpp"
-#include "MenuScene.hpp"
+#include "PlayScene.hpp"
 #include "Utils/ForlornUtils.hpp"
 #include <fmt/format.h>
+#include "extensions/Inspector/Inspector.h"
+#include <array>
 
 
 constexpr static auto sprites = std::to_array<const char*>({
@@ -31,7 +33,7 @@ constexpr static auto sprites = std::to_array<const char*>({
 
 
 constexpr static auto plists = std::to_array<const char*>({
-    "CommonSheet_01.plist", "FrostLevel_Sheet02.plist", "FrostLevel_Sheet01.plist", "LevelCave.plist",
+    "CommonSheet_01.plist", "FrostLevel_Sheet02.plist", "FrostLevel_Sheet01.plist",
     "MenuSheet.plist"
     });
 
@@ -101,10 +103,11 @@ void LoadingScene::loadAssets() {
 }
 
 void LoadingScene::loadingFinished() {
-    auto layer = MenuScene::create();
+    auto layer = PlayScene::create("Level001.json");
     auto scene = Scene::create();
     scene->addChild(layer);
     Director::getInstance()->replaceScene(scene);
+    extension::Inspector::getInstance()->openForScene(scene);
 }
 
 void LoadingScene::updateLabel()
