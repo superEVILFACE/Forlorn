@@ -99,7 +99,7 @@
     },
     "4": {
       "p_uID": "4",
-      "position": "{145.5, 129.1}",
+      "position": "{120.5, 129.1}",
       "flipped": "{0, 0}",
       "sheetType": "B2",
       "spriteSheet": "FrostLevel_Sheet02",
@@ -111,7 +111,7 @@
     },
     "5": {
       "p_uID": "5",
-      "position": "{460.6, 159.6}",
+      "position": "{435.6, 159.6}",
       "flipped": "{0, 0}",
       "sheetType": "B1",
       "spriteSheet": "FrostLevel_Sheet01",
@@ -140,7 +140,7 @@
     },
     "6": {
       "p_uID": "6",
-      "position": "{73.6, 159.6}",
+      "position": "{52.6, 159.6}",
       "flipped": "{0, 0}",
       "sheetType": "B1",
       "spriteSheet": "FrostLevel_Sheet01",
@@ -152,7 +152,7 @@
     },
     "13": {
       "p_uID": "13",
-      "position": "{537.6, 378.2}",
+      "position": "{512.6, 378.2}",
       "flipped": "{0, 0}",
       "sheetType": "F1",
       "spriteSheet": "FrostLevel_Sheet02",
@@ -182,7 +182,7 @@
     },
     "0": {
       "scale": "{0.69, 0.69}",
-      "position": "{456.9, 247.7}",
+      "position": "{431.9, 242.7}",
       "flipped": "{0, 0}",
       "sheetType": "B3",
       "texture": "Fire_01.png",
@@ -228,7 +228,7 @@
     },
     "1": {
       "scale": "{0.69, 0.69}",
-      "position": "{70.9, 247.7}",
+      "position": "{44.9, 242.7}",
       "flipped": "{0, 0}",
       "sheetType": "B3",
       "texture": "Fire_01.png",
