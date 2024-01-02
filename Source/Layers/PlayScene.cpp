@@ -100,12 +100,12 @@ bool PlayScene::initWithFile(std::string_view filename) {
         {
             fmt::println("Failed to create sprite with texture: {}", texture);
         } else {
-            sprite->setPosition((pos * 2) + Vec2(128, 72));
+            sprite->setPosition((pos * 2) + Vec2(125, 72));
             sprite->setScale(scale.x, scale.y);
             sprite->setFlippedX(flipX);
             sprite->setFlippedY(flipY);
             sprite->setRotation(rotation);
-            this->addChild(sprite, zValue);
+            this->addChild(sprite);
             fmt::println("blockID: {}, texture: {}, animated: {}, spriteSheet: {}, order: {}, pos: [{}, {}], scale: [{}, {}], rotation: {}, flipped: [{}, {}]", block.first, texture, animated, spriteSheet, zValue, pos.x, pos.y, scale.x, scale.y, rotation, flipX, flipY);
         }
         
