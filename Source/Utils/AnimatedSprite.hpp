@@ -9,12 +9,11 @@ class AnimatedSprite : public ax::Sprite
     private:
         ax::Action* currentAnimation;
     public:
-        static AnimatedSprite* createWithSpriteFrameName(const std::string& filename, float fps = 12.0f, bool loop = true) {
+        static AnimatedSprite* createWithSpriteFrameName(const std::string& filename) {
             AnimatedSprite* sprite = new AnimatedSprite();
             
             if (sprite && sprite->initWithSpriteFrameName(filename)) {
                 sprite->autorelease();
-                sprite->runAnimation(filename, fps, loop);
                 return sprite;
             } else {
                 delete sprite;

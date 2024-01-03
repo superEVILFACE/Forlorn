@@ -26,10 +26,14 @@ bool Block::init(const json::Object& obj)
             return false;
     }
 
+    _animated = JsonUtils::fromObject<bool>(obj, "animated").value_or(false);
+    _isLight = JsonUtils::fromObject<bool>(obj, "isLight").value_or(false);
 
     if (auto spriteSheet = JsonUtils::fromObject<std::string>(obj, "spriteSheet"))
     {
         auto texture = JsonUtils::fromObject<std::string>(obj, "texture");
+        if(_animated && !_isLight)
+            runAnimation(texture.value(), 12.0f, true); //keep loop true for now
         if (!texture || !initWithSpriteFrameName(texture.value())) {
             return false;
         }
@@ -43,9 +47,6 @@ bool Block::init(const json::Object& obj)
         return false;
     }
 
-
-    _animated = JsonUtils::fromObject<bool>(obj, "animated").value_or(false);
-    _isLight = JsonUtils::fromObject<bool>(obj, "isLight").value_or(false);
     _p_uID = JsonUtils::fromObject<int>(obj, "p_uID").value_or(0);
     
     if (auto flipped = JsonUtils::fromObject<Vec2>(obj, "flipped"))
@@ -69,7 +70,7 @@ bool Block::init(const json::Object& obj)
 
     if (auto scale = JsonUtils::fromObject<Vec2>(obj, "scale"))
     {
-        if (_isLight || _animated) {
+        if (_isLight) {
             setScale(scale.value());
         }
         else {
@@ -77,8 +78,7 @@ bool Block::init(const json::Object& obj)
         }
     }
 
-    if (_isLight && _animated)
-    {
+    if (_isLight && _animated) {
         auto fade1 = FadeTo::create(RandomHelper::random_real(1.0f, 2.0f), getOpacity() / 4);
         auto fade2 = FadeTo::create(RandomHelper::random_real(1.0f, 2.0f), getOpacity());
         this->runAction(RepeatForever::create(Sequence::create(fade1, fade2, nullptr)));

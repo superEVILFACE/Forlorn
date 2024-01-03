@@ -3,6 +3,7 @@
 
 #include "axmol.h"
 #include <json.hpp>
+#include "../Utils/AnimatedSprite.hpp"
 
 
 enum BlockType : int
@@ -51,7 +52,7 @@ enum BlockType : int
 //group class members by TYPE 
 //always add a default value for built in types
 
-struct Block : public ax::Sprite
+struct Block : public AnimatedSprite
 {
     static Block* create(const json::Object& obj);
 
