@@ -111,6 +111,9 @@ bool PlayScene::initWithFile(std::string_view filename) {
         std::string zStr = JsonUtils::valueFromObject<std::string>(blockData, "zValue").value_or("");
         int zValue = ForlornUtils::fromString<int>(zStr).value_or(0);
 
+        std::string p_uIDStr = JsonUtils::valueFromObject<std::string>(blockData, "p_uID").value_or("");
+        int p_uID = ForlornUtils::fromString<int>(p_uIDStr).value_or(0);
+
         Vec2 scale = JsonUtils::Vec2FromJsonObject(blockData, "scale").value_or(Vec2(0, 0));
 
         std::string rotationStr = JsonUtils::valueFromObject<std::string>(blockData, "rotation").value_or("");
@@ -138,7 +141,7 @@ bool PlayScene::initWithFile(std::string_view filename) {
             sprite->setFlippedX(flipX);
             sprite->setFlippedY(flipY);
             sprite->setRotation(rotation);
-            this->addChild(sprite);
+            this->addChild(sprite, p_uID);
             //fmt::println("blockID: {}, texture: {}, animated: {}, spriteSheet: {}, order: {}, pos: [{}, {}], scale: [{}, {}], rotation: {}, flipped: [{}, {}]", block.first, texture, animated, spriteSheet, zValue, pos.x, pos.y, scale.x, scale.y, rotation, flipX, flipY);
         }
         
