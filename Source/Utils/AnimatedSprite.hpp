@@ -6,6 +6,8 @@
  
 class AnimatedSprite : public ax::Sprite
 { 
+    private:
+        ax::Action* currentAnimation;
     public:
         static AnimatedSprite* createWithSpriteFrameName(const std::string& filename, float fps = 12.0f, bool loop = true) {
             AnimatedSprite* sprite = new AnimatedSprite();
@@ -20,7 +22,7 @@ class AnimatedSprite : public ax::Sprite
             }
         }
         void runAnimation(std::string animName, float fps, bool loop) {
-            stopAllActions();
+            stopAction(currentAnimation);
             ax::Vector<ax::SpriteFrame*> frames;
 
             std::string loopedAnim = animName;
@@ -50,9 +52,10 @@ class AnimatedSprite : public ax::Sprite
             ax::Animation* animation = ax::Animation::createWithSpriteFrames(frames, 1.0f / fps);
             ax::Animate* animate = ax::Animate::create(animation);
             if (loop)
-                runAction(ax::RepeatForever::create(animate));
+                currentAnimation = ax::RepeatForever::create(animate);
             else
-                runAction(animate);
+                currentAnimation = animate;
+            runAction(currentAnimation);
         };
 };
 #endif

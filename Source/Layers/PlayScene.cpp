@@ -103,6 +103,9 @@ bool PlayScene::initWithFile(std::string_view filename) {
         std::string animatedStr = JsonUtils::valueFromObject<std::string>(blockData, "animated").value_or("");
         int animated = ForlornUtils::fromString<int>(animatedStr).value_or(0);
 
+        std::string isLightStr = JsonUtils::valueFromObject<std::string>(blockData, "isLight").value_or("");
+        int isLight = ForlornUtils::fromString<int>(isLightStr).value_or(0);
+
         std::string texture = JsonUtils::valueFromObject<std::string>(blockData, "texture").value_or("");
         bool isPNG = texture.substr(texture.size() - 4) == ".png";
 
@@ -118,6 +121,22 @@ bool PlayScene::initWithFile(std::string_view filename) {
 
         std::string rotationStr = JsonUtils::valueFromObject<std::string>(blockData, "rotation").value_or("");
         float rotation = ForlornUtils::fromString<float>(rotationStr).value_or(0);
+
+        std::string opacityStr = JsonUtils::valueFromObject<std::string>(blockData, "opacity").value_or("");
+        float opacityValue = ForlornUtils::fromString<float>(opacityStr).value_or(255);
+        float opacity = opacityValue != 255 ? opacityValue * 255 : opacityValue;
+
+        std::string redStr = JsonUtils::valueFromObject<std::string>(blockData, "red").value_or("");
+        float redValue = ForlornUtils::fromString<float>(redStr).value_or(255);
+        float red = redValue != 255 ? redValue * 255 : redValue;
+
+        std::string greenStr = JsonUtils::valueFromObject<std::string>(blockData, "green").value_or("");
+        float greenValue = ForlornUtils::fromString<float>(greenStr).value_or(255);
+        float green = greenValue != 255 ? greenValue * 255 : greenValue;
+
+        std::string blueStr = JsonUtils::valueFromObject<std::string>(blockData, "blue").value_or("");
+        float blueValue = ForlornUtils::fromString<float>(blueStr).value_or(255);
+        float blue = blueValue != 255 ? blueValue * 255 : blueValue;
 
         Sprite* sprite = nullptr;
         if(animated == 1) {
@@ -137,10 +156,24 @@ bool PlayScene::initWithFile(std::string_view filename) {
             fmt::println("Failed to create sprite with texture: {}", texture);
         } else {
             sprite->setPosition(pos);
-            sprite->setScale(scale.x * 0.5f, scale.y * 0.5f);
             sprite->setFlippedX(flipX);
             sprite->setFlippedY(flipY);
             sprite->setRotation(rotation);
+            sprite->setColor(Color3B(red, green, blue));
+            if(isLight == 1 && animated == 1)
+            {
+                sprite->setScale(scale.x, scale.y);
+                auto fade1 = FadeTo::create(RandomHelper::random_real(1.0f, 2.0f), opacity / 4);
+                auto fade2 = FadeTo::create(RandomHelper::random_real(1.0f, 2.0f), opacity);
+                sprite->runAction(RepeatForever::create(Sequence::create(fade1, fade2, nullptr)));
+            } else if (isLight == 1)
+            {
+                sprite->setScale(scale.x, scale.y);
+                sprite->setOpacity(opacity);
+            } else {
+                sprite->setScale(scale.x * 0.5f, scale.y * 0.5f);
+                sprite->setOpacity(opacity);
+            }
             this->addChild(sprite, p_uID);
             //fmt::println("blockID: {}, texture: {}, animated: {}, spriteSheet: {}, order: {}, pos: [{}, {}], scale: [{}, {}], rotation: {}, flipped: [{}, {}]", block.first, texture, animated, spriteSheet, zValue, pos.x, pos.y, scale.x, scale.y, rotation, flipX, flipY);
         }
