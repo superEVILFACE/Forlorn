@@ -2,11 +2,11 @@
 #define _ANIMATEDSPRITE_H
 
 #include <axmol.h>
+#include "ForlornUtils.hpp"
  
 class AnimatedSprite : public ax::Sprite
 { 
     public:
-
         static AnimatedSprite* createWithSpriteFrameName(const std::string& filename, float fps = 12.0f, bool loop = true) {
             AnimatedSprite* sprite = new AnimatedSprite();
             
@@ -29,23 +29,14 @@ class AnimatedSprite : public ax::Sprite
 
             std::string loopedAnimName = loopedAnim;
             
-            if(animName.find("_01.") != std::string::npos) 
-                animName.replace(animName.find("_01."), 4, "_%02d.");
-            else if (animName.find("_001.") != std::string::npos)
-                animName.replace(animName.find("_001."), 5, "_%03d.");
-
-            if(loopedAnimName.find("_01.") != std::string::npos) 
-                loopedAnimName.replace(loopedAnimName.find("_01."), 4, "_%02d.");
-            else if (loopedAnimName.find("_001.") != std::string::npos)
-                loopedAnimName.replace(loopedAnimName.find("_001."), 5, "_%03d.");
+            ForlornUtils::replaceString(animName, "_01.", "_%02d.");
+            ForlornUtils::replaceString(animName, "_001.", "_%03d.");
+            ForlornUtils::replaceString(loopedAnimName, "_01.", "_%02d.");
+            ForlornUtils::replaceString(loopedAnimName, "_001.", "_%03d.");
 
             int frameIndex = 1;
             while (true) {
-                std::string frameName;
-                if(ax::SpriteFrameCache::getInstance()->getSpriteFrameByName(loopedAnim))
-                    frameName = ax::StringUtils::format(loopedAnimName.c_str(), frameIndex);
-                else
-                    frameName = ax::StringUtils::format(animName.c_str(), frameIndex);
+                std::string frameName = ax::StringUtils::format((loopedAnim.find("_looped_001.") != std::string::npos) ? loopedAnimName.c_str() : animName.c_str(), frameIndex);
                 ax::SpriteFrame* frame = ax::SpriteFrameCache::getInstance()->getSpriteFrameByName(frameName);
 
                 if (frame) {
@@ -58,12 +49,10 @@ class AnimatedSprite : public ax::Sprite
 
             ax::Animation* animation = ax::Animation::createWithSpriteFrames(frames, 1.0f / fps);
             ax::Animate* animate = ax::Animate::create(animation);
-            if (loop) {
+            if (loop)
                 runAction(ax::RepeatForever::create(animate));
-            } else {
+            else
                 runAction(animate);
-            }
         };
 };
-
 #endif

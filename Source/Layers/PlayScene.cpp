@@ -103,8 +103,6 @@ bool PlayScene::initWithFile(std::string_view filename) {
         std::string animatedStr = JsonUtils::valueFromObject<std::string>(blockData, "animated").value_or("");
         int animated = ForlornUtils::fromString<int>(animatedStr).value_or(0);
 
-        if (animated == 1) continue;
-
         std::string texture = JsonUtils::valueFromObject<std::string>(blockData, "texture").value_or("");
         bool isPNG = texture.substr(texture.size() - 4) == ".png";
 

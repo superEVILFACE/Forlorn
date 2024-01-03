@@ -1,3 +1,5 @@
+#ifndef _FORLORNUTILS_H_
+#define _FORLORNUTILS_H_
 
 #include <axmol.h>
 #include <optional>
@@ -13,6 +15,13 @@ namespace ForlornUtils
 		node->setPosition(ForlornUtils::getCenter());
 	}
 
+	inline void replaceString(std::string& str, const std::string& pattern, const std::string& replacement) {
+		size_t pos = str.find(pattern);
+		if (pos != std::string::npos) {
+			str.replace(pos, pattern.length(), replacement);
+		}
+	}
+
 	template<typename T>
 	std::optional<T> fromString(std::string_view str) {
 		T value;
@@ -22,3 +31,4 @@ namespace ForlornUtils
 		return {};
 	}
 }
+#endif
