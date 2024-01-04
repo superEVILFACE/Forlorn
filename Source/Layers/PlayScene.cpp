@@ -6,7 +6,6 @@
 #include <json.hpp>
 #include "Nodes/Block.hpp"
 
-
 USING_NS_AX;
 
 PlayScene* PlayScene::create(std::string_view levelfile) {
@@ -27,6 +26,7 @@ bool PlayScene::init() {
     return true;
 }
 
+ParallaxNode* parallax;
 void PlayScene::update(float dt)
 {
     auto cam = Camera::getDefaultCamera();
@@ -37,6 +37,9 @@ void PlayScene::update(float dt)
     if (leftPressed) cam->setPositionX(cam->getPositionX() - moveSpeed);
     if (rightPressed) cam->setPositionX(cam->getPositionX() + moveSpeed);
 
+    if(parallax) {
+        parallax->setPositionX(-465 + (-cam->getPosition().x * -0.25));
+    }
 }
 
 bool PlayScene::initWithFile(std::string_view filename) {
@@ -85,6 +88,7 @@ void PlayScene::readPlist(const json::Value& level)
     }
 
     fmt::println("loading finished");
+    createParallax(level["bgContainer"].as_object());
     loadBlocks(level["blockContainer"].as_object());
 
     if (auto playerSpawn = JsonUtils::Vec2FromArrayString(level["playerSpawn"].as_string()))
@@ -111,13 +115,25 @@ void PlayScene::loadBlocks(const json::Object& blockContainer)
 {
     for (const auto& obj : blockContainer)
     {
-        if(auto block = Block::create(obj.second.as_object()))
+        if(auto block = Block::create(obj.second.as_object(), false))
             addChild(block, block->_p_uID);
     }
 }
 
 void PlayScene::createBackground()
 {
+}
+
+void PlayScene::createParallax(const json::Object& bgContainer)
+{
+    parallax = ParallaxNode::create();
+    addChild(parallax);
+
+    for (const auto& obj : bgContainer)
+    {
+        if(auto block = Block::create(obj.second.as_object(), true))
+            parallax->addChild(block, block->_p_uID, Vec2(1, 1), block->getPosition());
+    }
 }
 
 void PlayScene::onKeyPressed(ax::EventKeyboard::KeyCode code, ax::Event* event) {

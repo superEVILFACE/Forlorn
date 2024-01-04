@@ -6,10 +6,10 @@
 
 USING_NS_AX;
 
-Block* Block::create(const json::Object& obj)
+Block* Block::create(const json::Object& obj, bool isBG)
 {
     auto ret = new Block();
-    if (ret && ret->init(obj))
+    if (ret && ret->init(obj, isBG))
     {
         ret->autorelease();
         return ret;
@@ -18,7 +18,7 @@ Block* Block::create(const json::Object& obj)
     return nullptr;
 }
 
-bool Block::init(const json::Object& obj)
+bool Block::init(const json::Object& obj, bool isBG)
 {
     if (auto type = JsonUtils::fromObject<std::string>(obj, "type"))
     {
@@ -32,13 +32,13 @@ bool Block::init(const json::Object& obj)
     if (auto spriteSheet = JsonUtils::fromObject<std::string>(obj, "spriteSheet"))
     {
         auto texture = JsonUtils::fromObject<std::string>(obj, "texture");
-        if(_animated && !_isLight)
+        if(_animated && !_isLight) {
             runAnimation(texture.value(), 12.0f, true); //keep loop true for now
+        }
         if (!texture || !initWithSpriteFrameName(texture.value())) {
             return false;
         }
     }
-
 
     if (auto position = JsonUtils::fromObject<Vec2>(obj, "position")) {
         setPosition(position.value());
@@ -70,15 +70,22 @@ bool Block::init(const json::Object& obj)
 
     if (auto scale = JsonUtils::fromObject<Vec2>(obj, "scale"))
     {
-        if (_isLight) {
+        if(isBG) {
             setScale(scale.value());
-        }
-        else {
-            setScale(scale.value() * 0.5f);
+        } 
+        else
+        {
+            if (_isLight) {
+                setScale(scale.value());
+            }
+            else {
+                setScale(scale.value() * 0.5f);
+            }
         }
     }
 
-    if (_isLight && _animated) {
+    if (_isLight && _animated) 
+    {
         auto fade1 = FadeTo::create(RandomHelper::random_real(1.0f, 2.0f), getOpacity() / 4);
         auto fade2 = FadeTo::create(RandomHelper::random_real(1.0f, 2.0f), getOpacity());
         this->runAction(RepeatForever::create(Sequence::create(fade1, fade2, nullptr)));

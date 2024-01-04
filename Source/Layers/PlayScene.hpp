@@ -31,6 +31,7 @@ public:
     void createUI(); //TODO
     void loadBlocks(const json::Object& blockContainer);
     void createBackground(); //TODO
+    void createParallax(const json::Object& bgContainer); //TODO
 
 
 
