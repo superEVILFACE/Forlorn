@@ -15,6 +15,9 @@ public:
     ax::Vec2 spawnPos = { 0,0 };
     ax::Label* tempStatusLabel = nullptr;
 
+    ax::ParallaxNode* parallax;
+    ax::Sprite* bg;
+
     static PlayScene* create(std::string_view levelFileName);
 
     bool init() override;
@@ -30,7 +33,7 @@ public:
     void createPlayer(); //TODO
     void createUI(); //TODO
     void loadBlocks(const json::Object& blockContainer);
-    void createBackground(); //TODO
+    void createBackground(const json::Object& bgSettings); //TODO
     void createParallax(const json::Object& bgContainer); //TODO
 
 

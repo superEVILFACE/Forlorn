@@ -26,7 +26,6 @@ bool PlayScene::init() {
     return true;
 }
 
-ParallaxNode* parallax;
 void PlayScene::update(float dt)
 {
     auto cam = Camera::getDefaultCamera();
@@ -38,7 +37,11 @@ void PlayScene::update(float dt)
     if (rightPressed) cam->setPositionX(cam->getPositionX() + moveSpeed);
 
     if(parallax) {
-        parallax->setPositionX(-465 + (-cam->getPosition().x * -0.25));
+        parallax->setPosition(Vec2(-465 + (-cam->getPosition().x * -0.25), -430 + (-cam->getPosition().y * -0.25)));
+    }
+    if(bg)
+    {
+        bg->setPosition(Vec2(-465 + (-cam->getPosition().x * -0.75), 430 + (-cam->getPosition().y * -0.75)));
     }
 }
 
@@ -88,6 +91,7 @@ void PlayScene::readPlist(const json::Value& level)
     }
 
     fmt::println("loading finished");
+    createBackground(level["settings"].as_object());
     createParallax(level["bgContainer"].as_object());
     loadBlocks(level["blockContainer"].as_object());
 
@@ -120,8 +124,14 @@ void PlayScene::loadBlocks(const json::Object& blockContainer)
     }
 }
 
-void PlayScene::createBackground()
+void PlayScene::createBackground(const json::Object& bgSettings)
 {
+    bg = Sprite::create(JsonUtils::fromObject<std::string>(bgSettings, "bgImage").value()+".png");
+    if(bg)
+    {
+        ForlornUtils::setCenter(bg);
+        addChild(bg);
+    }
 }
 
 void PlayScene::createParallax(const json::Object& bgContainer)
