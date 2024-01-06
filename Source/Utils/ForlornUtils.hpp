@@ -27,6 +27,14 @@ namespace ForlornUtils
 		}
 	}
 
+	inline std::string_view substrOffset(std::string_view str, size_t start, size_t end) {
+		return str.substr(start, end - start + 1);
+	}
+
+	inline std::string substrOffset(const std::string& str, size_t start, size_t end) {
+		return str.substr(start, end - start + 1);
+	}
+
 	template<typename T>
 	std::optional<T> fromString(std::string_view str)
 	{

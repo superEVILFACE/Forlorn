@@ -5,6 +5,8 @@
 #include <fmt/format.h>
 #include <json.hpp>
 #include "Nodes/Block.hpp"
+#include <ImGuiPresenter.h>
+
 
 USING_NS_AX;
 
@@ -36,14 +38,16 @@ void PlayScene::update(float dt)
     if (leftPressed) cam->setPositionX(cam->getPositionX() - moveSpeed);
     if (rightPressed) cam->setPositionX(cam->getPositionX() + moveSpeed);
 
-    if(parallax) {
-        parallax->setPosition(Vec2(-465 + (-cam->getPosition().x * -0.25), -430 + (-cam->getPosition().y * -0.25)));
+    if (_parallax) {
+        _parallax->setPosition(Vec2(-465 + (-cam->getPosition().x * -0.25), -430 + (-cam->getPosition().y * -0.25)));
     }
-    if(bg)
+    if (_bg)
     {
-        bg->setPosition(Vec2(-465 + (-cam->getPosition().x * -0.75), 430 + (-cam->getPosition().y * -0.75)));
+        _bg->setPosition(Vec2(-465 + (-cam->getPosition().x * -0.75), 430 + (-cam->getPosition().y * -0.75)));
     }
 }
+
+
 
 bool PlayScene::initWithFile(std::string_view filename) {
 
@@ -51,25 +55,29 @@ bool PlayScene::initWithFile(std::string_view filename) {
     ForlornUtils::setCenter(tempStatusLabel);
     addChild(tempStatusLabel);
 
-    auto keyboardListener = EventListenerKeyboard::create();
-    keyboardListener->onKeyPressed = AX_CALLBACK_2(PlayScene::onKeyPressed, this);
-    keyboardListener->onKeyReleased = AX_CALLBACK_2(PlayScene::onKeyReleased, this);
-    _eventDispatcher->addEventListenerWithFixedPriority(keyboardListener, 11);
 
-    scheduleOnce([this, filename](float) {
+
+    scheduleOnce([this, filename](float)
+    {
         this->initialLoading(filename);
         tempStatusLabel->setVisible(false);
+        extension::ImGuiPresenter::getInstance()->addRenderLoop("__PLAYSCENE__", AX_CALLBACK_0(PlayScene::drawImgui, this), Director::getInstance()->getRunningScene());
+
+        auto keyboardListener = EventListenerKeyboard::create();
+        keyboardListener->onKeyPressed = AX_CALLBACK_2(PlayScene::onKeyPressed, this);
+        keyboardListener->onKeyReleased = AX_CALLBACK_2(PlayScene::onKeyReleased, this);
+        _eventDispatcher->addEventListenerWithFixedPriority(keyboardListener, 11);
+
     }, 0.0f, "playlayer_load");
 
     scheduleUpdate();
+
     return true;
 }
 
 void PlayScene::initialLoading(std::string_view levelFileName)
 {
     std::string levelData = FileUtils::getInstance()->getStringFromFile(levelFileName);
-
-
     try
     {
         readPlist(json::parse(levelData));
@@ -83,6 +91,13 @@ void PlayScene::initialLoading(std::string_view levelFileName)
 
 void PlayScene::readPlist(const json::Value& level)
 {
+    if (auto playerSpawn = JsonUtils::Vec2FromArrayString(level["playerSpawn"].as_string()))
+    {
+        auto cam = Camera::getDefaultCamera();
+        cam->setPosition(playerSpawn.value());
+        cam->setZoom(cam->getZoom() * 0.5f);
+    }
+
     fmt::println("loading spritesheets");
     for (const auto& sheet : level["sheetContainer"].as_object())
     {
@@ -94,12 +109,35 @@ void PlayScene::readPlist(const json::Value& level)
     createBackground(level["settings"].as_object());
     createParallax(level["bgContainer"].as_object());
     loadBlocks(level["blockContainer"].as_object());
+}
 
-    if (auto playerSpawn = JsonUtils::Vec2FromArrayString(level["playerSpawn"].as_string()))
+void PlayScene::drawImgui()
+{
+    static bool showLabels = true;
+    ImGui::Begin("PlayScene Debug");
+    if (ImGui::Checkbox("Block ID Labels", &showLabels))
     {
-        auto cam = Camera::getDefaultCamera();
-        cam->setPosition(playerSpawn.value());
-        cam->setZoom(cam->getZoom() * 0.5f);
+        setBlockLabelsVisible(showLabels);
+    }
+
+    static bool showParallax = true;
+    if (ImGui::Checkbox("Show parallax node", &showParallax))
+    {
+        if (_parallax) _parallax->setVisible(showParallax);
+    }
+
+    ImGui::End();
+
+}
+
+void PlayScene::setBlockLabelsVisible(bool on)
+{
+    for (const auto& node : getChildren())
+    {
+        if (dynamic_cast<ax::Label*>(node))
+        {
+            node->setVisible(on);
+        }
     }
 }
 
@@ -119,30 +157,37 @@ void PlayScene::loadBlocks(const json::Object& blockContainer)
 {
     for (const auto& obj : blockContainer)
     {
-        if(auto block = Block::create(obj.second.as_object(), false))
+
+        if (auto block = Block::create(obj.second.as_object(), false))
+        {
+            auto label = Label::createWithBMFont("bigFont.fnt", obj.first);
+            label->setPosition(block->getPosition());
+            label->setScale(.2f);
+            addChild(label, 9999);
             addChild(block, block->_p_uID);
+        }
     }
 }
 
 void PlayScene::createBackground(const json::Object& bgSettings)
 {
-    bg = Sprite::create(JsonUtils::fromObject<std::string>(bgSettings, "bgImage").value()+".png");
-    if(bg)
+    _bg = Sprite::create(JsonUtils::fromObject<std::string>(bgSettings, "bgImage").value()+".png");
+    if(_bg)
     {
-        ForlornUtils::setCenter(bg);
-        addChild(bg);
+        _bg->setPosition(Camera::getDefaultCamera()->getPosition());
+        addChild(_bg);
     }
 }
 
 void PlayScene::createParallax(const json::Object& bgContainer)
 {
-    parallax = ParallaxNode::create();
-    addChild(parallax);
+    _parallax = ParallaxNode::create();
+    addChild(_parallax);
 
     for (const auto& obj : bgContainer)
     {
         if(auto block = Block::create(obj.second.as_object(), true))
-            parallax->addChild(block, block->_p_uID, Vec2(1, 1), block->getPosition());
+            _parallax->addChild(block, block->_p_uID, Vec2(1, 1), block->getPosition());
     }
 }
 

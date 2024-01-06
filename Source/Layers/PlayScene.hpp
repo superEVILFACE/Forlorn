@@ -4,7 +4,6 @@
 #include "axmol.h"
 #include <json.hpp>
 
-
 class PlayScene : public ax::Node
 {   
 public:
@@ -15,8 +14,8 @@ public:
     ax::Vec2 spawnPos = { 0,0 };
     ax::Label* tempStatusLabel = nullptr;
 
-    ax::ParallaxNode* parallax;
-    ax::Sprite* bg;
+    ax::ParallaxNode* _parallax;
+    ax::Sprite* _bg;
 
     static PlayScene* create(std::string_view levelFileName);
 
@@ -26,6 +25,11 @@ public:
     bool initWithFile(std::string_view levelFileName);
     void initialLoading(std::string_view levelFileName);
     void readPlist(const json::Value& level);
+
+    //debug
+    void drawImgui();
+    void setBlockLabelsVisible(bool on);
+
     
 
 
