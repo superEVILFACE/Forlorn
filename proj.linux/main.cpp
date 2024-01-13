@@ -22,7 +22,7 @@
  THE SOFTWARE.
  ****************************************************************************/
 
-#include "forlorn.h"
+#include "AppDelegate.hpp"
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
